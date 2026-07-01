@@ -1,0 +1,45 @@
+PokerStars Hand #261295198840:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/06/30 10:33:35 BRT [2026/06/30 9:33:35 ET]
+Table 'Sicilia V' 9-max Seat #7 is the button
+Seat 1: Timefalls ($10 in chips)
+Seat 4: tema4qa ($10 in chips)
+Seat 7: travis5050 ($10 in chips)
+Timefalls: posts small blind $0.05
+tema4qa: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Timefalls [4h Ks]
+travis5050: raises $0.15 to $0.25
+FrankCs71 joins the table at seat #5
+Timefalls: folds
+tema4qa: folds
+Uncalled bet ($0.15) returned to travis5050
+travis5050 collected $0.25 from pot
+travis5050: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Timefalls (small blind) folded before Flop
+Seat 4: tema4qa (big blind) folded before Flop
+Seat 7: travis5050 (button) collected ($0.25)
+
+PokerStars Hand #261295201849:  Hold'em No Limit ($0.05/$0.10 USD) - 2026/06/30 10:34:02 BRT [2026/06/30 9:34:02 ET]
+Table 'Sicilia V' 9-max Seat #1 is the button
+Seat 1: Timefalls ($9.95 in chips)
+Seat 4: tema4qa ($10 in chips)
+Seat 5: FrankCs71 ($8 in chips)
+Seat 7: travis5050 ($10.15 in chips)
+tema4qa: posts small blind $0.05
+FrankCs71: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Timefalls [6d 8h]
+travis5050: folds
+Timefalls: raises $0.20 to $0.30
+tema4qa: folds
+FrankCs71: folds
+Uncalled bet ($0.20) returned to Timefalls
+Timefalls collected $0.25 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0
+Seat 1: Timefalls (button) collected ($0.25)
+Seat 4: tema4qa (small blind) folded before Flop
+Seat 5: FrankCs71 (big blind) folded before Flop
+Seat 7: travis5050 folded before Flop (didn't bet)

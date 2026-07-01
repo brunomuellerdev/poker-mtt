@@ -1,0 +1,28 @@
+PokerStars Hand #261296944282: Tournament #4012517499, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/06/30 14:21:33 BRT [2026/06/30 13:21:33 ET]
+Table '4012517499 1' 3-max Seat #1 is the button
+Seat 1: drfranzese (500 in chips) is sitting out
+Seat 2: Yllinhooo (500 in chips)
+Seat 3: Timefalls (500 in chips)
+Yllinhooo: posts small blind 10
+Timefalls: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Timefalls [Qc 8c]
+drfranzese: folds
+drfranzese has returned
+Yllinhooo: raises 20 to 40
+Timefalls: raises 460 to 500 and is all-in
+Yllinhooo: calls 460 and is all-in
+*** FLOP *** [8s Kc Jd]
+*** TURN *** [8s Kc Jd] [7c]
+*** RIVER *** [8s Kc Jd 7c] [Js]
+*** SHOW DOWN ***
+Yllinhooo: shows [7d 7h] (a full house, Sevens full of Jacks)
+Timefalls: shows [Qc 8c] (two pair, Jacks and Eights)
+Yllinhooo collected 1000 from pot
+Timefalls finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [8s Kc Jd 7c Js]
+Seat 1: drfranzese (button) folded before Flop (didn't bet)
+Seat 2: Yllinhooo (small blind) showed [7d 7h] and won (1000) with a full house, Sevens full of Jacks
+Seat 3: Timefalls (big blind) showed [Qc 8c] and lost with two pair, Jacks and Eights

@@ -1,0 +1,411 @@
+PokerStars Hand #261297292075: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:00:00 BRT [2026/06/30 14:00:00 ET]
+Table '4010772241 1' 8-max Seat #1 is the button
+Seat 1: dkräuter (5000 in chips)
+Seat 2: 00gap00 (5000 in chips)
+Seat 3: JoaquinOmito (5000 in chips)
+Seat 4: pole_sh3nl0ng (5000 in chips)
+Seat 5: festmark (5000 in chips)
+Seat 6: Timefalls (5000 in chips)
+Seat 7: lender222 (5000 in chips)
+Seat 8: Jay1540 (5000 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+festmark: posts the ante 6
+Timefalls: posts the ante 6
+lender222: posts the ante 6
+Jay1540: posts the ante 6
+00gap00: posts small blind 25
+JoaquinOmito: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Qs 3h]
+pole_sh3nl0ng has timed out
+pole_sh3nl0ng: folds
+pole_sh3nl0ng is sitting out
+festmark: folds
+Timefalls: folds
+lender222: folds
+Jay1540: folds
+dkräuter: folds
+00gap00: folds
+Uncalled bet (25) returned to JoaquinOmito
+JoaquinOmito collected 98 from pot
+JoaquinOmito: doesn't show hand
+*** SUMMARY ***
+Total pot 98 | Rake 0
+Seat 1: dkräuter (button) folded before Flop (didn't bet)
+Seat 2: 00gap00 (small blind) folded before Flop
+Seat 3: JoaquinOmito (big blind) collected (98)
+Seat 4: pole_sh3nl0ng folded before Flop (didn't bet)
+Seat 5: festmark folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: lender222 folded before Flop (didn't bet)
+Seat 8: Jay1540 folded before Flop (didn't bet)
+
+PokerStars Hand #261297301616: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:01:12 BRT [2026/06/30 14:01:12 ET]
+Table '4010772241 1' 8-max Seat #2 is the button
+Seat 1: dkräuter (4994 in chips)
+Seat 2: 00gap00 (4969 in chips)
+Seat 3: JoaquinOmito (5067 in chips)
+Seat 4: pole_sh3nl0ng (4994 in chips) is sitting out
+Seat 5: festmark (4994 in chips)
+Seat 6: Timefalls (4994 in chips)
+Seat 8: Jay1540 (4994 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+festmark: posts the ante 6
+Timefalls: posts the ante 6
+Jay1540: posts the ante 6
+JoaquinOmito: posts small blind 25
+pole_sh3nl0ng: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [2h Kh]
+pole_sh3nl0ng has returned
+festmark: folds
+Timefalls: folds
+Jay1540: folds
+dkräuter: raises 50 to 100
+00gap00: folds
+JoaquinOmito: folds
+pole_sh3nl0ng: calls 50
+*** FLOP *** [7s Jd Qh]
+GIGABYTE52 is disconnected
+pole_sh3nl0ng: checks
+dkräuter: bets 88
+pole_sh3nl0ng: folds
+Uncalled bet (88) returned to dkräuter
+dkräuter collected 267 from pot
+dkräuter: doesn't show hand
+*** SUMMARY ***
+Total pot 267 | Rake 0
+Board [7s Jd Qh]
+Seat 1: dkräuter collected (267)
+Seat 2: 00gap00 (button) folded before Flop (didn't bet)
+Seat 3: JoaquinOmito (small blind) folded before Flop
+Seat 4: pole_sh3nl0ng (big blind) folded on the Flop
+Seat 5: festmark folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 8: Jay1540 folded before Flop (didn't bet)
+
+PokerStars Hand #261297314175: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:02:32 BRT [2026/06/30 14:02:32 ET]
+Table '4010772241 1' 8-max Seat #3 is the button
+Seat 1: dkräuter (5155 in chips)
+Seat 2: 00gap00 (4963 in chips)
+Seat 3: JoaquinOmito (5036 in chips)
+Seat 4: pole_sh3nl0ng (4888 in chips)
+Seat 6: Timefalls (4988 in chips)
+Seat 7: GIGABYTE52 (5000 in chips)
+Seat 8: Jay1540 (4988 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+pole_sh3nl0ng: posts small blind 25
+Timefalls: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Ah Kc]
+GIGABYTE52: folds
+Jay1540: folds
+dkräuter: raises 50 to 100
+00gap00: folds
+JoaquinOmito: folds
+pole_sh3nl0ng: raises 350 to 450
+Timefalls: calls 400
+dkräuter: folds
+*** FLOP *** [2d Qc 6d]
+pole_sh3nl0ng: checks
+Timefalls: bets 521
+pole_sh3nl0ng: raises 521 to 1042
+Timefalls: calls 521
+*** TURN *** [2d Qc 6d] [Qd]
+pole_sh3nl0ng: bets 3390 and is all-in
+Timefalls: folds
+Uncalled bet (3390) returned to pole_sh3nl0ng
+pole_sh3nl0ng collected 3126 from pot
+pole_sh3nl0ng: doesn't show hand
+*** SUMMARY ***
+Total pot 3126 | Rake 0
+Board [2d Qc 6d Qd]
+Seat 1: dkräuter folded before Flop
+Seat 2: 00gap00 folded before Flop (didn't bet)
+Seat 3: JoaquinOmito (button) folded before Flop (didn't bet)
+Seat 4: pole_sh3nl0ng (small blind) collected (3126)
+Seat 6: Timefalls (big blind) folded on the Turn
+Seat 7: GIGABYTE52 folded before Flop (didn't bet)
+Seat 8: Jay1540 folded before Flop (didn't bet)
+
+PokerStars Hand #261297329617: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:04:05 BRT [2026/06/30 14:04:05 ET]
+Table '4010772241 1' 8-max Seat #4 is the button
+Seat 1: dkräuter (5049 in chips)
+Seat 2: 00gap00 (4957 in chips)
+Seat 3: JoaquinOmito (5030 in chips)
+Seat 4: pole_sh3nl0ng (6516 in chips)
+Seat 6: Timefalls (3490 in chips)
+Seat 7: GIGABYTE52 (4994 in chips)
+Seat 8: Jay1540 (4982 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+Timefalls: posts small blind 25
+GIGABYTE52: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [6d 8h]
+Jay1540: folds
+dkräuter: folds
+00gap00: folds
+JoaquinOmito: folds
+pole_sh3nl0ng: folds
+Timefalls: folds
+Uncalled bet (25) returned to GIGABYTE52
+GIGABYTE52 collected 92 from pot
+GIGABYTE52: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: dkräuter folded before Flop (didn't bet)
+Seat 2: 00gap00 folded before Flop (didn't bet)
+Seat 3: JoaquinOmito folded before Flop (didn't bet)
+Seat 4: pole_sh3nl0ng (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: GIGABYTE52 (big blind) collected (92)
+Seat 8: Jay1540 folded before Flop (didn't bet)
+
+PokerStars Hand #261297334146: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:04:32 BRT [2026/06/30 14:04:32 ET]
+Table '4010772241 1' 8-max Seat #6 is the button
+Seat 1: dkräuter (5043 in chips)
+Seat 2: 00gap00 (4951 in chips)
+Seat 3: JoaquinOmito (5024 in chips)
+Seat 4: pole_sh3nl0ng (6510 in chips)
+Seat 6: Timefalls (3459 in chips)
+Seat 7: GIGABYTE52 (5055 in chips)
+Seat 8: Jay1540 (4976 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+GIGABYTE52: posts small blind 25
+Jay1540: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [6h Qs]
+dkräuter: folds
+00gap00: folds
+JoaquinOmito: raises 50 to 100
+pole_sh3nl0ng: raises 200 to 300
+Timefalls: folds
+GIGABYTE52: folds
+Jay1540: folds
+JoaquinOmito: calls 200
+*** FLOP *** [As 2c Jd]
+JoaquinOmito: checks
+dkräuter is sitting out
+pole_sh3nl0ng: checks
+*** TURN *** [As 2c Jd] [2s]
+JoaquinOmito: checks
+pole_sh3nl0ng: checks
+*** RIVER *** [As 2c Jd 2s] [7s]
+JoaquinOmito: checks
+pole_sh3nl0ng: checks
+*** SHOW DOWN ***
+JoaquinOmito: shows [Qc 9c] (a pair of Deuces)
+pole_sh3nl0ng: shows [Qh Jh] (two pair, Jacks and Deuces)
+pole_sh3nl0ng collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | Rake 0
+Board [As 2c Jd 2s 7s]
+Seat 1: dkräuter folded before Flop (didn't bet)
+Seat 2: 00gap00 folded before Flop (didn't bet)
+Seat 3: JoaquinOmito showed [Qc 9c] and lost with a pair of Deuces
+Seat 4: pole_sh3nl0ng showed [Qh Jh] and won (717) with two pair, Jacks and Deuces
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: GIGABYTE52 (small blind) folded before Flop
+Seat 8: Jay1540 (big blind) folded before Flop
+
+PokerStars Hand #261297348174: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:05:56 BRT [2026/06/30 14:05:56 ET]
+Table '4010772241 1' 8-max Seat #7 is the button
+Seat 1: dkräuter (5037 in chips) is sitting out
+Seat 2: 00gap00 (4945 in chips)
+Seat 3: JoaquinOmito (4718 in chips)
+Seat 4: pole_sh3nl0ng (6921 in chips)
+Seat 6: Timefalls (3453 in chips)
+Seat 7: GIGABYTE52 (5024 in chips)
+Seat 8: Jay1540 (4920 in chips)
+dkräuter: posts the ante 6
+00gap00: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+Jay1540: posts small blind 25
+dkräuter: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [8d 6h]
+00gap00: folds
+JoaquinOmito: folds
+CORlNGA67 is disconnected
+pole_sh3nl0ng: folds
+Timefalls: folds
+GIGABYTE52: folds
+Jay1540: folds
+Uncalled bet (25) returned to dkräuter
+dkräuter collected 92 from pot
+dkräuter: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: dkräuter (big blind) collected (92)
+Seat 2: 00gap00 folded before Flop (didn't bet)
+Seat 3: JoaquinOmito folded before Flop (didn't bet)
+Seat 4: pole_sh3nl0ng folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: GIGABYTE52 (button) folded before Flop (didn't bet)
+Seat 8: Jay1540 (small blind) folded before Flop
+
+PokerStars Hand #261297352421: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:06:22 BRT [2026/06/30 14:06:22 ET]
+Table '4010772241 1' 8-max Seat #8 is the button
+Seat 1: dkräuter (5098 in chips) is sitting out
+Seat 3: JoaquinOmito (4712 in chips)
+Seat 4: pole_sh3nl0ng (6915 in chips)
+Seat 5: CORlNGA67 (5000 in chips)
+Seat 6: Timefalls (3447 in chips)
+Seat 7: GIGABYTE52 (5018 in chips)
+Seat 8: Jay1540 (4889 in chips)
+dkräuter: posts the ante 6
+JoaquinOmito: posts the ante 6
+pole_sh3nl0ng: posts the ante 6
+CORlNGA67: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+dkräuter: posts small blind 25
+JoaquinOmito: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [3h 4d]
+pole_sh3nl0ng: folds
+CORlNGA67: folds
+Timefalls: folds
+GIGABYTE52: folds
+Jay1540: folds
+dkräuter: folds
+Uncalled bet (25) returned to JoaquinOmito
+JoaquinOmito collected 92 from pot
+JoaquinOmito: doesn't show hand
+*** SUMMARY ***
+Total pot 92 | Rake 0
+Seat 1: dkräuter (small blind) folded before Flop
+Seat 3: JoaquinOmito (big blind) collected (92)
+Seat 4: pole_sh3nl0ng folded before Flop (didn't bet)
+Seat 5: CORlNGA67 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: GIGABYTE52 folded before Flop (didn't bet)
+Seat 8: Jay1540 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261297354716: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:06:36 BRT [2026/06/30 14:06:36 ET]
+Table '4010772241 1' 8-max Seat #1 is the button
+Seat 1: dkräuter (5067 in chips) is sitting out
+Seat 3: JoaquinOmito (4773 in chips)
+Seat 5: CORlNGA67 (4994 in chips)
+Seat 6: Timefalls (3441 in chips)
+Seat 7: GIGABYTE52 (5012 in chips)
+Seat 8: Jay1540 (4883 in chips)
+dkräuter: posts the ante 6
+JoaquinOmito: posts the ante 6
+CORlNGA67: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+JoaquinOmito: posts small blind 25
+CORlNGA67: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Ks Ac]
+Timefalls: raises 50 to 100
+GIGABYTE52: raises 311 to 411
+Munhadedali is disconnected
+Jay1540: folds
+dkräuter: folds
+JoaquinOmito: folds
+CORlNGA67: folds
+Timefalls: raises 3024 to 3435 and is all-in
+GIGABYTE52: folds
+Uncalled bet (3024) returned to Timefalls
+Timefalls collected 933 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 933 | Rake 0
+Seat 1: dkräuter (button) folded before Flop (didn't bet)
+Seat 3: JoaquinOmito (small blind) folded before Flop
+Seat 5: CORlNGA67 (big blind) folded before Flop
+Seat 6: Timefalls collected (933)
+Seat 7: GIGABYTE52 folded before Flop
+Seat 8: Jay1540 folded before Flop (didn't bet)
+
+PokerStars Hand #261297362381: Tournament #4010772241, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 15:07:22 BRT [2026/06/30 14:07:22 ET]
+Table '4010772241 1' 8-max Seat #3 is the button
+Seat 1: dkräuter (5061 in chips) is sitting out
+Seat 2: Munhadedali (4830 in chips)
+Seat 3: JoaquinOmito (4742 in chips)
+Seat 5: CORlNGA67 (4938 in chips)
+Seat 6: Timefalls (3957 in chips)
+Seat 7: GIGABYTE52 (4595 in chips)
+Seat 8: Jay1540 (4877 in chips)
+dkräuter: posts the ante 6
+Munhadedali: posts the ante 6
+JoaquinOmito: posts the ante 6
+CORlNGA67: posts the ante 6
+Timefalls: posts the ante 6
+GIGABYTE52: posts the ante 6
+Jay1540: posts the ante 6
+CORlNGA67: posts small blind 25
+Timefalls: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Kh Kc]
+GIGABYTE52: folds
+dkräuter has returned
+Jay1540: calls 50
+dkräuter: folds
+Munhadedali: folds
+1sT.NexTee is disconnected
+JoaquinOmito: calls 50
+CORlNGA67: calls 25
+Timefalls: raises 250 to 300
+Jay1540: calls 250
+JoaquinOmito: calls 250
+CORlNGA67: folds
+*** FLOP *** [2d 6s 9d]
+Timefalls: bets 400
+Jay1540: raises 450 to 850
+JoaquinOmito: calls 850
+Timefalls: raises 2801 to 3651 and is all-in
+Jay1540: calls 2801
+JoaquinOmito: raises 785 to 4436 and is all-in
+Jay1540: calls 785
+*** TURN *** [2d 6s 9d] [5s]
+*** RIVER *** [2d 6s 9d 5s] [8d]
+*** SHOW DOWN ***
+Jay1540: shows [9c Js] (a pair of Nines)
+JoaquinOmito: shows [6h 6c] (three of a kind, Sixes)
+JoaquinOmito collected 1570 from side pot
+Timefalls: shows [Kh Kc] (a pair of Kings)
+JoaquinOmito collected 11945 from main pot
+Timefalls finished the tournament
+*** SUMMARY ***
+Total pot 13515 Main pot 11945. Side pot 1570. | Rake 0
+Board [2d 6s 9d 5s 8d]
+Seat 1: dkräuter folded before Flop (didn't bet)
+Seat 2: Munhadedali folded before Flop (didn't bet)
+Seat 3: JoaquinOmito (button) showed [6h 6c] and won (13515) with three of a kind, Sixes
+Seat 5: CORlNGA67 (small blind) folded before Flop
+Seat 6: Timefalls (big blind) showed [Kh Kc] and lost with a pair of Kings
+Seat 7: GIGABYTE52 folded before Flop (didn't bet)
+Seat 8: Jay1540 showed [9c Js] and lost with a pair of Nines

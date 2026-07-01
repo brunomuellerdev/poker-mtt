@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: poker-mtt
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    # health check so Render knows the service is up
+    healthCheckPath: /health
+    envVars:
+      # Neon connection string. Set in the Render dashboard (do NOT commit).
+      # Must use the SQLAlchemy psycopg driver + SSL, e.g.:
+      #   postgresql+psycopg://USER:PASSWORD@HOST/DB?sslmode=require
+      - key: DATABASE_URL
+        sync: false
+      # Strong random secret. Generate once; set in the dashboard.
+      - key: JWT_SECRET
+        sync: false
+      # Production flags
+      - key: DEBUG
+        value: "false"
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: PYTHON_VERSION
+        value: "3.12"

@@ -1,0 +1,1942 @@
+PokerStars Hand #261296509572: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:30:00 BRT [2026/06/30 12:30:00 ET]
+Table '4010773551 47' 8-max Seat #1 is the button
+Seat 1: mousit (25000 in chips, $2.45 bounty)
+Seat 2: gruz777wer (25000 in chips, $2.45 bounty)
+Seat 3: BillW453 (25000 in chips, $2.45 bounty)
+Seat 4: salvedom (25000 in chips, $2.45 bounty)
+Seat 5: uncledibdib (25000 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (25000 in chips, $2.45 bounty)
+Seat 7: Chicken307 (25000 in chips, $2.45 bounty)
+Seat 8: Timefalls (25000 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+gruz777wer: posts small blind 100
+BillW453: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Qd Ad]
+salvedom: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: raises 260 to 460
+mousit: folds
+gruz777wer: folds
+BillW453: folds
+Uncalled bet (260) returned to Timefalls
+Timefalls collected 700 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 700 | Rake 0
+Seat 1: mousit (button) folded before Flop (didn't bet)
+Seat 2: gruz777wer (small blind) folded before Flop
+Seat 3: BillW453 (big blind) folded before Flop
+Seat 4: salvedom folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls collected (700)
+
+PokerStars Hand #261296524896: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:31:48 BRT [2026/06/30 12:31:48 ET]
+Table '4010773551 47' 8-max Seat #2 is the button
+Seat 1: mousit (24975 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24875 in chips, $2.45 bounty)
+Seat 3: BillW453 (24775 in chips, $2.45 bounty)
+Seat 4: salvedom (24975 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24975 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (24975 in chips, $2.45 bounty)
+Seat 7: Chicken307 (24975 in chips, $2.45 bounty)
+Seat 8: Timefalls (25475 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+BillW453: posts small blind 100
+salvedom: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [6d 5s]
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 200 to 400
+BillW453: calls 300
+salvedom: folds
+*** FLOP *** [7h 3d Td]
+BillW453: checks
+gruz777wer: bets 396
+BillW453: calls 396
+*** TURN *** [7h 3d Td] [6h]
+BillW453: bets 200
+gruz777wer: raises 1674 to 1874
+BillW453: folds
+Uncalled bet (1674) returned to gruz777wer
+gruz777wer collected 2392 from pot
+gruz777wer: doesn't show hand
+*** SUMMARY ***
+Total pot 2392 | Rake 0
+Board [7h 3d Td 6h]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer (button) collected (2392)
+Seat 3: BillW453 (small blind) folded on the Turn
+Seat 4: salvedom (big blind) folded before Flop
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296536851: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:33:12 BRT [2026/06/30 12:33:12 ET]
+Table '4010773551 47' 8-max Seat #3 is the button
+Seat 1: mousit (24950 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26246 in chips, $2.45 bounty)
+Seat 3: BillW453 (23754 in chips, $2.45 bounty)
+Seat 4: salvedom (24750 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24950 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (24950 in chips, $2.45 bounty)
+Seat 7: Chicken307 (24950 in chips, $2.45 bounty)
+Seat 8: Timefalls (25450 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+salvedom: posts small blind 100
+uncledibdib: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [8d 3h]
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: raises 200 to 400
+gruz777wer: folds
+BillW453: folds
+salvedom: folds
+uncledibdib: calls 200
+*** FLOP *** [8h 2h Ad]
+uncledibdib: checks
+mousit: bets 400
+uncledibdib: folds
+Uncalled bet (400) returned to mousit
+mousit collected 1100 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 1100 | Rake 0
+Board [8h 2h Ad]
+Seat 1: mousit collected (1100)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 (button) folded before Flop (didn't bet)
+Seat 4: salvedom (small blind) folded before Flop
+Seat 5: uncledibdib (big blind) folded on the Flop
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296542112: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:33:48 BRT [2026/06/30 12:33:48 ET]
+Table '4010773551 47' 8-max Seat #4 is the button
+Seat 1: mousit (25625 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26221 in chips, $2.45 bounty)
+Seat 3: BillW453 (23729 in chips, $2.45 bounty)
+Seat 4: salvedom (24625 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24525 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (24925 in chips, $2.45 bounty)
+Seat 7: Chicken307 (24925 in chips, $2.45 bounty)
+Seat 8: Timefalls (25425 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+uncledibdib: posts small blind 100
+Matematu4ka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [7d Qc]
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+BillW453: folds
+salvedom: raises 200 to 400
+uncledibdib: folds
+Matematu4ka: calls 200
+*** FLOP *** [Qd 8s 2d]
+Matematu4ka: checks
+salvedom: bets 363
+Matematu4ka: folds
+Uncalled bet (363) returned to salvedom
+salvedom collected 1100 from pot
+salvedom: doesn't show hand
+*** SUMMARY ***
+Total pot 1100 | Rake 0
+Board [Qd 8s 2d]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: salvedom (button) collected (1100)
+Seat 5: uncledibdib (small blind) folded before Flop
+Seat 6: Matematu4ka (big blind) folded on the Flop
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296547947: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:34:28 BRT [2026/06/30 12:34:28 ET]
+Table '4010773551 47' 8-max Seat #5 is the button
+Seat 1: mousit (25600 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26196 in chips, $2.45 bounty)
+Seat 3: BillW453 (23704 in chips, $2.45 bounty)
+Seat 4: salvedom (25300 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24400 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (24500 in chips, $2.45 bounty)
+Seat 7: Chicken307 (24900 in chips, $2.45 bounty)
+Seat 8: Timefalls (25400 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+Matematu4ka: posts small blind 100
+Chicken307: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [3h 6c]
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+BillW453: folds
+salvedom: folds
+uncledibdib: folds
+Matematu4ka: calls 100
+Chicken307: raises 400 to 600
+Matematu4ka: calls 400
+*** FLOP *** [5s 8c 9d]
+Matematu4ka: checks
+Chicken307: bets 700
+Matematu4ka: calls 700
+*** TURN *** [5s 8c 9d] [Td]
+Matematu4ka: checks
+Chicken307: checks
+*** RIVER *** [5s 8c 9d Td] [2s]
+Matematu4ka: checks
+Chicken307: bets 1400
+Matematu4ka: calls 1400
+*** SHOW DOWN ***
+Chicken307: shows [9h Ah] (a pair of Nines)
+Matematu4ka: mucks hand
+Chicken307 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0
+Board [5s 8c 9d Td 2s]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: salvedom folded before Flop (didn't bet)
+Seat 5: uncledibdib (button) folded before Flop (didn't bet)
+Seat 6: Matematu4ka (small blind) mucked [6h 8d]
+Seat 7: Chicken307 (big blind) showed [9h Ah] and won (5600) with a pair of Nines
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296561424: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:36:01 BRT [2026/06/30 12:36:01 ET]
+Table '4010773551 47' 8-max Seat #6 is the button
+Seat 1: mousit (25575 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26171 in chips, $2.45 bounty)
+Seat 3: BillW453 (23679 in chips, $2.45 bounty)
+Seat 4: salvedom (25275 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24375 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (21775 in chips, $2.45 bounty)
+Seat 7: Chicken307 (27775 in chips, $2.45 bounty)
+Seat 8: Timefalls (25375 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+Chicken307: posts small blind 100
+Timefalls: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [5s 8h]
+mousit: folds
+gruz777wer: folds
+BillW453: calls 200
+salvedom: calls 200
+uncledibdib: calls 200
+Matematu4ka: raises 1200 to 1400
+Chicken307: folds
+Timefalls: folds
+BillW453: folds
+salvedom: calls 1200
+uncledibdib: folds
+*** FLOP *** [Jc 6s Kd]
+salvedom: checks
+Matematu4ka: bets 1221
+salvedom: calls 1221
+*** TURN *** [Jc 6s Kd] [7s]
+salvedom: checks
+Matematu4ka: bets 9600
+salvedom: raises 13029 to 22629 and is all-in
+Matematu4ka: calls 9529 and is all-in
+Uncalled bet (3500) returned to salvedom
+*** RIVER *** [Jc 6s Kd 7s] [5c]
+*** SHOW DOWN ***
+salvedom: shows [6c 7c] (two pair, Sevens and Sixes)
+Matematu4ka: shows [7d 7h] (three of a kind, Sevens)
+Matematu4ka collected 44400 from pot
+*** SUMMARY ***
+Total pot 44400 | Rake 0
+Board [Jc 6s Kd 7s 5c]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded before Flop
+Seat 4: salvedom showed [6c 7c] and lost with two pair, Sevens and Sixes
+Seat 5: uncledibdib folded before Flop
+Seat 6: Matematu4ka (button) showed [7d 7h] and won (44400) with three of a kind, Sevens
+Seat 7: Chicken307 (small blind) folded before Flop
+Seat 8: Timefalls (big blind) folded before Flop
+
+PokerStars Hand #261296576509: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2026/06/30 13:37:45 BRT [2026/06/30 12:37:45 ET]
+Table '4010773551 47' 8-max Seat #7 is the button
+Seat 1: mousit (25550 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26146 in chips, $2.45 bounty)
+Seat 3: BillW453 (23454 in chips, $2.45 bounty)
+Seat 4: salvedom (3500 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24150 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (44400 in chips, $2.45 bounty)
+Seat 7: Chicken307 (27650 in chips, $2.45 bounty)
+Seat 8: Timefalls (25150 in chips, $2.45 bounty)
+mousit: posts the ante 25
+gruz777wer: posts the ante 25
+BillW453: posts the ante 25
+salvedom: posts the ante 25
+uncledibdib: posts the ante 25
+Matematu4ka: posts the ante 25
+Chicken307: posts the ante 25
+Timefalls: posts the ante 25
+Timefalls: posts small blind 100
+mousit: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Th Kc]
+gruz777wer: folds
+BillW453: folds
+salvedom: raises 3275 to 3475 and is all-in
+uncledibdib: raises 20650 to 24125 and is all-in
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+Uncalled bet (20650) returned to uncledibdib
+*** FLOP *** [Td 3h 8s]
+*** TURN *** [Td 3h 8s] [7s]
+*** RIVER *** [Td 3h 8s 7s] [Kd]
+*** SHOW DOWN ***
+salvedom: shows [As Qd] (high card Ace)
+uncledibdib: shows [5h 5d] (a pair of Fives)
+uncledibdib collected 7450 from pot
+salvedom is sitting out
+uncledibdib wins $1.23 for eliminating salvedom and their own bounty increases by $1.22 to $3.67
+salvedom finished the tournament
+*** SUMMARY ***
+Total pot 7450 | Rake 0
+Board [Td 3h 8s 7s Kd]
+Seat 1: mousit (big blind) folded before Flop
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: salvedom showed [As Qd] and lost with high card Ace
+Seat 5: uncledibdib showed [5h 5d] and won (7450) with a pair of Fives
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 (button) folded before Flop (didn't bet)
+Seat 8: Timefalls (small blind) folded before Flop
+
+PokerStars Hand #261296582731: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:38:28 BRT [2026/06/30 12:38:28 ET]
+Table '4010773551 47' 8-max Seat #8 is the button
+Seat 1: mousit (25325 in chips, $2.45 bounty)
+Seat 2: gruz777wer (26121 in chips, $2.45 bounty)
+Seat 3: BillW453 (23429 in chips, $2.45 bounty)
+Seat 5: uncledibdib (28100 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (44375 in chips, $2.45 bounty)
+Seat 7: Chicken307 (27625 in chips, $2.45 bounty)
+Seat 8: Timefalls (25025 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+mousit: posts small blind 125
+gruz777wer: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Js Kd]
+BillW453: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: raises 250 to 500
+Timefalls: calls 500
+mousit: calls 375
+gruz777wer: folds
+*** FLOP *** [Th 8h Jd]
+mousit: checks
+Chicken307: bets 980
+Timefalls: calls 980
+mousit: raises 2520 to 3500
+Chicken307: folds
+Timefalls: folds
+Uncalled bet (2520) returned to mousit
+mousit collected 4900 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 4900 | Rake 0
+Board [Th 8h Jd]
+Seat 1: mousit (small blind) collected (4900)
+Seat 2: gruz777wer (big blind) folded before Flop
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded on the Flop
+Seat 8: Timefalls (button) folded on the Flop
+
+PokerStars Hand #261296602855: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:40:46 BRT [2026/06/30 12:40:46 ET]
+Table '4010773551 47' 8-max Seat #1 is the button
+Seat 1: mousit (28715 in chips, $2.45 bounty)
+Seat 2: gruz777wer (25841 in chips, $2.45 bounty)
+Seat 3: BillW453 (23399 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25000 in chips, $2.45 bounty)
+Seat 5: uncledibdib (28070 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (44345 in chips, $2.45 bounty)
+Seat 7: Chicken307 (26115 in chips, $2.45 bounty)
+Seat 8: Timefalls (23515 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+gruz777wer: posts small blind 125
+BillW453: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [7h 3c]
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: raises 250 to 500
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+BillW453: folds
+Uncalled bet (250) returned to Chicken307
+Chicken307 collected 865 from pot
+Chicken307: doesn't show hand
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Seat 1: mousit (button) folded before Flop (didn't bet)
+Seat 2: gruz777wer (small blind) folded before Flop
+Seat 3: BillW453 (big blind) folded before Flop
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 collected (865)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296610167: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:41:36 BRT [2026/06/30 12:41:36 ET]
+Table '4010773551 47' 8-max Seat #2 is the button
+Seat 1: mousit (28685 in chips, $2.45 bounty)
+Seat 2: gruz777wer (25686 in chips, $2.45 bounty)
+Seat 3: BillW453 (23119 in chips, $2.45 bounty)
+Seat 4: StopThis32 (24970 in chips, $2.45 bounty)
+Seat 5: uncledibdib (28040 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (44315 in chips, $2.45 bounty)
+Seat 7: Chicken307 (26700 in chips, $2.45 bounty)
+Seat 8: Timefalls (23485 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+BillW453: posts small blind 125
+StopThis32: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Td 4h]
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 250 to 500
+BillW453: folds
+StopThis32: raises 24440 to 24940 and is all-in
+gruz777wer: folds
+Uncalled bet (24440) returned to StopThis32
+StopThis32 collected 1365 from pot
+StopThis32: doesn't show hand
+*** SUMMARY ***
+Total pot 1365 | Rake 0
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer (button) folded before Flop
+Seat 3: BillW453 (small blind) folded before Flop
+Seat 4: StopThis32 (big blind) collected (1365)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296613916: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:42:02 BRT [2026/06/30 12:42:02 ET]
+Table '4010773551 47' 8-max Seat #3 is the button
+Seat 1: mousit (28655 in chips, $2.45 bounty)
+Seat 2: gruz777wer (25156 in chips, $2.45 bounty)
+Seat 3: BillW453 (22964 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25805 in chips, $2.45 bounty)
+Seat 5: uncledibdib (28010 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (44285 in chips, $2.45 bounty)
+Seat 7: Chicken307 (26670 in chips, $2.45 bounty)
+Seat 8: Timefalls (23455 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+StopThis32: posts small blind 125
+uncledibdib: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Qd 7d]
+Matematu4ka: raises 250 to 500
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+BillW453: calls 500
+StopThis32: folds
+uncledibdib: folds
+*** FLOP *** [8h 2s 8c]
+Matematu4ka: bets 404
+BillW453: calls 404
+*** TURN *** [8h 2s 8c] [2d]
+Matematu4ka: checks
+BillW453: bets 1212
+Matematu4ka: calls 1212
+*** RIVER *** [8h 2s 8c 2d] [5h]
+Matematu4ka: checks
+BillW453: checks
+*** SHOW DOWN ***
+Matematu4ka: shows [4d 4s] (two pair, Eights and Fours)
+BillW453: mucks hand
+Matematu4ka collected 4847 from pot
+*** SUMMARY ***
+Total pot 4847 | Rake 0
+Board [8h 2s 8c 2d 5h]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 (button) mucked [3h 3c]
+Seat 4: StopThis32 (small blind) folded before Flop
+Seat 5: uncledibdib (big blind) folded before Flop
+Seat 6: Matematu4ka showed [4d 4s] and won (4847) with two pair, Eights and Fours
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296622608: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:43:01 BRT [2026/06/30 12:43:01 ET]
+Table '4010773551 47' 8-max Seat #4 is the button
+Seat 1: mousit (28625 in chips, $2.45 bounty)
+Seat 2: gruz777wer (25126 in chips, $2.45 bounty)
+Seat 3: BillW453 (20818 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25650 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27730 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46986 in chips, $2.45 bounty)
+Seat 7: Chicken307 (26640 in chips, $2.45 bounty)
+Seat 8: Timefalls (23425 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+uncledibdib: posts small blind 125
+Matematu4ka: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [7d 3s]
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 250 to 500
+BillW453: raises 1615 to 2115
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: folds
+gruz777wer: folds
+Uncalled bet (1615) returned to BillW453
+BillW453 collected 1615 from pot
+BillW453: doesn't show hand
+*** SUMMARY ***
+Total pot 1615 | Rake 0
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop
+Seat 3: BillW453 collected (1615)
+Seat 4: StopThis32 (button) folded before Flop (didn't bet)
+Seat 5: uncledibdib (small blind) folded before Flop
+Seat 6: Matematu4ka (big blind) folded before Flop
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296630932: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:43:58 BRT [2026/06/30 12:43:58 ET]
+Table '4010773551 47' 8-max Seat #5 is the button
+Seat 1: mousit (28595 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24596 in chips, $2.45 bounty)
+Seat 3: BillW453 (21903 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25620 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27575 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46706 in chips, $2.45 bounty)
+Seat 7: Chicken307 (26610 in chips, $2.45 bounty)
+Seat 8: Timefalls (23395 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+Matematu4ka: posts small blind 125
+Chicken307: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Ad 3c]
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 250 to 500
+BillW453: folds
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: raises 750 to 1250
+gruz777wer: calls 750
+*** FLOP *** [5c 8h Qs]
+Chicken307: bets 759
+gruz777wer: folds
+Uncalled bet (759) returned to Chicken307
+Chicken307 collected 2865 from pot
+Chicken307: doesn't show hand
+*** SUMMARY ***
+Total pot 2865 | Rake 0
+Board [5c 8h Qs]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded on the Flop
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib (button) folded before Flop (didn't bet)
+Seat 6: Matematu4ka (small blind) folded before Flop
+Seat 7: Chicken307 (big blind) collected (2865)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296638484: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:44:50 BRT [2026/06/30 12:44:50 ET]
+Table '4010773551 47' 8-max Seat #6 is the button
+Seat 1: mousit (28565 in chips, $2.45 bounty)
+Seat 2: gruz777wer (23316 in chips, $2.45 bounty)
+Seat 3: BillW453 (21873 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25590 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27545 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46551 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28195 in chips, $2.45 bounty)
+Seat 8: Timefalls (23365 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+Chicken307: posts small blind 125
+Timefalls: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Jc 3h]
+mousit: folds
+gruz777wer: folds
+BillW453: folds
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: raises 250 to 500
+Chicken307: folds
+Timefalls: folds
+Uncalled bet (250) returned to Matematu4ka
+Matematu4ka collected 865 from pot
+Matematu4ka: doesn't show hand
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka (button) collected (865)
+Seat 7: Chicken307 (small blind) folded before Flop
+Seat 8: Timefalls (big blind) folded before Flop
+
+PokerStars Hand #261296642640: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:45:19 BRT [2026/06/30 12:45:19 ET]
+Table '4010773551 47' 8-max Seat #7 is the button
+Seat 1: mousit (28535 in chips, $2.45 bounty)
+Seat 2: gruz777wer (23286 in chips, $2.45 bounty)
+Seat 3: BillW453 (21843 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25560 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27515 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (47136 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28040 in chips, $2.45 bounty)
+Seat 8: Timefalls (23085 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+Timefalls: posts small blind 125
+mousit: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Qh 7s]
+gruz777wer: folds
+BillW453: calls 250
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: raises 250 to 500
+Timefalls: folds
+mousit: folds
+BillW453: calls 250
+*** FLOP *** [Ks 3s Qs]
+BillW453: checks
+Chicken307: bets 558
+BillW453: folds
+Uncalled bet (558) returned to Chicken307
+Chicken307 collected 1615 from pot
+Chicken307: doesn't show hand
+*** SUMMARY ***
+Total pot 1615 | Rake 0
+Board [Ks 3s Qs]
+Seat 1: mousit (big blind) folded before Flop
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: BillW453 folded on the Flop
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 (button) collected (1615)
+Seat 8: Timefalls (small blind) folded before Flop
+
+PokerStars Hand #261296648649: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2026/06/30 13:46:00 BRT [2026/06/30 12:46:00 ET]
+Table '4010773551 47' 8-max Seat #8 is the button
+Seat 1: mousit (28255 in chips, $2.45 bounty)
+Seat 2: gruz777wer (23256 in chips, $2.45 bounty)
+Seat 3: BillW453 (21313 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25530 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27485 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (47106 in chips, $2.45 bounty)
+Seat 7: Chicken307 (29125 in chips, $2.45 bounty)
+Seat 8: Timefalls (22930 in chips, $2.45 bounty)
+mousit: posts the ante 30
+gruz777wer: posts the ante 30
+BillW453: posts the ante 30
+StopThis32: posts the ante 30
+uncledibdib: posts the ante 30
+Matematu4ka: posts the ante 30
+Chicken307: posts the ante 30
+Timefalls: posts the ante 30
+mousit: posts small blind 125
+gruz777wer: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [3h 7h]
+BillW453: folds
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: raises 250 to 500
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: calls 250
+*** FLOP *** [Ad Qh 2d]
+gruz777wer: checks
+Matematu4ka: bets 341
+gruz777wer: raises 1433 to 1774
+Matematu4ka: folds
+Uncalled bet (1433) returned to gruz777wer
+gruz777wer collected 2047 from pot
+gruz777wer: doesn't show hand
+*** SUMMARY ***
+Total pot 2047 | Rake 0
+Board [Ad Qh 2d]
+Seat 1: mousit (small blind) folded before Flop
+Seat 2: gruz777wer (big blind) collected (2047)
+Seat 3: BillW453 folded before Flop (didn't bet)
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded on the Flop
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296655886: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:46:51 BRT [2026/06/30 12:46:51 ET]
+Table '4010773551 47' 8-max Seat #1 is the button
+Seat 1: mousit (28100 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24432 in chips, $2.45 bounty)
+Seat 3: BillW453 (21283 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25500 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27455 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46235 in chips, $2.45 bounty)
+Seat 7: Chicken307 (29095 in chips, $2.45 bounty)
+Seat 8: Timefalls (22900 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+BillW453: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+gruz777wer: posts small blind 150
+BillW453: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [3h Js]
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: raises 375 to 675
+gruz777wer: folds
+BillW453: folds
+Uncalled bet (375) returned to mousit
+mousit collected 1070 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 1070 | Rake 0
+Seat 1: mousit (button) collected (1070)
+Seat 2: gruz777wer (small blind) folded before Flop
+Seat 3: BillW453 (big blind) folded before Flop
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296659893: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:47:18 BRT [2026/06/30 12:47:18 ET]
+Table '4010773551 47' 8-max Seat #2 is the button
+Seat 1: mousit (28830 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24242 in chips, $2.45 bounty)
+Seat 4: StopThis32 (25460 in chips, $2.45 bounty)
+Seat 5: uncledibdib (27415 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46195 in chips, $2.45 bounty)
+Seat 7: Chicken307 (29055 in chips, $2.45 bounty)
+Seat 8: Timefalls (22860 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+StopThis32: posts small blind 150
+uncledibdib: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [4d Ah]
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: raises 300 to 600
+gruz777wer: folds
+StopThis32: calls 450
+uncledibdib: calls 300
+*** FLOP *** [3c Qs Qd]
+StopThis32: checks
+uncledibdib: checks
+mousit: checks
+*** TURN *** [3c Qs Qd] [6d]
+StopThis32: checks
+uncledibdib: checks
+mousit: checks
+*** RIVER *** [3c Qs Qd 6d] [2s]
+StopThis32: checks
+uncledibdib: checks
+mousit: checks
+*** SHOW DOWN ***
+StopThis32: shows [6c 7c] (two pair, Queens and Sixes)
+uncledibdib: mucks hand
+mousit: mucks hand
+StopThis32 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | Rake 0
+Board [3c Qs Qd 6d 2s]
+Seat 1: mousit mucked [8h Ad]
+Seat 2: gruz777wer (button) folded before Flop (didn't bet)
+Seat 4: StopThis32 (small blind) showed [6c 7c] and won (2080) with two pair, Queens and Sixes
+Seat 5: uncledibdib (big blind) mucked [Kc Jh]
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296669189: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:48:23 BRT [2026/06/30 12:48:23 ET]
+Table '4010773551 47' 8-max Seat #4 is the button
+Seat 1: mousit (28190 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24202 in chips, $2.45 bounty)
+Seat 3: peter7 (25000 in chips, $2.45 bounty)
+Seat 4: StopThis32 (26900 in chips, $2.45 bounty)
+Seat 5: uncledibdib (26775 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46155 in chips, $2.45 bounty)
+Seat 7: Chicken307 (29015 in chips, $2.45 bounty)
+Seat 8: Timefalls (22820 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+peter7: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+uncledibdib: posts small blind 150
+Matematu4ka: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [As Qh]
+Chicken307: folds
+Timefalls: raises 300 to 600
+mousit: calls 600
+gruz777wer: folds
+peter7: folds
+StopThis32: calls 600
+uncledibdib: folds
+Matematu4ka: folds
+*** FLOP *** [4c 6s 6c]
+Timefalls: checks
+mousit: bets 1200
+StopThis32: calls 1200
+Timefalls: folds
+*** TURN *** [4c 6s 6c] [9c]
+mousit: bets 2400
+StopThis32: calls 2400
+*** RIVER *** [4c 6s 6c 9c] [Tc]
+mousit: bets 12000
+StopThis32: folds
+Uncalled bet (12000) returned to mousit
+mousit collected 9770 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 9770 | Rake 0
+Board [4c 6s 6c 9c Tc]
+Seat 1: mousit collected (9770)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: peter7 folded before Flop (didn't bet)
+Seat 4: StopThis32 (button) folded on the River
+Seat 5: uncledibdib (small blind) folded before Flop
+Seat 6: Matematu4ka (big blind) folded before Flop
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded on the Flop
+
+PokerStars Hand #261296680553: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:49:41 BRT [2026/06/30 12:49:41 ET]
+Table '4010773551 47' 8-max Seat #5 is the button
+Seat 1: mousit (33720 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24162 in chips, $2.45 bounty)
+Seat 3: peter7 (24960 in chips, $2.45 bounty)
+Seat 4: StopThis32 (22660 in chips, $2.45 bounty)
+Seat 5: uncledibdib (26585 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (45815 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28975 in chips, $2.45 bounty)
+Seat 8: Timefalls (22180 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+peter7: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+Matematu4ka: posts small blind 150
+Chicken307: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [7h 6s]
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+peter7: calls 300
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: calls 150
+Chicken307: checks
+*** FLOP *** [4d Jh 7s]
+Matematu4ka: checks
+Chicken307: checks
+peter7: bets 300
+Matematu4ka: calls 300
+Chicken307: folds
+*** TURN *** [4d Jh 7s] [Td]
+Matematu4ka: checks
+peter7: bets 1820
+Matematu4ka: calls 1820
+*** RIVER *** [4d Jh 7s Td] [Th]
+Matematu4ka: checks
+peter7: checks
+*** SHOW DOWN ***
+Matematu4ka: shows [9h Jd] (two pair, Jacks and Tens)
+peter7: mucks hand
+Matematu4ka collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | Rake 0
+Board [4d Jh 7s Td Th]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: peter7 mucked [7d Jc]
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib (button) folded before Flop (didn't bet)
+Seat 6: Matematu4ka (small blind) showed [9h Jd] and won (5460) with two pair, Jacks and Tens
+Seat 7: Chicken307 (big blind) folded on the Flop
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296691283: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:50:56 BRT [2026/06/30 12:50:56 ET]
+Table '4010773551 47' 8-max Seat #6 is the button
+Seat 1: mousit (33680 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24122 in chips, $2.45 bounty)
+Seat 3: peter7 (22500 in chips, $2.45 bounty)
+Seat 4: StopThis32 (22620 in chips, $2.45 bounty)
+Seat 5: uncledibdib (26545 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (48815 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28635 in chips, $2.45 bounty)
+Seat 8: Timefalls (22140 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+peter7: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+Chicken307: posts small blind 150
+Timefalls: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [5d 9c]
+mousit: folds
+gruz777wer: folds
+peter7: calls 300
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: raises 1050 to 1350
+Chicken307: folds
+Timefalls: folds
+peter7: calls 1050
+*** FLOP *** [8c 3s Qh]
+peter7: checks
+Matematu4ka: bets 868
+peter7: raises 5206 to 6074
+Matematu4ka: folds
+Uncalled bet (5206) returned to peter7
+peter7 collected 5206 from pot
+*** SUMMARY ***
+Total pot 5206 | Rake 0
+Board [8c 3s Qh]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: peter7 collected (5206)
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka (button) folded on the Flop
+Seat 7: Chicken307 (small blind) folded before Flop
+Seat 8: Timefalls (big blind) folded before Flop
+
+PokerStars Hand #261296700928: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:52:04 BRT [2026/06/30 12:52:04 ET]
+Table '4010773551 47' 8-max Seat #7 is the button
+Seat 1: mousit (33640 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24082 in chips, $2.45 bounty)
+Seat 3: peter7 (25448 in chips, $2.45 bounty)
+Seat 4: StopThis32 (22580 in chips, $2.45 bounty)
+Seat 5: uncledibdib (26505 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46557 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28445 in chips, $2.45 bounty)
+Seat 8: Timefalls (21800 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+peter7: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+Timefalls: posts small blind 150
+mousit: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [4h 8h]
+gruz777wer: folds
+peter7: folds
+StopThis32: folds
+uncledibdib: raises 360 to 660
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: calls 360
+*** FLOP *** [Jh Qh 9d]
+mousit: checks
+uncledibdib: bets 591
+mousit: raises 1209 to 1800
+uncledibdib: calls 1209
+*** TURN *** [Jh Qh 9d] [Qs]
+mousit: checks
+uncledibdib: checks
+*** RIVER *** [Jh Qh 9d Qs] [Ac]
+mousit: bets 5400
+uncledibdib: folds
+Uncalled bet (5400) returned to mousit
+mousit collected 5390 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 5390 | Rake 0
+Board [Jh Qh 9d Qs Ac]
+Seat 1: mousit (big blind) collected (5390)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: peter7 folded before Flop (didn't bet)
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded on the River
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 (button) folded before Flop (didn't bet)
+Seat 8: Timefalls (small blind) folded before Flop
+
+PokerStars Hand #261296714946: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2026/06/30 13:53:42 BRT [2026/06/30 12:53:42 ET]
+Table '4010773551 47' 8-max Seat #8 is the button
+Seat 1: mousit (36530 in chips, $2.45 bounty)
+Seat 2: gruz777wer (24042 in chips, $2.45 bounty)
+Seat 3: peter7 (25408 in chips, $2.45 bounty)
+Seat 4: StopThis32 (22540 in chips, $2.45 bounty)
+Seat 5: uncledibdib (24005 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (46517 in chips, $2.45 bounty)
+Seat 7: Chicken307 (28405 in chips, $2.45 bounty)
+Seat 8: Timefalls (21610 in chips, $2.45 bounty)
+mousit: posts the ante 40
+gruz777wer: posts the ante 40
+peter7: posts the ante 40
+StopThis32: posts the ante 40
+uncledibdib: posts the ante 40
+Matematu4ka: posts the ante 40
+Chicken307: posts the ante 40
+Timefalls: posts the ante 40
+mousit: posts small blind 150
+gruz777wer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Timefalls [8d 2d]
+peter7: calls 300
+StopThis32: folds
+uncledibdib: folds
+Matematu4ka: raises 1200 to 1500
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+peter7: raises 3770 to 5270
+Matematu4ka: calls 3770
+*** FLOP *** [Ad 4d 5c]
+peter7: checks
+Matematu4ka: bets 2828
+peter7: raises 17270 to 20098 and is all-in
+Matematu4ka: calls 17270
+*** TURN *** [Ad 4d 5c] [8c]
+*** RIVER *** [Ad 4d 5c 8c] [Td]
+*** SHOW DOWN ***
+peter7: shows [Ks Kh] (a pair of Kings)
+Matematu4ka: shows [Jc Ah] (a pair of Aces)
+Matematu4ka collected 51506 from pot
+Matematu4ka wins $1.23 for eliminating peter7 and their own bounty increases by $1.22 to $3.67
+peter7 finished the tournament
+*** SUMMARY ***
+Total pot 51506 | Rake 0
+Board [Ad 4d 5c 8c Td]
+Seat 1: mousit (small blind) folded before Flop
+Seat 2: gruz777wer (big blind) folded before Flop
+Seat 3: peter7 showed [Ks Kh] and lost with a pair of Kings
+Seat 4: StopThis32 folded before Flop (didn't bet)
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka showed [Jc Ah] and won (51506) with a pair of Aces
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296726551: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 13:55:05 BRT [2026/06/30 12:55:05 ET]
+Table '4010773551 47' 8-max Seat #1 is the button
+Seat 1: mousit (36340 in chips, $2.45 bounty)
+Seat 2: gruz777wer (23702 in chips, $2.45 bounty)
+Seat 4: StopThis32 (22500 in chips, $2.45 bounty)
+Seat 5: uncledibdib (23965 in chips, $3.67 bounty)
+Seat 6: Matematu4ka (72615 in chips, $3.67 bounty)
+Seat 7: Chicken307 (28365 in chips, $2.45 bounty)
+Seat 8: Timefalls (21570 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+StopThis32: posts the ante 50
+uncledibdib: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+gruz777wer: posts small blind 175
+StopThis32: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [Kh 2d]
+Fis01 is disconnected
+uncledibdib: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: raises 437 to 787
+gruz777wer: folds
+StopThis32: calls 437
+*** FLOP *** [5s Js 7d]
+StopThis32: checks
+mousit: bets 1050
+StopThis32: calls 1050
+*** TURN *** [5s Js 7d] [4c]
+StopThis32: checks
+mousit: bets 2519
+StopThis32: raises 18094 to 20613 and is all-in
+mousit: calls 18094
+*** RIVER *** [5s Js 7d 4c] [Ts]
+*** SHOW DOWN ***
+StopThis32: shows [5c 5d] (three of a kind, Fives)
+mousit: shows [7s 7h] (three of a kind, Sevens)
+mousit collected 45425 from pot
+mousit wins $1.23 for eliminating StopThis32 and their own bounty increases by $1.22 to $3.67
+StopThis32 finished the tournament
+*** SUMMARY ***
+Total pot 45425 | Rake 0
+Board [5s Js 7d 4c Ts]
+Seat 1: mousit (button) showed [7s 7h] and won (45425) with three of a kind, Sevens
+Seat 2: gruz777wer (small blind) folded before Flop
+Seat 4: StopThis32 (big blind) showed [5c 5d] and lost with three of a kind, Fives
+Seat 5: uncledibdib folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296779417: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:02:47 BRT [2026/06/30 13:02:47 ET]
+Table '4010773551 47' 8-max Seat #2 is the button
+Seat 1: mousit (59265 in chips, $3.67 bounty)
+Seat 2: gruz777wer (23477 in chips, $2.45 bounty)
+Seat 3: Fis01 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 4: DonDiablood (24240 in chips) out of hand (moved from another table into small blind)
+Seat 5: ifghassan (25000 in chips) out of hand (moved from another table into small blind)
+Seat 6: Matematu4ka (72565 in chips, $3.67 bounty)
+Seat 7: Chicken307 (28315 in chips, $2.45 bounty)
+Seat 8: Timefalls (21520 in chips, $2.45 bounty)
+Fis01 will be allowed to play after the button
+DonDiablood will be allowed to play after the button
+ifghassan will be allowed to play after the button
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+Matematu4ka: posts small blind 175
+Chicken307: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [Qh Ts]
+DonDiablood has returned
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+Matematu4ka: raises 875 to 1225
+Chicken307 has timed out
+Chicken307: folds
+Chicken307 is sitting out
+Uncalled bet (875) returned to Matematu4ka
+Matematu4ka collected 950 from pot
+Matematu4ka: doesn't show hand
+*** SUMMARY ***
+Total pot 950 | Rake 0
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer (button) folded before Flop (didn't bet)
+Seat 6: Matematu4ka (small blind) collected (950)
+Seat 7: Chicken307 (big blind) folded before Flop
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296789144: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:03:55 BRT [2026/06/30 13:03:55 ET]
+Table '4010773551 47' 8-max Seat #6 is the button
+Seat 1: mousit (59215 in chips, $3.67 bounty)
+Seat 2: gruz777wer (23427 in chips, $2.45 bounty)
+Seat 3: Fis01 (25000 in chips, $2.45 bounty)
+Seat 4: DonDiablood (24240 in chips, $2.45 bounty)
+Seat 5: ifghassan (25000 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (73115 in chips, $3.67 bounty)
+Seat 7: Chicken307 (27915 in chips, $2.45 bounty) is sitting out
+Seat 8: Timefalls (21470 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Fis01: posts the ante 50
+DonDiablood: posts the ante 50
+ifghassan: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+Chicken307: posts small blind 175
+Timefalls: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [6c Tc]
+mousit: raises 437 to 787
+gruz777wer: folds
+Fis01: folds
+DonDiablood: folds
+ifghassan: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+Uncalled bet (437) returned to mousit
+mousit collected 1275 from pot
+mousit: doesn't show hand
+*** SUMMARY ***
+Total pot 1275 | Rake 0
+Seat 1: mousit collected (1275)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: Fis01 folded before Flop (didn't bet)
+Seat 4: DonDiablood folded before Flop (didn't bet)
+Seat 5: ifghassan folded before Flop (didn't bet)
+Seat 6: Matematu4ka (button) folded before Flop (didn't bet)
+Seat 7: Chicken307 (small blind) folded before Flop
+Seat 8: Timefalls (big blind) folded before Flop
+
+PokerStars Hand #261296797045: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:04:50 BRT [2026/06/30 13:04:50 ET]
+Table '4010773551 47' 8-max Seat #7 is the button
+Seat 1: mousit (60090 in chips, $3.67 bounty)
+Seat 2: gruz777wer (23377 in chips, $2.45 bounty)
+Seat 3: Fis01 (24950 in chips, $2.45 bounty)
+Seat 4: DonDiablood (24190 in chips, $2.45 bounty)
+Seat 5: ifghassan (24950 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (73065 in chips, $3.67 bounty)
+Seat 7: Chicken307 (27690 in chips, $2.45 bounty) is sitting out
+Seat 8: Timefalls (21070 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Fis01: posts the ante 50
+DonDiablood: posts the ante 50
+ifghassan: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+Timefalls: posts small blind 175
+mousit: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [2c 4d]
+gruz777wer: folds
+Fis01: raises 420 to 770
+DonDiablood: folds
+ifghassan: folds
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: calls 420
+*** FLOP *** [5c 9d Kh]
+mousit: checks
+Fis01: bets 698
+mousit: calls 698
+*** TURN *** [5c 9d Kh] [7c]
+mousit: checks
+Chicken307 has returned
+Fis01: bets 4210
+mousit: folds
+Uncalled bet (4210) returned to Fis01
+Fis01 collected 3511 from pot
+*** SUMMARY ***
+Total pot 3511 | Rake 0
+Board [5c 9d Kh 7c]
+Seat 1: mousit (big blind) folded on the Turn
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: Fis01 collected (3511)
+Seat 4: DonDiablood folded before Flop (didn't bet)
+Seat 5: ifghassan folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 (button) folded before Flop (didn't bet)
+Seat 8: Timefalls (small blind) folded before Flop
+
+PokerStars Hand #261296809274: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:06:17 BRT [2026/06/30 13:06:17 ET]
+Table '4010773551 47' 8-max Seat #8 is the button
+Seat 1: mousit (58572 in chips, $3.67 bounty)
+Seat 2: gruz777wer (23327 in chips, $2.45 bounty)
+Seat 3: Fis01 (26943 in chips, $2.45 bounty)
+Seat 4: DonDiablood (24140 in chips, $2.45 bounty)
+Seat 5: ifghassan (24900 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (73015 in chips, $3.67 bounty)
+Seat 7: Chicken307 (27640 in chips, $2.45 bounty)
+Seat 8: Timefalls (20845 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Fis01: posts the ante 50
+DonDiablood: posts the ante 50
+ifghassan: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+mousit: posts small blind 175
+gruz777wer: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [6c 5s]
+Fis01: folds
+DonDiablood: folds
+ifghassan: folds
+Matematu4ka: folds
+Chicken307: raises 350 to 700
+Timefalls: folds
+mousit: folds
+gruz777wer: calls 350
+*** FLOP *** [5c Ks 2h]
+gruz777wer: checks
+Chicken307: bets 638
+gruz777wer: raises 2276 to 2914
+Chicken307: calls 2276
+*** TURN *** [5c Ks 2h] [8d]
+gruz777wer: bets 5462
+Chicken307: folds
+Uncalled bet (5462) returned to gruz777wer
+gruz777wer collected 7803 from pot
+gruz777wer: doesn't show hand
+*** SUMMARY ***
+Total pot 7803 | Rake 0
+Board [5c Ks 2h 8d]
+Seat 1: mousit (small blind) folded before Flop
+Seat 2: gruz777wer (big blind) collected (7803)
+Seat 3: Fis01 folded before Flop (didn't bet)
+Seat 4: DonDiablood folded before Flop (didn't bet)
+Seat 5: ifghassan folded before Flop (didn't bet)
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded on the Turn
+Seat 8: Timefalls (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296821016: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:07:38 BRT [2026/06/30 13:07:38 ET]
+Table '4010773551 47' 8-max Seat #1 is the button
+Seat 1: mousit (58347 in chips, $3.67 bounty)
+Seat 2: gruz777wer (27466 in chips, $2.45 bounty)
+Seat 3: Fis01 (26893 in chips, $2.45 bounty)
+Seat 4: DonDiablood (24090 in chips, $2.45 bounty)
+Seat 5: ifghassan (24850 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (72965 in chips, $3.67 bounty)
+Seat 7: Chicken307 (23976 in chips, $2.45 bounty)
+Seat 8: Timefalls (20795 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Fis01: posts the ante 50
+DonDiablood: posts the ante 50
+ifghassan: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+gruz777wer: posts small blind 175
+Fis01: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [5h 8d]
+DonDiablood: folds
+ifghassan: raises 350 to 700
+Matematu4ka: folds
+Chicken307: folds
+Timefalls: folds
+mousit: calls 700
+gruz777wer: folds
+Fis01: folds
+*** FLOP *** [9s 9c 5c]
+ifghassan: checks
+mousit: checks
+*** TURN *** [9s 9c 5c] [Ts]
+ifghassan: checks
+mousit: bets 1050
+ifghassan: calls 1050
+*** RIVER *** [9s 9c 5c Ts] [Kc]
+ifghassan: checks
+mousit: checks
+*** SHOW DOWN ***
+ifghassan: shows [Jc Th] (two pair, Tens and Nines)
+mousit: shows [8c Td] (two pair, Tens and Nines)
+ifghassan collected 2213 from pot
+mousit collected 2212 from pot
+*** SUMMARY ***
+Total pot 4425 | Rake 0
+Board [9s 9c 5c Ts Kc]
+Seat 1: mousit (button) showed [8c Td] and won (2212) with two pair, Tens and Nines
+Seat 2: gruz777wer (small blind) folded before Flop
+Seat 3: Fis01 (big blind) folded before Flop
+Seat 4: DonDiablood folded before Flop (didn't bet)
+Seat 5: ifghassan showed [Jc Th] and won (2213) with two pair, Tens and Nines
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296835698: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2026/06/30 14:09:20 BRT [2026/06/30 13:09:20 ET]
+Table '4010773551 47' 8-max Seat #2 is the button
+Seat 1: mousit (58759 in chips, $3.67 bounty)
+Seat 2: gruz777wer (27241 in chips, $2.45 bounty)
+Seat 3: Fis01 (26493 in chips, $2.45 bounty)
+Seat 4: DonDiablood (24040 in chips, $2.45 bounty)
+Seat 5: ifghassan (25263 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (72915 in chips, $3.67 bounty)
+Seat 7: Chicken307 (23926 in chips, $2.45 bounty)
+Seat 8: Timefalls (20745 in chips, $2.45 bounty)
+mousit: posts the ante 50
+gruz777wer: posts the ante 50
+Fis01: posts the ante 50
+DonDiablood: posts the ante 50
+ifghassan: posts the ante 50
+Matematu4ka: posts the ante 50
+Chicken307: posts the ante 50
+Timefalls: posts the ante 50
+Fis01: posts small blind 175
+DonDiablood: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Timefalls [9h 5d]
+ifghassan: raises 350 to 700
+Matematu4ka: folds
+Chicken307: calls 700
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 3025 to 3725
+Fis01: folds
+DonDiablood: folds
+ifghassan: folds
+Chicken307: calls 3025
+*** FLOP *** [Qh Tc 5c]
+Chicken307: checks
+gruz777wer: bets 6353
+Chicken307: folds
+Uncalled bet (6353) returned to gruz777wer
+gruz777wer collected 9075 from pot
+gruz777wer: doesn't show hand
+*** SUMMARY ***
+Total pot 9075 | Rake 0
+Board [Qh Tc 5c]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer (button) collected (9075)
+Seat 3: Fis01 (small blind) folded before Flop
+Seat 4: DonDiablood (big blind) folded before Flop
+Seat 5: ifghassan folded before Flop
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 folded on the Flop
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296849254: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:10:55 BRT [2026/06/30 13:10:55 ET]
+Table '4010773551 47' 8-max Seat #3 is the button
+Seat 1: mousit (58709 in chips, $3.67 bounty)
+Seat 2: gruz777wer (32541 in chips, $2.45 bounty)
+Seat 3: Fis01 (26268 in chips, $2.45 bounty)
+Seat 4: DonDiablood (23640 in chips, $2.45 bounty)
+Seat 5: ifghassan (24513 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (72865 in chips, $3.67 bounty)
+Seat 7: Chicken307 (20151 in chips, $2.45 bounty)
+Seat 8: Timefalls (20695 in chips, $2.45 bounty)
+mousit: posts the ante 60
+gruz777wer: posts the ante 60
+Fis01: posts the ante 60
+DonDiablood: posts the ante 60
+ifghassan: posts the ante 60
+Matematu4ka: posts the ante 60
+Chicken307: posts the ante 60
+Timefalls: posts the ante 60
+DonDiablood: posts small blind 200
+ifghassan: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [7h 9h]
+Matematu4ka: folds
+Chicken307: raises 400 to 800
+Timefalls: folds
+mousit: calls 800
+gruz777wer: folds
+Fis01: folds
+DonDiablood: folds
+ifghassan: calls 400
+*** FLOP *** [3h Tc 2h]
+ifghassan: bets 3080
+Chicken307: calls 3080
+mousit: calls 3080
+*** TURN *** [3h Tc 2h] [5d]
+ifghassan: checks
+Chicken307: checks
+mousit: checks
+*** RIVER *** [3h Tc 2h 5d] [2s]
+ifghassan: checks
+Chicken307: bets 4350
+mousit: calls 4350
+ifghassan: folds
+*** SHOW DOWN ***
+Chicken307: shows [Kh As] (a pair of Deuces)
+mousit: shows [Th Qd] (two pair, Tens and Deuces)
+mousit collected 21020 from pot
+*** SUMMARY ***
+Total pot 21020 | Rake 0
+Board [3h Tc 2h 5d 2s]
+Seat 1: mousit showed [Th Qd] and won (21020) with two pair, Tens and Deuces
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: Fis01 (button) folded before Flop (didn't bet)
+Seat 4: DonDiablood (small blind) folded before Flop
+Seat 5: ifghassan (big blind) folded on the River
+Seat 6: Matematu4ka folded before Flop (didn't bet)
+Seat 7: Chicken307 showed [Kh As] and lost with a pair of Deuces
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296867143: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:12:59 BRT [2026/06/30 13:12:59 ET]
+Table '4010773551 47' 8-max Seat #4 is the button
+Seat 1: mousit (71439 in chips, $3.67 bounty)
+Seat 2: gruz777wer (32481 in chips, $2.45 bounty)
+Seat 3: Fis01 (26208 in chips, $2.45 bounty)
+Seat 4: DonDiablood (23380 in chips, $2.45 bounty)
+Seat 5: ifghassan (20573 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (72805 in chips, $3.67 bounty)
+Seat 7: Chicken307 (11861 in chips, $2.45 bounty)
+Seat 8: Timefalls (20635 in chips, $2.45 bounty)
+mousit: posts the ante 60
+gruz777wer: posts the ante 60
+Fis01: posts the ante 60
+DonDiablood: posts the ante 60
+ifghassan: posts the ante 60
+Matematu4ka: posts the ante 60
+Chicken307: posts the ante 60
+Timefalls: posts the ante 60
+ifghassan: posts small blind 200
+Matematu4ka: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [Ts 5c]
+Chicken307: folds
+Timefalls: folds
+mousit: folds
+gruz777wer: folds
+Fis01: folds
+DonDiablood: raises 400 to 800
+ifghassan: folds
+Matematu4ka: calls 400
+*** FLOP *** [5h As 8d]
+Matematu4ka: checks
+DonDiablood: bets 752
+Matematu4ka: raises 3008 to 3760
+DonDiablood: folds
+Uncalled bet (3008) returned to Matematu4ka
+Matematu4ka collected 3784 from pot
+Matematu4ka: doesn't show hand
+*** SUMMARY ***
+Total pot 3784 | Rake 0
+Board [5h As 8d]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop (didn't bet)
+Seat 3: Fis01 folded before Flop (didn't bet)
+Seat 4: DonDiablood (button) folded on the Flop
+Seat 5: ifghassan (small blind) folded before Flop
+Seat 6: Matematu4ka (big blind) collected (3784)
+Seat 7: Chicken307 folded before Flop (didn't bet)
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296875731: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:13:58 BRT [2026/06/30 13:13:58 ET]
+Table '4010773551 47' 8-max Seat #5 is the button
+Seat 1: mousit (71379 in chips, $3.67 bounty)
+Seat 2: gruz777wer (32421 in chips, $2.45 bounty)
+Seat 3: Fis01 (26148 in chips, $2.45 bounty)
+Seat 4: DonDiablood (21768 in chips, $2.45 bounty)
+Seat 5: ifghassan (20313 in chips, $2.45 bounty)
+Seat 6: Matematu4ka (74977 in chips, $3.67 bounty)
+Seat 7: Chicken307 (11801 in chips, $2.45 bounty)
+Seat 8: Timefalls (20575 in chips, $2.45 bounty)
+mousit: posts the ante 60
+gruz777wer: posts the ante 60
+Fis01: posts the ante 60
+DonDiablood: posts the ante 60
+ifghassan: posts the ante 60
+Matematu4ka: posts the ante 60
+Chicken307: posts the ante 60
+Timefalls: posts the ante 60
+Matematu4ka: posts small blind 200
+Chicken307: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [Qd 9s]
+Timefalls: folds
+mousit: folds
+gruz777wer: raises 400 to 800
+Fis01: folds
+DonDiablood: calls 800
+ifghassan: raises 3480 to 4280
+Matematu4ka: folds
+Chicken307: raises 7461 to 11741 and is all-in
+gruz777wer: folds
+DonDiablood: folds
+ifghassan: calls 7461
+*** FLOP *** [2d 9d 6h]
+*** TURN *** [2d 9d 6h] [5c]
+*** RIVER *** [2d 9d 6h 5c] [5s]
+*** SHOW DOWN ***
+Chicken307: shows [As 8c] (a pair of Fives)
+ifghassan: shows [Ad Qs] (a pair of Fives - Ace+Queen kicker)
+ifghassan collected 25762 from pot
+ifghassan wins $1.23 for eliminating Chicken307 and their own bounty increases by $1.22 to $3.67
+Chicken307 finished the tournament
+*** SUMMARY ***
+Total pot 25762 | Rake 0
+Board [2d 9d 6h 5c 5s]
+Seat 1: mousit folded before Flop (didn't bet)
+Seat 2: gruz777wer folded before Flop
+Seat 3: Fis01 folded before Flop (didn't bet)
+Seat 4: DonDiablood folded before Flop
+Seat 5: ifghassan (button) showed [Ad Qs] and won (25762) with a pair of Fives
+Seat 6: Matematu4ka (small blind) folded before Flop
+Seat 7: Chicken307 (big blind) showed [As 8c] and lost with a pair of Fives
+Seat 8: Timefalls folded before Flop (didn't bet)
+
+PokerStars Hand #261296887232: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:15:15 BRT [2026/06/30 13:15:15 ET]
+Table '4010773551 145' 8-max Seat #1 is the button
+Seat 1: guilhermeribas (20653 in chips, $2.45 bounty)
+Seat 2: caioirak (22232 in chips, $4.28 bounty)
+Seat 3: Timefalls (20515 in chips, $2.45 bounty)
+Seat 4: fideal (25100 in chips, $2.45 bounty)
+Seat 5: nicojoanh (25000 in chips, $2.45 bounty)
+guilhermeribas: posts the ante 60
+caioirak: posts the ante 60
+Timefalls: posts the ante 60
+fideal: posts the ante 60
+nicojoanh: posts the ante 60
+caioirak: posts small blind 200
+Timefalls: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [Ad 4h]
+fideal is connected
+Timefalls is disconnected
+cubitron-x is disconnected
+fideal: folds
+nicojoanh is connected
+nicojoanh: raises 400 to 800
+guilhermeribas: folds
+caioirak: calls 600
+Timefalls: calls 400
+*** FLOP *** [8d 9d 5c]
+caioirak: checks
+Timefalls: checks
+nicojoanh: bets 1350
+caioirak: raises 1782 to 3132
+Timefalls: folds
+nicojoanh: folds
+Uncalled bet (1782) returned to caioirak
+caioirak collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0
+Board [8d 9d 5c]
+Seat 1: guilhermeribas (button) folded before Flop (didn't bet)
+Seat 2: caioirak (small blind) collected (5400)
+Seat 3: Timefalls (big blind) folded on the Flop
+Seat 4: fideal folded before Flop (didn't bet)
+Seat 5: nicojoanh folded on the Flop
+
+PokerStars Hand #261296899135: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:16:34 BRT [2026/06/30 13:16:34 ET]
+Table '4010773551 145' 8-max Seat #2 is the button
+Seat 1: guilhermeribas (20593 in chips, $2.45 bounty)
+Seat 2: caioirak (25422 in chips, $4.28 bounty)
+Seat 3: Timefalls (19655 in chips, $2.45 bounty)
+Seat 4: fideal (25040 in chips, $2.45 bounty)
+Seat 5: nicojoanh (22790 in chips, $2.45 bounty)
+Seat 6: RagazziR (48240 in chips, $2.45 bounty)
+Seat 7: cubitron-x (11936 in chips, $2.45 bounty)
+guilhermeribas: posts the ante 60
+caioirak: posts the ante 60
+Timefalls: posts the ante 60
+fideal: posts the ante 60
+nicojoanh: posts the ante 60
+RagazziR: posts the ante 60
+cubitron-x: posts the ante 60
+Timefalls: posts small blind 200
+fideal: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [2h Kd]
+nicojoanh: folds
+RagazziR: folds
+cubitron-x: folds
+guilhermeribas: raises 400 to 800
+caioirak: folds
+Timefalls: folds
+fideal: calls 400
+*** FLOP *** [6d 6c Jc]
+livred383 is disconnected
+fideal: checks
+guilhermeribas: bets 511
+fideal: raises 23669 to 24180 and is all-in
+guilhermeribas: folds
+Uncalled bet (23669) returned to fideal
+fideal collected 3242 from pot
+*** SUMMARY ***
+Total pot 3242 | Rake 0
+Board [6d 6c Jc]
+Seat 1: guilhermeribas folded on the Flop
+Seat 2: caioirak (button) folded before Flop (didn't bet)
+Seat 3: Timefalls (small blind) folded before Flop
+Seat 4: fideal (big blind) collected (3242)
+Seat 5: nicojoanh folded before Flop (didn't bet)
+Seat 6: RagazziR folded before Flop (didn't bet)
+Seat 7: cubitron-x folded before Flop (didn't bet)
+
+PokerStars Hand #261296905568: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2026/06/30 14:17:17 BRT [2026/06/30 13:17:17 ET]
+Table '4010773551 145' 8-max Seat #3 is the button
+Seat 1: guilhermeribas (19222 in chips, $2.45 bounty)
+Seat 2: caioirak (25362 in chips, $4.28 bounty)
+Seat 3: Timefalls (19395 in chips, $2.45 bounty)
+Seat 4: fideal (26911 in chips, $2.45 bounty)
+Seat 5: nicojoanh (22730 in chips, $2.45 bounty)
+Seat 6: RagazziR (48180 in chips, $2.45 bounty)
+Seat 7: cubitron-x (11876 in chips, $2.45 bounty)
+Seat 8: livred383 (25000 in chips, $2.45 bounty)
+guilhermeribas: posts the ante 60
+caioirak: posts the ante 60
+Timefalls: posts the ante 60
+fideal: posts the ante 60
+nicojoanh: posts the ante 60
+RagazziR: posts the ante 60
+cubitron-x: posts the ante 60
+livred383: posts the ante 60
+fideal: posts small blind 200
+nicojoanh: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Timefalls [5h 6h]
+RagazziR: folds
+cubitron-x: folds
+livred383: folds
+guilhermeribas: folds
+caioirak: folds
+Timefalls: raises 400 to 800
+fideal: calls 600
+nicojoanh: raises 2880 to 3680
+Timefalls: folds
+fideal: calls 2880
+*** FLOP *** [6d Kh Tc]
+fideal: checks
+nicojoanh: bets 4320
+fideal: folds
+Uncalled bet (4320) returned to nicojoanh
+nicojoanh collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | Rake 0
+Board [6d Kh Tc]
+Seat 1: guilhermeribas folded before Flop (didn't bet)
+Seat 2: caioirak folded before Flop (didn't bet)
+Seat 3: Timefalls (button) folded before Flop
+Seat 4: fideal (small blind) folded on the Flop
+Seat 5: nicojoanh (big blind) collected (8640)
+Seat 6: RagazziR folded before Flop (didn't bet)
+Seat 7: cubitron-x folded before Flop (didn't bet)
+Seat 8: livred383 folded before Flop (didn't bet)
+
+PokerStars Hand #261296912856: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2026/06/30 14:18:05 BRT [2026/06/30 13:18:05 ET]
+Table '4010773551 145' 8-max Seat #4 is the button
+Seat 1: guilhermeribas (19162 in chips, $2.45 bounty)
+Seat 2: caioirak (25302 in chips, $4.28 bounty)
+Seat 3: Timefalls (18535 in chips, $2.45 bounty)
+Seat 4: fideal (23171 in chips, $2.45 bounty)
+Seat 5: nicojoanh (27630 in chips, $2.45 bounty)
+Seat 6: RagazziR (48120 in chips, $2.45 bounty)
+Seat 7: cubitron-x (11816 in chips, $2.45 bounty)
+Seat 8: livred383 (24940 in chips, $2.45 bounty)
+guilhermeribas: posts the ante 70
+caioirak: posts the ante 70
+Timefalls: posts the ante 70
+fideal: posts the ante 70
+nicojoanh: posts the ante 70
+RagazziR: posts the ante 70
+cubitron-x: posts the ante 70
+livred383: posts the ante 70
+nicojoanh: posts small blind 250
+RagazziR: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Timefalls [4c 6c]
+cubitron-x: folds
+livred383: folds
+guilhermeribas: folds
+caioirak: raises 500 to 1000
+Timefalls: folds
+fideal: folds
+nicojoanh: folds
+RagazziR: calls 500
+*** FLOP *** [As 9c 3h]
+RagazziR: checks
+caioirak: bets 927
+RagazziR: calls 927
+*** TURN *** [As 9c 3h] [9s]
+RagazziR: checks
+caioirak: checks
+*** RIVER *** [As 9c 3h 9s] [6d]
+RagazziR: checks
+caioirak: checks
+*** SHOW DOWN ***
+RagazziR: shows [Ah 8c] (two pair, Aces and Nines)
+caioirak: mucks hand
+RagazziR collected 4664 from pot
+*** SUMMARY ***
+Total pot 4664 | Rake 0
+Board [As 9c 3h 9s 6d]
+Seat 1: guilhermeribas folded before Flop (didn't bet)
+Seat 2: caioirak mucked [8s 8h]
+Seat 3: Timefalls folded before Flop (didn't bet)
+Seat 4: fideal (button) folded before Flop (didn't bet)
+Seat 5: nicojoanh (small blind) folded before Flop
+Seat 6: RagazziR (big blind) showed [Ah 8c] and won (4664) with two pair, Aces and Nines
+Seat 7: cubitron-x folded before Flop (didn't bet)
+Seat 8: livred383 folded before Flop (didn't bet)
+
+PokerStars Hand #261296924974: Tournament #4010773551, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2026/06/30 14:19:25 BRT [2026/06/30 13:19:25 ET]
+Table '4010773551 145' 8-max Seat #5 is the button
+Seat 1: guilhermeribas (19092 in chips, $2.45 bounty)
+Seat 2: caioirak (23305 in chips, $4.28 bounty)
+Seat 3: Timefalls (18465 in chips, $2.45 bounty)
+Seat 4: fideal (23101 in chips, $2.45 bounty)
+Seat 5: nicojoanh (27310 in chips, $2.45 bounty)
+Seat 6: RagazziR (50787 in chips, $2.45 bounty)
+Seat 7: cubitron-x (11746 in chips, $2.45 bounty)
+Seat 8: livred383 (24870 in chips, $2.45 bounty)
+guilhermeribas: posts the ante 70
+caioirak: posts the ante 70
+Timefalls: posts the ante 70
+fideal: posts the ante 70
+nicojoanh: posts the ante 70
+RagazziR: posts the ante 70
+cubitron-x: posts the ante 70
+livred383: posts the ante 70
+RagazziR: posts small blind 250
+cubitron-x: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Timefalls [8h Ac]
+livred383: folds
+guilhermeribas: folds
+caioirak: folds
+Timefalls: raises 500 to 1000
+fideal: calls 1000
+nicojoanh: folds
+RagazziR: folds
+cubitron-x: folds
+*** FLOP *** [7s 4s Qd]
+Timefalls: bets 1655
+fideal: calls 1655
+*** TURN *** [7s 4s Qd] [7h]
+Timefalls: bets 4000
+fideal: calls 4000
+*** RIVER *** [7s 4s Qd 7h] [3c]
+Timefalls: bets 11740 and is all-in
+fideal: calls 11740
+*** SHOW DOWN ***
+Timefalls: shows [8h Ac] (a pair of Sevens)
+fideal: shows [Kc Kd] (two pair, Kings and Sevens)
+fideal collected 38100 from pot
+fideal wins $1.23 for eliminating Timefalls and their own bounty increases by $1.22 to $3.67
+Timefalls finished the tournament
+*** SUMMARY ***
+Total pot 38100 | Rake 0
+Board [7s 4s Qd 7h 3c]
+Seat 1: guilhermeribas folded before Flop (didn't bet)
+Seat 2: caioirak folded before Flop (didn't bet)
+Seat 3: Timefalls showed [8h Ac] and lost with a pair of Sevens
+Seat 4: fideal showed [Kc Kd] and won (38100) with two pair, Kings and Sevens
+Seat 5: nicojoanh (button) folded before Flop (didn't bet)
+Seat 6: RagazziR (small blind) folded before Flop
+Seat 7: cubitron-x (big blind) folded before Flop
+Seat 8: livred383 folded before Flop (didn't bet)

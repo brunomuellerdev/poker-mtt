@@ -1,0 +1,1315 @@
+PokerStars Hand #261297021889: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:30:00 BRT [2026/06/30 13:30:00 ET]
+Table '4010773558 4' 8-max Seat #1 is the button
+Seat 1: F1nn771 (10000 in chips)
+Seat 2: SalviEdo (10000 in chips)
+Seat 3: eveliktos (10000 in chips)
+Seat 5: 1nicotop (10000 in chips)
+Seat 6: Timefalls (10000 in chips)
+Seat 7: Tj0maTi (10000 in chips)
+Seat 8: artemchik144 (10000 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+SalviEdo: posts small blind 25
+eveliktos: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [2s 9c]
+1nicotop: folds
+Timefalls: folds
+Tj0maTi: raises 50 to 100
+artemchik144: raises 250 to 350
+ifold1971 is disconnected
+F1nn771: folds
+SalviEdo: folds
+eveliktos: calls 300
+Tj0maTi: calls 250
+*** FLOP *** [Ts 4s 7d]
+eveliktos: checks
+Tj0maTi: checks
+artemchik144: checks
+*** TURN *** [Ts 4s 7d] [Qc]
+eveliktos: checks
+Tj0maTi: checks
+artemchik144: checks
+*** RIVER *** [Ts 4s 7d Qc] [7c]
+eveliktos: bets 346
+Tj0maTi: folds
+artemchik144: folds
+Uncalled bet (346) returned to eveliktos
+eveliktos collected 1117 from pot
+eveliktos: doesn't show hand
+*** SUMMARY ***
+Total pot 1117 | Rake 0
+Board [Ts 4s 7d Qc 7c]
+Seat 1: F1nn771 (button) folded before Flop (didn't bet)
+Seat 2: SalviEdo (small blind) folded before Flop
+Seat 3: eveliktos (big blind) collected (1117)
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded on the River
+Seat 8: artemchik144 folded on the River
+
+PokerStars Hand #261297030834: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:30:57 BRT [2026/06/30 13:30:57 ET]
+Table '4010773558 4' 8-max Seat #2 is the button
+Seat 1: F1nn771 (9994 in chips)
+Seat 2: SalviEdo (9969 in chips)
+Seat 3: eveliktos (10761 in chips)
+Seat 4: ifold1971 (10000 in chips)
+Seat 5: 1nicotop (9994 in chips)
+Seat 6: Timefalls (9994 in chips)
+Seat 7: Tj0maTi (9644 in chips)
+Seat 8: artemchik144 (9644 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+eveliktos: posts small blind 25
+ifold1971: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Td Jd]
+1nicotop: folds
+Timefalls: raises 50 to 100
+Tj0maTi: folds
+artemchik144: raises 250 to 350
+F1nn771: folds
+SalviEdo: folds
+eveliktos: folds
+ifold1971: calls 300
+Timefalls: calls 250
+*** FLOP *** [7s Qh 2h]
+ifold1971: checks
+Timefalls: checks
+artemchik144: bets 898
+ifold1971: calls 898
+Timefalls: folds
+*** TURN *** [7s Qh 2h] [Ah]
+ifold1971: checks
+artemchik144: checks
+*** RIVER *** [7s Qh 2h Ah] [9c]
+ifold1971: checks
+artemchik144: bets 2335
+ifold1971: calls 2335
+*** SHOW DOWN ***
+artemchik144: shows [Ad Ac] (three of a kind, Aces)
+ifold1971: mucks hand
+artemchik144 collected 7589 from pot
+*** SUMMARY ***
+Total pot 7589 | Rake 0
+Board [7s Qh 2h Ah 9c]
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo (button) folded before Flop (didn't bet)
+Seat 3: eveliktos (small blind) folded before Flop
+Seat 4: ifold1971 (big blind) mucked [8s 8h]
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls folded on the Flop
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 showed [Ad Ac] and won (7589) with three of a kind, Aces
+
+PokerStars Hand #261297038707: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:31:47 BRT [2026/06/30 13:31:47 ET]
+Table '4010773558 4' 8-max Seat #3 is the button
+Seat 1: F1nn771 (9988 in chips)
+Seat 2: SalviEdo (9963 in chips)
+Seat 3: eveliktos (10730 in chips)
+Seat 4: ifold1971 (6411 in chips)
+Seat 5: 1nicotop (9988 in chips)
+Seat 6: Timefalls (9638 in chips)
+Seat 7: Tj0maTi (9638 in chips)
+Seat 8: artemchik144 (13644 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+ifold1971: posts small blind 25
+1nicotop: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [2d 9h]
+Timefalls: folds
+Tj0maTi: raises 50 to 100
+artemchik144: folds
+F1nn771: folds
+SalviEdo: folds
+eveliktos: folds
+ifold1971: folds
+1nicotop: raises 250 to 350
+Tj0maTi: folds
+Uncalled bet (250) returned to 1nicotop
+1nicotop collected 273 from pot
+1nicotop: doesn't show hand
+*** SUMMARY ***
+Total pot 273 | Rake 0
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: eveliktos (button) folded before Flop (didn't bet)
+Seat 4: ifold1971 (small blind) folded before Flop
+Seat 5: 1nicotop (big blind) collected (273)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297043792: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:32:19 BRT [2026/06/30 13:32:19 ET]
+Table '4010773558 4' 8-max Seat #4 is the button
+Seat 1: F1nn771 (9982 in chips)
+Seat 2: SalviEdo (9957 in chips)
+Seat 3: eveliktos (10724 in chips)
+Seat 4: ifold1971 (6380 in chips)
+Seat 5: 1nicotop (10155 in chips)
+Seat 6: Timefalls (9632 in chips)
+Seat 7: Tj0maTi (9532 in chips)
+Seat 8: artemchik144 (13638 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+1nicotop: posts small blind 25
+Timefalls: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Js 7s]
+Tj0maTi: folds
+artemchik144: raises 75 to 125
+F1nn771: folds
+SalviEdo: raises 225 to 350
+eveliktos: folds
+ifold1971: folds
+1nicotop: calls 325
+Timefalls: folds
+artemchik144: folds
+*** FLOP *** [8s 7c Ac]
+1nicotop: checks
+SalviEdo: bets 312
+1nicotop: calls 312
+*** TURN *** [8s 7c Ac] [4h]
+1nicotop: checks
+SalviEdo: checks
+*** RIVER *** [8s 7c Ac 4h] [2s]
+1nicotop: checks
+SalviEdo: bets 624
+1nicotop: calls 624
+*** SHOW DOWN ***
+SalviEdo: shows [Td Th] (a pair of Tens)
+1nicotop: mucks hand
+SalviEdo collected 2795 from pot
+*** SUMMARY ***
+Total pot 2795 | Rake 0
+Board [8s 7c Ac 4h 2s]
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo showed [Td Th] and won (2795) with a pair of Tens
+Seat 3: eveliktos folded before Flop (didn't bet)
+Seat 4: ifold1971 (button) folded before Flop (didn't bet)
+Seat 5: 1nicotop (small blind) mucked [8d Qd]
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 folded before Flop
+
+PokerStars Hand #261297057929: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:33:49 BRT [2026/06/30 13:33:49 ET]
+Table '4010773558 4' 8-max Seat #5 is the button
+Seat 1: F1nn771 (9976 in chips)
+Seat 2: SalviEdo (11460 in chips)
+Seat 3: eveliktos (10718 in chips)
+Seat 4: ifold1971 (6374 in chips)
+Seat 5: 1nicotop (8863 in chips)
+Seat 6: Timefalls (9576 in chips)
+Seat 7: Tj0maTi (9526 in chips)
+Seat 8: artemchik144 (13507 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+Timefalls: posts small blind 25
+Tj0maTi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [3d 5h]
+artemchik144: folds
+F1nn771: folds
+SalviEdo: folds
+eveliktos: raises 100 to 150
+Timefalls is disconnected
+ifold1971: folds
+1nicotop: folds
+Timefalls: folds
+Tj0maTi: calls 100
+*** FLOP *** [8c 6s Ac]
+Tj0maTi: checks
+eveliktos: bets 116
+Tj0maTi: calls 116
+*** TURN *** [8c 6s Ac] [Tc]
+Tj0maTi: checks
+eveliktos: bets 188
+Tj0maTi: calls 188
+*** RIVER *** [8c 6s Ac Tc] [5s]
+Tj0maTi: checks
+eveliktos: bets 706
+Tj0maTi: folds
+Uncalled bet (706) returned to eveliktos
+eveliktos collected 981 from pot
+eveliktos: doesn't show hand
+*** SUMMARY ***
+Total pot 981 | Rake 0
+Board [8c 6s Ac Tc 5s]
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: eveliktos collected (981)
+Seat 4: ifold1971 folded before Flop (didn't bet)
+Seat 5: 1nicotop (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: Tj0maTi (big blind) folded on the River
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297076205: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:35:46 BRT [2026/06/30 13:35:46 ET]
+Table '4010773558 4' 8-max Seat #6 is the button
+Seat 1: F1nn771 (9970 in chips)
+Seat 2: SalviEdo (11454 in chips)
+Seat 3: eveliktos (11239 in chips)
+Seat 4: ifold1971 (6368 in chips)
+Seat 5: 1nicotop (8857 in chips)
+Seat 6: Timefalls (9545 in chips)
+Seat 7: Tj0maTi (9066 in chips)
+Seat 8: artemchik144 (13501 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+eveliktos: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+Tj0maTi: posts small blind 25
+artemchik144: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [6d Ks]
+F1nn771: raises 50 to 100
+SalviEdo: folds
+eveliktos: folds
+ifold1971: folds
+1nicotop: calls 100
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+*** FLOP *** [Qs 7d Qh]
+F1nn771: bets 97
+1nicotop: calls 97
+*** TURN *** [Qs 7d Qh] [9c]
+F1nn771: checks
+1nicotop: bets 259
+F1nn771: folds
+Uncalled bet (259) returned to 1nicotop
+1nicotop collected 517 from pot
+1nicotop: doesn't show hand
+*** SUMMARY ***
+Total pot 517 | Rake 0
+Board [Qs 7d Qh 9c]
+Seat 1: F1nn771 folded on the Turn
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: eveliktos folded before Flop (didn't bet)
+Seat 4: ifold1971 folded before Flop (didn't bet)
+Seat 5: 1nicotop collected (517)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: Tj0maTi (small blind) folded before Flop
+Seat 8: artemchik144 (big blind) folded before Flop
+
+PokerStars Hand #261297085199: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:36:43 BRT [2026/06/30 13:36:43 ET]
+Table '4010773558 4' 8-max Seat #7 is the button
+Seat 1: F1nn771 (9767 in chips)
+Seat 2: SalviEdo (11448 in chips)
+Seat 4: ifold1971 (6362 in chips)
+Seat 5: 1nicotop (9171 in chips)
+Seat 6: Timefalls (9539 in chips)
+Seat 7: Tj0maTi (9035 in chips)
+Seat 8: artemchik144 (13445 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+ifold1971: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+artemchik144: posts small blind 25
+F1nn771: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [Tc 3s]
+SalviEdo: folds
+ifold1971: calls 50
+1nicotop: folds
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: raises 450 to 500
+ifold1971: calls 450
+*** FLOP *** [8s 8c 8h]
+F1nn771: bets 300
+ifold1971: raises 5550 to 5850
+F1nn771: raises 3411 to 9261 and is all-in
+ifold1971: calls 6 and is all-in
+Uncalled bet (3405) returned to F1nn771
+NoSugarAdd is disconnected
+*** TURN *** [8s 8c 8h] [Kc]
+*** RIVER *** [8s 8c 8h Kc] [As]
+*** SHOW DOWN ***
+F1nn771: shows [Qc Qs] (a full house, Eights full of Queens)
+ifold1971: shows [2h 2s] (a full house, Eights full of Deuces)
+F1nn771 collected 12779 from pot
+ifold1971 finished the tournament
+*** SUMMARY ***
+Total pot 12779 | Rake 0
+Board [8s 8c 8h Kc As]
+Seat 1: F1nn771 (big blind) showed [Qc Qs] and won (12779) with a full house, Eights full of Queens
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 4: ifold1971 showed [2h 2s] and lost with a full house, Eights full of Deuces
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi (button) folded before Flop (didn't bet)
+Seat 8: artemchik144 (small blind) folded before Flop
+
+PokerStars Hand #261297091100: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:37:20 BRT [2026/06/30 13:37:20 ET]
+Table '4010773558 4' 8-max Seat #8 is the button
+Seat 1: F1nn771 (16184 in chips)
+Seat 2: SalviEdo (11442 in chips)
+Seat 3: NoSugarAdd (10000 in chips)
+Seat 5: 1nicotop (9165 in chips)
+Seat 6: Timefalls (9533 in chips)
+Seat 7: Tj0maTi (9029 in chips)
+Seat 8: artemchik144 (13414 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+NoSugarAdd: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+F1nn771: posts small blind 25
+SalviEdo: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [7c Kc]
+NoSugarAdd: raises 57 to 107
+1nicotop: folds
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: folds
+SalviEdo: folds
+Uncalled bet (57) returned to NoSugarAdd
+NoSugarAdd collected 167 from pot
+NoSugarAdd: doesn't show hand
+*** SUMMARY ***
+Total pot 167 | Rake 0
+Seat 1: F1nn771 (small blind) folded before Flop
+Seat 2: SalviEdo (big blind) folded before Flop
+Seat 3: NoSugarAdd collected (167)
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261297094896: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level I (25/50) - 2026/06/30 14:37:44 BRT [2026/06/30 13:37:44 ET]
+Table '4010773558 4' 8-max Seat #1 is the button
+Seat 1: F1nn771 (16153 in chips)
+Seat 2: SalviEdo (11386 in chips)
+Seat 3: NoSugarAdd (10111 in chips)
+Seat 4: casssio123 (10000 in chips)
+Seat 5: 1nicotop (9159 in chips)
+Seat 6: Timefalls (9527 in chips)
+Seat 7: Tj0maTi (9023 in chips)
+Seat 8: artemchik144 (13408 in chips)
+F1nn771: posts the ante 6
+SalviEdo: posts the ante 6
+NoSugarAdd: posts the ante 6
+casssio123: posts the ante 6
+1nicotop: posts the ante 6
+Timefalls: posts the ante 6
+Tj0maTi: posts the ante 6
+artemchik144: posts the ante 6
+SalviEdo: posts small blind 25
+NoSugarAdd: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Timefalls [9d 6s]
+casssio123: folds
+1nicotop: raises 50 to 100
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: folds
+SalviEdo: folds
+NoSugarAdd: calls 50
+*** FLOP *** [7c 8h Ah]
+NoSugarAdd: checks
+1nicotop: bets 90
+NoSugarAdd: folds
+Uncalled bet (90) returned to 1nicotop
+1nicotop collected 273 from pot
+1nicotop: doesn't show hand
+*** SUMMARY ***
+Total pot 273 | Rake 0
+Board [7c 8h Ah]
+Seat 1: F1nn771 (button) folded before Flop (didn't bet)
+Seat 2: SalviEdo (small blind) folded before Flop
+Seat 3: NoSugarAdd (big blind) folded on the Flop
+Seat 4: casssio123 folded before Flop (didn't bet)
+Seat 5: 1nicotop collected (273)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297100996: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:38:23 BRT [2026/06/30 13:38:23 ET]
+Table '4010773558 4' 8-max Seat #2 is the button
+Seat 1: F1nn771 (16147 in chips)
+Seat 2: SalviEdo (11355 in chips)
+Seat 3: NoSugarAdd (10005 in chips)
+Seat 4: casssio123 (9994 in chips)
+Seat 5: 1nicotop (9326 in chips)
+Seat 6: Timefalls (9521 in chips)
+Seat 7: Tj0maTi (9017 in chips)
+Seat 8: artemchik144 (13402 in chips)
+F1nn771: posts the ante 8
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+NoSugarAdd: posts small blind 30
+casssio123: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [Jd 8d]
+1nicotop: folds
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: folds
+SalviEdo: raises 60 to 120
+NoSugarAdd: folds
+casssio123: folds
+Uncalled bet (60) returned to SalviEdo
+SalviEdo collected 214 from pot
+SalviEdo: doesn't show hand
+*** SUMMARY ***
+Total pot 214 | Rake 0
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo (button) collected (214)
+Seat 3: NoSugarAdd (small blind) folded before Flop
+Seat 4: casssio123 (big blind) folded before Flop
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297107025: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:39:00 BRT [2026/06/30 13:39:00 ET]
+Table '4010773558 4' 8-max Seat #3 is the button
+Seat 1: F1nn771 (16139 in chips)
+Seat 2: SalviEdo (11501 in chips)
+Seat 3: NoSugarAdd (9967 in chips)
+Seat 4: casssio123 (9926 in chips)
+Seat 5: 1nicotop (9318 in chips)
+Seat 6: Timefalls (9513 in chips)
+Seat 7: Tj0maTi (9009 in chips)
+Seat 8: artemchik144 (13394 in chips)
+F1nn771: posts the ante 8
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+casssio123: posts small blind 30
+1nicotop: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [6s Qs]
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: raises 60 to 120
+SalviEdo: folds
+NoSugarAdd: folds
+casssio123: folds
+1nicotop: calls 60
+*** FLOP *** [Ac 4h 3d]
+1nicotop: checks
+F1nn771: bets 100
+1nicotop: calls 100
+*** TURN *** [Ac 4h 3d] [2d]
+1nicotop: checks
+F1nn771: checks
+*** RIVER *** [Ac 4h 3d 2d] [Qh]
+1nicotop: checks
+F1nn771: checks
+*** SHOW DOWN ***
+1nicotop: shows [8h 9h] (high card Ace)
+F1nn771: shows [Td Th] (a pair of Tens)
+F1nn771 collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | Rake 0
+Board [Ac 4h 3d 2d Qh]
+Seat 1: F1nn771 showed [Td Th] and won (534) with a pair of Tens
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: NoSugarAdd (button) folded before Flop (didn't bet)
+Seat 4: casssio123 (small blind) folded before Flop
+Seat 5: 1nicotop (big blind) showed [8h 9h] and lost with high card Ace
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297114377: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:39:47 BRT [2026/06/30 13:39:47 ET]
+Table '4010773558 4' 8-max Seat #4 is the button
+Seat 1: F1nn771 (16445 in chips)
+Seat 2: SalviEdo (11493 in chips)
+Seat 3: NoSugarAdd (9959 in chips)
+Seat 4: casssio123 (9888 in chips)
+Seat 5: 1nicotop (9090 in chips)
+Seat 6: Timefalls (9505 in chips)
+Seat 7: Tj0maTi (9001 in chips)
+Seat 8: artemchik144 (13386 in chips)
+F1nn771: posts the ante 8
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+1nicotop: posts small blind 30
+Timefalls: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [6h Js]
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: folds
+SalviEdo: folds
+NoSugarAdd: folds
+casssio123: raises 60 to 120
+1nicotop: raises 300 to 420
+Timefalls: folds
+casssio123: calls 300
+*** FLOP *** [Qd Ah Kc]
+1nicotop: bets 723
+casssio123: folds
+Uncalled bet (723) returned to 1nicotop
+1nicotop collected 964 from pot
+1nicotop: doesn't show hand
+*** SUMMARY ***
+Total pot 964 | Rake 0
+Board [Qd Ah Kc]
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: NoSugarAdd folded before Flop (didn't bet)
+Seat 4: casssio123 (button) folded on the Flop
+Seat 5: 1nicotop (small blind) collected (964)
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 folded before Flop (didn't bet)
+
+PokerStars Hand #261297125719: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:40:59 BRT [2026/06/30 13:40:59 ET]
+Table '4010773558 4' 8-max Seat #5 is the button
+Seat 1: F1nn771 (16437 in chips)
+Seat 2: SalviEdo (11485 in chips)
+Seat 3: NoSugarAdd (9951 in chips)
+Seat 4: casssio123 (9460 in chips)
+Seat 5: 1nicotop (9626 in chips)
+Seat 6: Timefalls (9437 in chips)
+Seat 7: Tj0maTi (8993 in chips)
+Seat 8: artemchik144 (13378 in chips)
+F1nn771: posts the ante 8
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+Timefalls: posts small blind 30
+Tj0maTi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 3h]
+artemchik144: raises 120 to 180
+F1nn771: folds
+SalviEdo: folds
+NoSugarAdd: folds
+casssio123: calls 180
+1nicotop: folds
+Timefalls: calls 150
+Tj0maTi: folds
+*** FLOP *** [2h Qs 9s]
+Timefalls: checks
+artemchik144: checks
+casssio123: bets 240
+Timefalls: folds
+artemchik144: calls 240
+*** TURN *** [2h Qs 9s] [6s]
+artemchik144: checks
+casssio123: bets 660
+artemchik144: folds
+Uncalled bet (660) returned to casssio123
+casssio123 collected 1144 from pot
+casssio123: doesn't show hand
+*** SUMMARY ***
+Total pot 1144 | Rake 0
+Board [2h Qs 9s 6s]
+Seat 1: F1nn771 folded before Flop (didn't bet)
+Seat 2: SalviEdo folded before Flop (didn't bet)
+Seat 3: NoSugarAdd folded before Flop (didn't bet)
+Seat 4: casssio123 collected (1144)
+Seat 5: 1nicotop (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded on the Flop
+Seat 7: Tj0maTi (big blind) folded before Flop
+Seat 8: artemchik144 folded on the Turn
+
+PokerStars Hand #261297137165: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:42:12 BRT [2026/06/30 13:42:12 ET]
+Table '4010773558 4' 8-max Seat #6 is the button
+Seat 1: F1nn771 (16429 in chips)
+Seat 2: SalviEdo (11477 in chips)
+Seat 3: NoSugarAdd (9943 in chips)
+Seat 4: casssio123 (10176 in chips)
+Seat 5: 1nicotop (9618 in chips)
+Seat 6: Timefalls (9249 in chips)
+Seat 7: Tj0maTi (8925 in chips)
+Seat 8: artemchik144 (12950 in chips)
+F1nn771: posts the ante 8
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+Tj0maTi: posts small blind 30
+artemchik144: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [Js 6c]
+F1nn771: raises 60 to 120
+SalviEdo: raises 240 to 360
+NoSugarAdd: folds
+casssio123: folds
+1nicotop: calls 360
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+F1nn771: folds
+*** FLOP *** [3d 3s 7h]
+SalviEdo: bets 377
+1nicotop: calls 377
+*** TURN *** [3d 3s 7h] [8s]
+SalviEdo: bets 754
+1nicotop: folds
+Uncalled bet (754) returned to SalviEdo
+SalviEdo collected 1748 from pot
+SalviEdo: doesn't show hand
+*** SUMMARY ***
+Total pot 1748 | Rake 0
+Board [3d 3s 7h 8s]
+Seat 1: F1nn771 folded before Flop
+Seat 2: SalviEdo collected (1748)
+Seat 3: NoSugarAdd folded before Flop (didn't bet)
+Seat 4: casssio123 folded before Flop (didn't bet)
+Seat 5: 1nicotop folded on the Turn
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: Tj0maTi (small blind) folded before Flop
+Seat 8: artemchik144 (big blind) folded before Flop
+
+PokerStars Hand #261297148356: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:43:24 BRT [2026/06/30 13:43:24 ET]
+Table '4010773558 4' 8-max Seat #7 is the button
+Seat 2: SalviEdo (12480 in chips)
+Seat 3: NoSugarAdd (9935 in chips)
+Seat 4: casssio123 (10168 in chips)
+Seat 5: 1nicotop (8873 in chips)
+Seat 6: Timefalls (9241 in chips)
+Seat 7: Tj0maTi (8887 in chips)
+Seat 8: artemchik144 (12882 in chips)
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+artemchik144: posts small blind 30
+SalviEdo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [6s Ac]
+NoSugarAdd: folds
+casssio123: folds
+1nicotop: folds
+Timefalls: raises 60 to 120
+Tj0maTi: folds
+artemchik144: folds
+G0FundMe is disconnected
+SalviEdo: calls 60
+*** FLOP *** [Kc Tc 7s]
+SalviEdo: checks
+Timefalls: bets 163
+SalviEdo: calls 163
+*** TURN *** [Kc Tc 7s] [Ah]
+SalviEdo: checks
+Timefalls: bets 360
+SalviEdo: folds
+Uncalled bet (360) returned to Timefalls
+Timefalls collected 652 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 652 | Rake 0
+Board [Kc Tc 7s Ah]
+Seat 2: SalviEdo (big blind) folded on the Turn
+Seat 3: NoSugarAdd folded before Flop (didn't bet)
+Seat 4: casssio123 folded before Flop (didn't bet)
+Seat 5: 1nicotop folded before Flop (didn't bet)
+Seat 6: Timefalls collected (652)
+Seat 7: Tj0maTi (button) folded before Flop (didn't bet)
+Seat 8: artemchik144 (small blind) folded before Flop
+
+PokerStars Hand #261297158922: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level II (30/60) - 2026/06/30 14:44:32 BRT [2026/06/30 13:44:32 ET]
+Table '4010773558 4' 8-max Seat #8 is the button
+Seat 1: G0FundMe (10000 in chips) out of hand (moved from another table into small blind)
+Seat 2: SalviEdo (12189 in chips)
+Seat 3: NoSugarAdd (9927 in chips)
+Seat 4: casssio123 (10160 in chips)
+Seat 5: 1nicotop (8865 in chips)
+Seat 6: Timefalls (9602 in chips)
+Seat 7: Tj0maTi (8879 in chips)
+Seat 8: artemchik144 (12844 in chips)
+G0FundMe will be allowed to play after the button
+SalviEdo: posts the ante 8
+NoSugarAdd: posts the ante 8
+casssio123: posts the ante 8
+1nicotop: posts the ante 8
+Timefalls: posts the ante 8
+Tj0maTi: posts the ante 8
+artemchik144: posts the ante 8
+SalviEdo: posts small blind 30
+NoSugarAdd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Timefalls [6c Tc]
+casssio123: raises 120 to 180
+1nicotop: calls 180
+Timefalls: folds
+Tj0maTi: folds
+artemchik144: folds
+SalviEdo: folds
+NoSugarAdd: folds
+*** FLOP *** [6d Ts Qh]
+casssio123: bets 152
+1nicotop: calls 152
+*** TURN *** [6d Ts Qh] [4c]
+casssio123: bets 243
+1nicotop: calls 243
+*** RIVER *** [6d Ts Qh 4c] [Jc]
+casssio123: bets 1296
+1nicotop: folds
+Uncalled bet (1296) returned to casssio123
+casssio123 collected 1296 from pot
+casssio123: doesn't show hand
+*** SUMMARY ***
+Total pot 1296 | Rake 0
+Board [6d Ts Qh 4c Jc]
+Seat 2: SalviEdo (small blind) folded before Flop
+Seat 3: NoSugarAdd (big blind) folded before Flop
+Seat 4: casssio123 collected (1296)
+Seat 5: 1nicotop folded on the River
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: Tj0maTi folded before Flop (didn't bet)
+Seat 8: artemchik144 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261297173902: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:46:06 BRT [2026/06/30 13:46:06 ET]
+Table '4010773558 23' 8-max Seat #2 is the button
+Seat 1: bigstacktimi (10492 in chips)
+Seat 2: Nakazylya (11292 in chips)
+Seat 3: zaurabexAAAA (10261 in chips)
+Seat 4: maxmels (8477 in chips)
+Seat 5: Dieginho86 (9860 in chips)
+Seat 6: Timefalls (9594 in chips)
+Seat 7: neto1959555 (8781 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+zaurabexAAAA: posts small blind 40
+maxmels: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [Jd Ad]
+Dieginho86: folds
+Timefalls: raises 80 to 160
+neto1959555: folds
+bigstacktimi: folds
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: calls 80
+*** FLOP *** [Ac 7s 8s]
+maxmels: checks
+Timefalls: bets 215
+maxmels: folds
+Uncalled bet (215) returned to Timefalls
+Timefalls collected 430 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 430 | Rake 0
+Board [Ac 7s 8s]
+Seat 1: bigstacktimi folded before Flop (didn't bet)
+Seat 2: Nakazylya (button) folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA (small blind) folded before Flop
+Seat 4: maxmels (big blind) folded on the Flop
+Seat 5: Dieginho86 folded before Flop (didn't bet)
+Seat 6: Timefalls collected (430)
+Seat 7: neto1959555 folded before Flop (didn't bet)
+
+PokerStars Hand #261297180167: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:46:47 BRT [2026/06/30 13:46:47 ET]
+Table '4010773558 23' 8-max Seat #3 is the button
+Seat 1: bigstacktimi (10482 in chips)
+Seat 2: Nakazylya (11282 in chips)
+Seat 3: zaurabexAAAA (10211 in chips)
+Seat 4: maxmels (8307 in chips)
+Seat 5: Dieginho86 (9850 in chips)
+Seat 6: Timefalls (9854 in chips)
+Seat 7: neto1959555 (8771 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+maxmels: posts small blind 40
+Dieginho86: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [9h Tc]
+Timefalls: folds
+neto1959555: folds
+bigstacktimi: folds
+Nakazylya: folds
+zaurabexAAAA: raises 96 to 176
+maxmels: calls 136
+rpcruzeiro is disconnected
+Dieginho86: folds
+*** FLOP *** [Jh 8s 9c]
+maxmels: bets 320
+zaurabexAAAA: calls 320
+*** TURN *** [Jh 8s 9c] [6h]
+maxmels: bets 571
+zaurabexAAAA: calls 571
+*** RIVER *** [Jh 8s 9c 6h] [8d]
+maxmels: checks
+zaurabexAAAA: bets 2432
+maxmels: folds
+Uncalled bet (2432) returned to zaurabexAAAA
+zaurabexAAAA collected 2284 from pot
+zaurabexAAAA: doesn't show hand
+*** SUMMARY ***
+Total pot 2284 | Rake 0
+Board [Jh 8s 9c 6h 8d]
+Seat 1: bigstacktimi folded before Flop (didn't bet)
+Seat 2: Nakazylya folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA (button) collected (2284)
+Seat 4: maxmels (small blind) folded on the River
+Seat 5: Dieginho86 (big blind) folded before Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: neto1959555 folded before Flop (didn't bet)
+
+PokerStars Hand #261297190602: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:47:52 BRT [2026/06/30 13:47:52 ET]
+Table '4010773558 23' 8-max Seat #4 is the button
+Seat 1: bigstacktimi (10472 in chips)
+Seat 2: Nakazylya (11272 in chips)
+Seat 3: zaurabexAAAA (11418 in chips)
+Seat 4: maxmels (7230 in chips)
+Seat 5: Dieginho86 (9760 in chips)
+Seat 6: Timefalls (9844 in chips)
+Seat 7: neto1959555 (8761 in chips)
+Seat 8: rpcruzeiro (10000 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+Dieginho86: posts small blind 40
+Timefalls: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [8s 3h]
+neto1959555: raises 80 to 160
+rpcruzeiro: raises 400 to 560
+bigstacktimi: folds
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: folds
+Dieginho86: folds
+Timefalls: folds
+neto1959555: calls 400
+*** FLOP *** [7c 4s 4h]
+neto1959555: checks
+rpcruzeiro: bets 290
+neto1959555: calls 290
+*** TURN *** [7c 4s 4h] [9h]
+neto1959555: checks
+rpcruzeiro: checks
+*** RIVER *** [7c 4s 4h 9h] [8h]
+neto1959555: bets 1900
+rpcruzeiro: folds
+Uncalled bet (1900) returned to neto1959555
+neto1959555 collected 1900 from pot
+neto1959555: doesn't show hand
+*** SUMMARY ***
+Total pot 1900 | Rake 0
+Board [7c 4s 4h 9h 8h]
+Seat 1: bigstacktimi folded before Flop (didn't bet)
+Seat 2: Nakazylya folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA folded before Flop (didn't bet)
+Seat 4: maxmels (button) folded before Flop (didn't bet)
+Seat 5: Dieginho86 (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: neto1959555 collected (1900)
+Seat 8: rpcruzeiro folded on the River
+
+PokerStars Hand #261297202037: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:49:04 BRT [2026/06/30 13:49:04 ET]
+Table '4010773558 23' 8-max Seat #5 is the button
+Seat 1: bigstacktimi (10462 in chips)
+Seat 2: Nakazylya (11262 in chips)
+Seat 3: zaurabexAAAA (11408 in chips)
+Seat 4: maxmels (7220 in chips)
+Seat 5: Dieginho86 (9710 in chips)
+Seat 6: Timefalls (9754 in chips)
+Seat 7: neto1959555 (9801 in chips)
+Seat 8: rpcruzeiro (9140 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+Timefalls: posts small blind 40
+neto1959555: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [5c Ac]
+rpcruzeiro: folds
+bigstacktimi: calls 80
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: folds
+Dieginho86: folds
+Timefalls: calls 40
+neto1959555: checks
+*** FLOP *** [Ad 5h 2s]
+Timefalls: checks
+neto1959555: checks
+bigstacktimi: checks
+*** TURN *** [Ad 5h 2s] [Qs]
+Timefalls: bets 160
+neto1959555: folds
+bigstacktimi: folds
+Uncalled bet (160) returned to Timefalls
+Timefalls collected 320 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [Ad 5h 2s Qs]
+Seat 1: bigstacktimi folded on the Turn
+Seat 2: Nakazylya folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA folded before Flop (didn't bet)
+Seat 4: maxmels folded before Flop (didn't bet)
+Seat 5: Dieginho86 (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) collected (320)
+Seat 7: neto1959555 (big blind) folded on the Turn
+Seat 8: rpcruzeiro folded before Flop (didn't bet)
+
+PokerStars Hand #261297211890: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:50:06 BRT [2026/06/30 13:50:06 ET]
+Table '4010773558 23' 8-max Seat #6 is the button
+Seat 1: bigstacktimi (10372 in chips)
+Seat 2: Nakazylya (11252 in chips)
+Seat 3: zaurabexAAAA (11398 in chips)
+Seat 4: maxmels (7210 in chips)
+Seat 5: Dieginho86 (9700 in chips)
+Seat 6: Timefalls (9984 in chips)
+Seat 7: neto1959555 (9711 in chips)
+Seat 8: rpcruzeiro (9130 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+neto1959555: posts small blind 40
+rpcruzeiro: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [9s Kd]
+bigstacktimi: raises 80 to 160
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: folds
+Dieginho86: raises 240 to 400
+Timefalls: folds
+neto1959555: folds
+rpcruzeiro: folds
+bigstacktimi: calls 240
+*** FLOP *** [Ts 6c 4s]
+bigstacktimi: checks
+Dieginho86: checks
+*** TURN *** [Ts 6c 4s] [6d]
+bigstacktimi: checks
+Dieginho86: bets 760
+bigstacktimi: folds
+Uncalled bet (760) returned to Dieginho86
+Dieginho86 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [Ts 6c 4s 6d]
+Seat 1: bigstacktimi folded on the Turn
+Seat 2: Nakazylya folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA folded before Flop (didn't bet)
+Seat 4: maxmels folded before Flop (didn't bet)
+Seat 5: Dieginho86 collected (1000)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: neto1959555 (small blind) folded before Flop
+Seat 8: rpcruzeiro (big blind) folded before Flop
+
+PokerStars Hand #261297221462: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:51:07 BRT [2026/06/30 13:51:07 ET]
+Table '4010773558 23' 8-max Seat #7 is the button
+Seat 1: bigstacktimi (9962 in chips)
+Seat 2: Nakazylya (11242 in chips)
+Seat 3: zaurabexAAAA (11388 in chips)
+Seat 4: maxmels (7200 in chips)
+Seat 5: Dieginho86 (10290 in chips)
+Seat 6: Timefalls (9974 in chips)
+Seat 7: neto1959555 (9661 in chips)
+Seat 8: rpcruzeiro (9040 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+rpcruzeiro: posts small blind 40
+bigstacktimi: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 2d]
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: folds
+Dieginho86: raises 96 to 176
+Timefalls: folds
+neto1959555 has timed out
+neto1959555: folds
+neto1959555 is sitting out
+rpcruzeiro: folds
+bigstacktimi: calls 96
+*** FLOP *** [9h 8d 7s]
+bigstacktimi: checks
+Dieginho86: checks
+*** TURN *** [9h 8d 7s] [Jc]
+bigstacktimi: bets 80
+Dieginho86: calls 80
+*** RIVER *** [9h 8d 7s Jc] [Ac]
+bigstacktimi: bets 80
+neto1959555 has returned
+Dieginho86: raises 792 to 872
+bigstacktimi: folds
+Uncalled bet (792) returned to Dieginho86
+Dieginho86 collected 792 from pot
+*** SUMMARY ***
+Total pot 792 | Rake 0
+Board [9h 8d 7s Jc Ac]
+Seat 1: bigstacktimi (big blind) folded on the River
+Seat 2: Nakazylya folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA folded before Flop (didn't bet)
+Seat 4: maxmels folded before Flop (didn't bet)
+Seat 5: Dieginho86 collected (792)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: neto1959555 (button) folded before Flop (didn't bet)
+Seat 8: rpcruzeiro (small blind) folded before Flop
+
+PokerStars Hand #261297231491: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:52:11 BRT [2026/06/30 13:52:11 ET]
+Table '4010773558 23' 8-max Seat #8 is the button
+Seat 1: bigstacktimi (9616 in chips)
+Seat 2: Nakazylya (11232 in chips)
+Seat 3: zaurabexAAAA (11378 in chips)
+Seat 4: maxmels (7190 in chips)
+Seat 5: Dieginho86 (10736 in chips)
+Seat 6: Timefalls (9964 in chips)
+Seat 7: neto1959555 (9651 in chips)
+Seat 8: rpcruzeiro (8990 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+bigstacktimi: posts small blind 40
+Nakazylya: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [Ad Ac]
+zaurabexAAAA: folds
+maxmels: folds
+Dieginho86: folds
+Timefalls: raises 80 to 160
+neto1959555: folds
+rpcruzeiro: raises 440 to 600
+bigstacktimi: folds
+Nakazylya: folds
+Timefalls: calls 440
+*** FLOP *** [3h Jh Qh]
+Timefalls: checks
+rpcruzeiro: bets 308
+Timefalls: raises 412 to 720
+rpcruzeiro: calls 412
+*** TURN *** [3h Jh Qh] [Qd]
+Timefalls: bets 1600
+rpcruzeiro: folds
+Uncalled bet (1600) returned to Timefalls
+Timefalls collected 2840 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 2840 | Rake 0
+Board [3h Jh Qh Qd]
+Seat 1: bigstacktimi (small blind) folded before Flop
+Seat 2: Nakazylya (big blind) folded before Flop
+Seat 3: zaurabexAAAA folded before Flop (didn't bet)
+Seat 4: maxmels folded before Flop (didn't bet)
+Seat 5: Dieginho86 folded before Flop (didn't bet)
+Seat 6: Timefalls collected (2840)
+Seat 7: neto1959555 folded before Flop (didn't bet)
+Seat 8: rpcruzeiro (button) folded on the Turn
+
+PokerStars Hand #261297244270: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level III (40/80) - 2026/06/30 14:53:33 BRT [2026/06/30 13:53:33 ET]
+Table '4010773558 23' 8-max Seat #1 is the button
+Seat 1: bigstacktimi (9566 in chips)
+Seat 2: Nakazylya (11142 in chips)
+Seat 3: zaurabexAAAA (11368 in chips)
+Seat 4: maxmels (7180 in chips)
+Seat 5: Dieginho86 (10726 in chips)
+Seat 6: Timefalls (11474 in chips)
+Seat 7: neto1959555 (9641 in chips)
+Seat 8: rpcruzeiro (7660 in chips)
+bigstacktimi: posts the ante 10
+Nakazylya: posts the ante 10
+zaurabexAAAA: posts the ante 10
+maxmels: posts the ante 10
+Dieginho86: posts the ante 10
+Timefalls: posts the ante 10
+neto1959555: posts the ante 10
+rpcruzeiro: posts the ante 10
+Nakazylya: posts small blind 40
+zaurabexAAAA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Timefalls [7c 8h]
+maxmels: folds
+Dieginho86: folds
+Timefalls: folds
+neto1959555: raises 160 to 240
+rpcruzeiro: folds
+bigstacktimi: calls 240
+Nakazylya: folds
+zaurabexAAAA: folds
+*** FLOP *** [As Kc 3s]
+neto1959555: checks
+bigstacktimi: bets 80
+neto1959555: raises 80 to 160
+bigstacktimi: raises 240 to 400
+neto1959555: raises 240 to 640
+bigstacktimi: raises 720 to 1360
+neto1959555: raises 720 to 2080
+bigstacktimi: raises 720 to 2800
+neto1959555: raises 720 to 3520
+bigstacktimi: calls 720
+*** TURN *** [As Kc 3s] [4s]
+neto1959555: checks
+bigstacktimi: bets 5796 and is all-in
+neto1959555: calls 5796
+*** RIVER *** [As Kc 3s 4s] [8d]
+*** SHOW DOWN ***
+neto1959555: shows [Kd Kh] (three of a kind, Kings)
+bigstacktimi: shows [Qs 2s] (a flush, Ace high)
+bigstacktimi collected 19312 from pot
+*** SUMMARY ***
+Total pot 19312 | Rake 0
+Board [As Kc 3s 4s 8d]
+Seat 1: bigstacktimi (button) showed [Qs 2s] and won (19312) with a flush, Ace high
+Seat 2: Nakazylya (small blind) folded before Flop
+Seat 3: zaurabexAAAA (big blind) folded before Flop
+Seat 4: maxmels folded before Flop (didn't bet)
+Seat 5: Dieginho86 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: neto1959555 showed [Kd Kh] and lost with three of a kind, Kings
+Seat 8: rpcruzeiro folded before Flop (didn't bet)
+
+PokerStars Hand #261297257100: Tournament #4010773558, $3.92+$0.48 USD Hold'em No Limit - Level IV (50/100) - 2026/06/30 14:54:54 BRT [2026/06/30 13:54:54 ET]
+Table '4010773558 23' 8-max Seat #2 is the button
+Seat 1: bigstacktimi (19312 in chips)
+Seat 2: Nakazylya (11092 in chips)
+Seat 3: zaurabexAAAA (11278 in chips)
+Seat 4: maxmels (7170 in chips)
+Seat 5: Dieginho86 (10716 in chips)
+Seat 6: Timefalls (11464 in chips)
+Seat 7: neto1959555 (75 in chips)
+Seat 8: rpcruzeiro (7650 in chips)
+bigstacktimi: posts the ante 12
+Nakazylya: posts the ante 12
+zaurabexAAAA: posts the ante 12
+maxmels: posts the ante 12
+Dieginho86: posts the ante 12
+Timefalls: posts the ante 12
+neto1959555: posts the ante 12
+rpcruzeiro: posts the ante 12
+zaurabexAAAA: posts small blind 50
+maxmels: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [Th 4c]
+Dieginho86: raises 100 to 200
+Timefalls: folds
+neto1959555: calls 63 and is all-in
+rpcruzeiro: folds
+bigstacktimi: calls 200
+Nakazylya: folds
+zaurabexAAAA: folds
+maxmels: folds
+*** FLOP *** [3s 2c 3d]
+Dieginho86: checks
+bigstacktimi: checks
+*** TURN *** [3s 2c 3d] [8s]
+Dieginho86: checks
+bigstacktimi: checks
+*** RIVER *** [3s 2c 3d 8s] [6s]
+Dieginho86: checks
+bigstacktimi: checks
+*** SHOW DOWN ***
+Dieginho86: shows [Js Ac] (a pair of Threes)
+bigstacktimi: mucks hand
+Dieginho86 collected 311 from side pot
+neto1959555: shows [Kh Ah] (a pair of Threes - Ace+King kicker)
+neto1959555 collected 398 from main pot
+*** SUMMARY ***
+Total pot 709 Main pot 398. Side pot 311. | Rake 0
+Board [3s 2c 3d 8s 6s]
+Seat 1: bigstacktimi mucked [Jd 7d]
+Seat 2: Nakazylya (button) folded before Flop (didn't bet)
+Seat 3: zaurabexAAAA (small blind) folded before Flop
+Seat 4: maxmels (big blind) folded before Flop
+Seat 5: Dieginho86 showed [Js Ac] and won (311) with a pair of Threes
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: neto1959555 showed [Kh Ah] and won (398) with a pair of Threes
+Seat 8: rpcruzeiro folded before Flop (didn't bet)

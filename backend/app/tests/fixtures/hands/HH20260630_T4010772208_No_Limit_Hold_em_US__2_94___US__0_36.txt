@@ -1,0 +1,3446 @@
+PokerStars Hand #261296622466: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:43:00 BRT [2026/06/30 12:43:00 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: $$tr8 Hemp (9046 in chips)
+Seat 2: rigel_poker (8588 in chips)
+Seat 3: eki87 (5585 in chips)
+Seat 4: melnobile (6976 in chips)
+Seat 5: SavageLeone (7172 in chips)
+Seat 6: Timefalls (5000 in chips)
+Seat 7: BielzadaXesq (9782 in chips)
+Seat 8: LeonardoZT (5478 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+SavageLeone: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+eki87: posts small blind 50
+melnobile: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [8s 7s]
+SavageLeone: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+$$tr8 Hemp: folds
+rigel_poker: folds
+eki87: folds
+Uncalled bet (50) returned to melnobile
+melnobile collected 196 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 196 | Rake 0
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: eki87 (small blind) folded before Flop
+Seat 4: melnobile (big blind) collected (196)
+Seat 5: SavageLeone folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296626475: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:43:28 BRT [2026/06/30 12:43:28 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: $$tr8 Hemp (9034 in chips)
+Seat 2: rigel_poker (8576 in chips)
+Seat 3: eki87 (5523 in chips)
+Seat 4: melnobile (7110 in chips)
+Seat 5: SavageLeone (7160 in chips)
+Seat 6: Timefalls (4988 in chips)
+Seat 7: BielzadaXesq (9770 in chips)
+Seat 8: LeonardoZT (5466 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+SavageLeone: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+melnobile: posts small blind 50
+SavageLeone: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [4s 5c]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: calls 200
+rigel_poker: folds
+eki87: folds
+melnobile: calls 150
+SavageLeone: calls 100
+*** FLOP *** [Ks 9d Qc]
+melnobile: checks
+SavageLeone: checks
+LeonardoZT: checks
+$$tr8 Hemp: checks
+*** TURN *** [Ks 9d Qc] [8s]
+melnobile: bets 627
+SavageLeone: folds
+LeonardoZT: calls 627
+$$tr8 Hemp: folds
+*** RIVER *** [Ks 9d Qc 8s] [3s]
+melnobile: bets 1505
+LeonardoZT: folds
+Uncalled bet (1505) returned to melnobile
+melnobile collected 2150 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 2150 | Rake 0
+Board [Ks 9d Qc 8s 3s]
+Seat 1: $$tr8 Hemp folded on the Turn
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) collected (2150)
+Seat 5: SavageLeone (big blind) folded on the Turn
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded on the River
+
+PokerStars Hand #261296632874: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:44:12 BRT [2026/06/30 12:44:12 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: $$tr8 Hemp (8822 in chips)
+Seat 2: rigel_poker (8564 in chips)
+Seat 3: eki87 (5511 in chips)
+Seat 4: melnobile (8421 in chips)
+Seat 5: SavageLeone (6948 in chips)
+Seat 6: Timefalls (4976 in chips)
+Seat 7: BielzadaXesq (9758 in chips)
+Seat 8: LeonardoZT (4627 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+SavageLeone: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+SavageLeone: posts small blind 50
+Timefalls: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [9s Qc]
+BielzadaXesq: folds
+LeonardoZT: folds
+$$tr8 Hemp: folds
+rigel_poker: raises 100 to 200
+eki87: folds
+melnobile: folds
+SavageLeone: calls 150
+Timefalls: calls 100
+*** FLOP *** [3d 2s Ks]
+SavageLeone: checks
+Timefalls: checks
+rigel_poker: bets 383
+SavageLeone: raises 716 to 1099
+Timefalls: folds
+rigel_poker: folds
+Uncalled bet (716) returned to SavageLeone
+SavageLeone collected 1462 from pot
+*** SUMMARY ***
+Total pot 1462 | Rake 0
+Board [3d 2s Ks]
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker folded on the Flop
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 5: SavageLeone (small blind) collected (1462)
+Seat 6: Timefalls (big blind) folded on the Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296641411: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:45:10 BRT [2026/06/30 12:45:10 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: $$tr8 Hemp (8810 in chips)
+Seat 2: rigel_poker (7969 in chips)
+Seat 3: eki87 (5499 in chips)
+Seat 4: melnobile (8409 in chips)
+Seat 5: SavageLeone (7815 in chips)
+Seat 6: Timefalls (4764 in chips)
+Seat 7: BielzadaXesq (9746 in chips)
+Seat 8: LeonardoZT (4615 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+SavageLeone: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+Timefalls: posts small blind 50
+BielzadaXesq: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [6h 7s]
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: folds
+rigel_poker: folds
+eki87: folds
+melnobile: raises 500 to 700
+SavageLeone: calls 700
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+*** FLOP *** [7h 2h 9c]
+melnobile: bets 609
+SavageLeone: raises 6494 to 7103 and is all-in
+melnobile: calls 6494
+*** TURN *** [7h 2h 9c] [3c]
+*** RIVER *** [7h 2h 9c 3c] [6d]
+*** SHOW DOWN ***
+melnobile: shows [Qs Qd] (a pair of Queens)
+SavageLeone: shows [Qh Ah] (high card Ace)
+melnobile collected 16052 from pot
+SavageLeone is sitting out
+SavageLeone finished the tournament
+*** SUMMARY ***
+Total pot 16052 | Rake 0
+Board [7h 2h 9c 3c 6d]
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile showed [Qs Qd] and won (16052) with a pair of Queens
+Seat 5: SavageLeone (button) showed [Qh Ah] and lost with high card Ace
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) folded before Flop
+Seat 8: LeonardoZT folded before Flop
+
+PokerStars Hand #261296648454: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:45:59 BRT [2026/06/30 12:45:59 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: $$tr8 Hemp (8798 in chips)
+Seat 2: rigel_poker (7957 in chips)
+Seat 3: eki87 (5487 in chips)
+Seat 4: melnobile (16646 in chips)
+Seat 6: Timefalls (4702 in chips)
+Seat 7: BielzadaXesq (9634 in chips)
+Seat 8: LeonardoZT (4403 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+BielzadaXesq: posts small blind 50
+LeonardoZT: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [As 3c]
+$$tr8 Hemp: raises 100 to 200
+rigel_poker: folds
+eki87: raises 350 to 550
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+$$tr8 Hemp: folds
+Uncalled bet (350) returned to eki87
+eki87 collected 634 from pot
+eki87: doesn't show hand
+*** SUMMARY ***
+Total pot 634 | Rake 0
+Seat 1: $$tr8 Hemp folded before Flop
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 collected (634)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261296653550: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:46:34 BRT [2026/06/30 12:46:34 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: $$tr8 Hemp (8586 in chips)
+Seat 2: rigel_poker (7945 in chips)
+Seat 3: eki87 (5909 in chips)
+Seat 4: melnobile (16634 in chips)
+Seat 6: Timefalls (4690 in chips)
+Seat 7: BielzadaXesq (9572 in chips)
+Seat 8: LeonardoZT (4291 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+LeonardoZT: posts small blind 50
+$$tr8 Hemp: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [3s Qh]
+rigel_poker: folds
+eki87: folds
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+Uncalled bet (50) returned to $$tr8 Hemp
+$$tr8 Hemp collected 184 from pot
+$$tr8 Hemp: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Seat 1: $$tr8 Hemp (big blind) collected (184)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) folded before Flop (didn't bet)
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261296656934: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:46:58 BRT [2026/06/30 12:46:58 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: $$tr8 Hemp (8708 in chips)
+Seat 2: rigel_poker (7933 in chips)
+Seat 3: eki87 (5897 in chips)
+Seat 4: melnobile (16622 in chips)
+Seat 6: Timefalls (4678 in chips)
+Seat 7: BielzadaXesq (9560 in chips)
+Seat 8: LeonardoZT (4229 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+$$tr8 Hemp: posts small blind 50
+rigel_poker: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [6c Kh]
+eki87: folds
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: calls 150
+rigel_poker: raises 1000 to 1200
+LeonardoZT: folds
+$$tr8 Hemp: folds
+Uncalled bet (1000) returned to rigel_poker
+rigel_poker collected 684 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 684 | Rake 0
+Seat 1: $$tr8 Hemp (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) collected (684)
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop
+
+PokerStars Hand #261296662738: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:47:37 BRT [2026/06/30 12:47:37 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: $$tr8 Hemp (8496 in chips)
+Seat 2: rigel_poker (8405 in chips)
+Seat 3: eki87 (5885 in chips)
+Seat 4: melnobile (16610 in chips)
+Seat 6: Timefalls (4666 in chips)
+Seat 7: BielzadaXesq (9548 in chips)
+Seat 8: LeonardoZT (4017 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+rigel_poker: posts small blind 50
+eki87: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 5c]
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: raises 100 to 200
+LeonardoZT: calls 200
+$$tr8 Hemp: folds
+rigel_poker: folds
+eki87: folds
+*** FLOP *** [8h 3d 4d]
+BielzadaXesq: checks
+LeonardoZT: checks
+*** TURN *** [8h 3d 4d] [Kd]
+BielzadaXesq: bets 476
+LeonardoZT: calls 476
+*** RIVER *** [8h 3d 4d Kd] [5h]
+BielzadaXesq: checks
+LeonardoZT: bets 634
+BielzadaXesq: calls 634
+*** SHOW DOWN ***
+LeonardoZT: shows [Ks 3s] (two pair, Kings and Threes)
+BielzadaXesq: mucks hand
+LeonardoZT collected 2854 from pot
+*** SUMMARY ***
+Total pot 2854 | Rake 0
+Board [8h 3d 4d Kd 5h]
+Seat 1: $$tr8 Hemp (button) folded before Flop (didn't bet)
+Seat 2: rigel_poker (small blind) folded before Flop
+Seat 3: eki87 (big blind) folded before Flop
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq mucked [Tc Kh]
+Seat 8: LeonardoZT showed [Ks 3s] and won (2854) with two pair, Kings and Threes
+
+PokerStars Hand #261296669348: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:48:24 BRT [2026/06/30 12:48:24 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: $$tr8 Hemp (8484 in chips)
+Seat 2: rigel_poker (8343 in chips)
+Seat 3: eki87 (5773 in chips)
+Seat 4: melnobile (16598 in chips)
+Seat 6: Timefalls (4654 in chips)
+Seat 7: BielzadaXesq (8226 in chips)
+Seat 8: LeonardoZT (5549 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+eki87: posts small blind 50
+melnobile: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [7h 9h]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: folds
+rigel_poker: raises 400 to 600
+eki87: folds
+melnobile: folds
+LeonardoZT: calls 400
+*** FLOP *** [7d 2h 7c]
+LeonardoZT: checks
+rigel_poker: bets 789
+LeonardoZT: calls 789
+*** TURN *** [7d 2h 7c] [Jd]
+LeonardoZT: checks
+rigel_poker: checks
+*** RIVER *** [7d 2h 7c Jd] [9c]
+LeonardoZT: checks
+rigel_poker: bets 904
+LeonardoZT: calls 904
+*** SHOW DOWN ***
+rigel_poker: shows [Jh Kd] (two pair, Jacks and Sevens)
+LeonardoZT: mucks hand
+rigel_poker collected 4820 from pot
+*** SUMMARY ***
+Total pot 4820 | Rake 0
+Board [7d 2h 7c Jd 9c]
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) showed [Jh Kd] and won (4820) with two pair, Jacks and Sevens
+Seat 3: eki87 (small blind) folded before Flop
+Seat 4: melnobile (big blind) folded before Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT mucked [5d 5h]
+
+PokerStars Hand #261296675954: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:49:09 BRT [2026/06/30 12:49:09 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: $$tr8 Hemp (8472 in chips)
+Seat 2: rigel_poker (10858 in chips)
+Seat 3: eki87 (5711 in chips)
+Seat 4: melnobile (16486 in chips)
+Seat 6: Timefalls (4642 in chips)
+Seat 7: BielzadaXesq (8214 in chips)
+Seat 8: LeonardoZT (3244 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+melnobile: posts small blind 50
+Timefalls: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [7c As]
+BielzadaXesq: folds
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: folds
+rigel_poker: raises 400 to 600
+eki87: folds
+melnobile: folds
+Timefalls: folds
+LeonardoZT: raises 1434 to 2034
+rigel_poker: folds
+Uncalled bet (1434) returned to LeonardoZT
+LeonardoZT collected 1434 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 1434 | Rake 0
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop
+Seat 3: eki87 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT collected (1434)
+
+PokerStars Hand #261296681571: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level V (50/100) - 2026/06/30 13:49:48 BRT [2026/06/30 12:49:48 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: $$tr8 Hemp (8460 in chips)
+Seat 2: rigel_poker (10246 in chips)
+Seat 3: eki87 (5699 in chips)
+Seat 4: melnobile (16424 in chips)
+Seat 6: Timefalls (4530 in chips)
+Seat 7: BielzadaXesq (8202 in chips)
+Seat 8: LeonardoZT (4066 in chips)
+$$tr8 Hemp: posts the ante 12
+rigel_poker: posts the ante 12
+eki87: posts the ante 12
+melnobile: posts the ante 12
+Timefalls: posts the ante 12
+BielzadaXesq: posts the ante 12
+LeonardoZT: posts the ante 12
+Timefalls: posts small blind 50
+BielzadaXesq: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Timefalls [7h 9h]
+LeonardoZT: raises 100 to 200
+$$tr8 Hemp: folds
+rigel_poker: calls 200
+eki87: folds
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: folds
+*** FLOP *** [6c 9c 5h]
+LeonardoZT: checks
+rigel_poker: bets 349
+LeonardoZT: raises 3505 to 3854 and is all-in
+rigel_poker: folds
+Uncalled bet (3505) returned to LeonardoZT
+LeonardoZT collected 1332 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 1332 | Rake 0
+Board [6c 9c 5h]
+Seat 1: $$tr8 Hemp folded before Flop (didn't bet)
+Seat 2: rigel_poker folded on the Flop
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) folded before Flop
+Seat 8: LeonardoZT collected (1332)
+
+PokerStars Hand #261296685999: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:50:19 BRT [2026/06/30 12:50:19 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: $$tr8 Hemp (8448 in chips)
+Seat 2: rigel_poker (9685 in chips)
+Seat 3: eki87 (5687 in chips)
+Seat 4: melnobile (16412 in chips)
+Seat 6: Timefalls (4468 in chips)
+Seat 7: BielzadaXesq (8090 in chips)
+Seat 8: LeonardoZT (4837 in chips)
+$$tr8 Hemp: posts the ante 15
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+BielzadaXesq: posts small blind 60
+LeonardoZT: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [6h Jc]
+$$tr8 Hemp: raises 120 to 240
+rigel_poker: folds
+eki87: folds
+melnobile: raises 600 to 840
+Timefalls: folds
+BielzadaXesq: raises 1200 to 2040
+LeonardoZT: folds
+$$tr8 Hemp: folds
+melnobile: folds
+Uncalled bet (1200) returned to BielzadaXesq
+BielzadaXesq collected 2145 from pot
+*** SUMMARY ***
+Total pot 2145 | Rake 0
+Seat 1: $$tr8 Hemp folded before Flop
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (small blind) collected (2145)
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261296693993: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:51:15 BRT [2026/06/30 12:51:15 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 2: rigel_poker (9670 in chips)
+Seat 3: eki87 (5672 in chips)
+Seat 4: melnobile (15557 in chips)
+Seat 5: tiririk242 (5000 in chips)
+Seat 6: Timefalls (4453 in chips)
+Seat 7: BielzadaXesq (9380 in chips)
+Seat 8: LeonardoZT (4702 in chips)
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+LeonardoZT: posts small blind 60
+rigel_poker: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [9h 2d]
+eki87: folds
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: calls 60
+rigel_poker: checks
+*** FLOP *** [9c 8d 2s]
+LeonardoZT: checks
+rigel_poker: checks
+*** TURN *** [9c 8d 2s] [Ac]
+LeonardoZT: bets 283
+rigel_poker: folds
+Uncalled bet (283) returned to LeonardoZT
+LeonardoZT collected 345 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 345 | Rake 0
+Board [9c 8d 2s Ac]
+Seat 2: rigel_poker (big blind) folded on the Turn
+Seat 3: eki87 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) folded before Flop (didn't bet)
+Seat 8: LeonardoZT (small blind) collected (345)
+
+PokerStars Hand #261296699841: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:51:56 BRT [2026/06/30 12:51:56 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 2: rigel_poker (9535 in chips)
+Seat 3: eki87 (5657 in chips)
+Seat 4: melnobile (15542 in chips)
+Seat 5: tiririk242 (4985 in chips)
+Seat 6: Timefalls (4438 in chips)
+Seat 7: BielzadaXesq (9365 in chips)
+Seat 8: LeonardoZT (4912 in chips)
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+rigel_poker: posts small blind 60
+eki87: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [Jd 8c]
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+rigel_poker: raises 240 to 360
+eki87: calls 240
+*** FLOP *** [Qc Ad 9c]
+rigel_poker: bets 701
+eki87: calls 701
+*** TURN *** [Qc Ad 9c] [Ts]
+rigel_poker: bets 668
+eki87: calls 668
+*** RIVER *** [Qc Ad 9c Ts] [Jc]
+rigel_poker: checks
+eki87: checks
+*** SHOW DOWN ***
+rigel_poker: shows [Kd Ac] (a straight, Ten to Ace)
+eki87: mucks hand
+rigel_poker collected 3563 from pot
+*** SUMMARY ***
+Total pot 3563 | Rake 0
+Board [Qc Ad 9c Ts Jc]
+Seat 2: rigel_poker (small blind) showed [Kd Ac] and won (3563) with a straight, Ten to Ace
+Seat 3: eki87 (big blind) mucked [As 7s]
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296706334: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:52:42 BRT [2026/06/30 12:52:42 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 2: rigel_poker (11354 in chips)
+Seat 3: eki87 (3913 in chips)
+Seat 4: melnobile (15527 in chips)
+Seat 5: tiririk242 (4970 in chips)
+Seat 6: Timefalls (4423 in chips)
+Seat 7: BielzadaXesq (9350 in chips)
+Seat 8: LeonardoZT (4897 in chips)
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+eki87: posts small blind 60
+melnobile: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [9s 6h]
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+rigel_poker: folds
+eki87: calls 60
+melnobile: checks
+*** FLOP *** [Qs 2h 4h]
+eki87: checks
+melnobile: checks
+*** TURN *** [Qs 2h 4h] [Jc]
+eki87: checks
+melnobile: checks
+*** RIVER *** [Qs 2h 4h Jc] [Ac]
+eki87: bets 152
+melnobile: folds
+Uncalled bet (152) returned to eki87
+eki87 collected 345 from pot
+eki87: doesn't show hand
+*** SUMMARY ***
+Total pot 345 | Rake 0
+Board [Qs 2h 4h Jc Ac]
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: eki87 (small blind) collected (345)
+Seat 4: melnobile (big blind) folded on the River
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296713149: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:53:30 BRT [2026/06/30 12:53:30 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 2: rigel_poker (11339 in chips)
+Seat 3: eki87 (4123 in chips)
+Seat 4: melnobile (15392 in chips)
+Seat 5: tiririk242 (4955 in chips)
+Seat 6: Timefalls (4408 in chips)
+Seat 7: BielzadaXesq (9335 in chips)
+Seat 8: LeonardoZT (4882 in chips)
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+melnobile: posts small blind 60
+tiririk242: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [2h Ac]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb is disconnected
+rigel_poker: raises 240 to 360
+eki87: folds
+melnobile: folds
+tiririk242: calls 240
+*** FLOP *** [Kc 9h 8s]
+tiririk242: checks
+rigel_poker: bets 266
+tiririk242: calls 266
+*** TURN *** [Kc 9h 8s] [Js]
+tiririk242: checks
+rigel_poker: checks
+*** RIVER *** [Kc 9h 8s Js] [6h]
+tiririk242: bets 709
+rigel_poker: folds
+Uncalled bet (709) returned to tiririk242
+tiririk242 collected 1417 from pot
+*** SUMMARY ***
+Total pot 1417 | Rake 0
+Board [Kc 9h 8s Js 6h]
+Seat 2: rigel_poker folded on the River
+Seat 3: eki87 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded before Flop
+Seat 5: tiririk242 (big blind) collected (1417)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296724504: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 13:54:50 BRT [2026/06/30 12:54:50 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: nickdpb (5000 in chips)
+Seat 2: rigel_poker (10698 in chips)
+Seat 3: eki87 (4108 in chips)
+Seat 4: melnobile (15317 in chips)
+Seat 5: tiririk242 (5731 in chips)
+Seat 6: Timefalls (4393 in chips)
+Seat 7: BielzadaXesq (9320 in chips)
+Seat 8: LeonardoZT (4867 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+eki87: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+tiririk242: posts small blind 60
+Timefalls: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [2h 7h]
+BielzadaXesq: raises 120 to 240
+LeonardoZT: calls 240
+nickdpb: folds
+rigel_poker: folds
+eki87: calls 240
+melnobile: calls 240
+tiririk242: calls 180
+Timefalls: folds
+*** FLOP *** [7s 7d 8s]
+tiririk242: checks
+BielzadaXesq: checks
+LeonardoZT: checks
+eki87: checks
+melnobile: checks
+*** TURN *** [7s 7d 8s] [4h]
+tiririk242: checks
+BielzadaXesq: checks
+LeonardoZT: checks
+eki87: bets 540
+melnobile: folds
+tiririk242: calls 540
+BielzadaXesq: folds
+LeonardoZT: calls 540
+*** RIVER *** [7s 7d 8s 4h] [Td]
+tiririk242: checks
+LeonardoZT: checks
+eki87: checks
+*** SHOW DOWN ***
+tiririk242: shows [Th 4c] (two pair, Tens and Sevens)
+LeonardoZT: mucks hand
+eki87: mucks hand
+tiririk242 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | Rake 0
+Board [7s 7d 8s 4h Td]
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: eki87 mucked [6h 6c]
+Seat 4: melnobile (button) folded on the Turn
+Seat 5: tiririk242 (small blind) showed [Th 4c] and won (3060) with two pair, Tens and Sevens
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded on the Turn
+Seat 8: LeonardoZT mucked [Ac 9c]
+
+PokerStars Hand #261296778759: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:02:42 BRT [2026/06/30 13:02:42 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: nickdpb (4985 in chips)
+Seat 2: rigel_poker (10683 in chips)
+Seat 3: tbanana1 (5000 in chips)
+Seat 4: melnobile (15062 in chips)
+Seat 5: tiririk242 (7996 in chips)
+Seat 6: Timefalls (4258 in chips)
+Seat 7: BielzadaXesq (9065 in chips)
+Seat 8: LeonardoZT (4072 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+Timefalls: posts small blind 60
+BielzadaXesq: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [5d 2d]
+LeonardoZT: raises 120 to 240
+nickdpb: folds
+rigel_poker: folds
+tbanana1: calls 240
+melnobile: folds
+tiririk242: raises 7741 to 7981 and is all-in
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: calls 3817 and is all-in
+tbanana1: folds
+Uncalled bet (3924) returned to tiririk242
+*** FLOP *** [Kc 9c Jc]
+*** TURN *** [Kc 9c Jc] [Kd]
+*** RIVER *** [Kc 9c Jc Kd] [3h]
+*** SHOW DOWN ***
+LeonardoZT: shows [Jh As] (two pair, Kings and Jacks)
+tiririk242: shows [Ts Td] (two pair, Kings and Tens)
+LeonardoZT collected 8654 from pot
+*** SUMMARY ***
+Total pot 8654 | Rake 0
+Board [Kc 9c Jc Kd 3h]
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 (button) showed [Ts Td] and lost with two pair, Kings and Tens
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) folded before Flop
+Seat 8: LeonardoZT showed [Jh As] and won (8654) with two pair, Kings and Jacks
+
+PokerStars Hand #261296785618: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:03:30 BRT [2026/06/30 13:03:30 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: nickdpb (4970 in chips)
+Seat 2: rigel_poker (10668 in chips)
+Seat 3: tbanana1 (4745 in chips)
+Seat 4: melnobile (15047 in chips)
+Seat 5: tiririk242 (3924 in chips)
+Seat 6: Timefalls (4183 in chips)
+Seat 7: BielzadaXesq (8930 in chips)
+Seat 8: LeonardoZT (8654 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+BielzadaXesq: posts small blind 60
+LeonardoZT: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [Kd Qd]
+nickdpb: raises 120 to 240
+rigel_poker: folds
+tbanana1: folds
+melnobile: folds
+tiririk242: calls 240
+Timefalls: calls 240
+BielzadaXesq: folds
+LeonardoZT: folds
+*** FLOP *** [6c 3d 3s]
+nickdpb: bets 255
+tiririk242: folds
+Timefalls: calls 255
+*** TURN *** [6c 3d 3s] [Ah]
+nickdpb: bets 600
+Timefalls: folds
+Uncalled bet (600) returned to nickdpb
+nickdpb collected 1530 from pot
+nickdpb: doesn't show hand
+*** SUMMARY ***
+Total pot 1530 | Rake 0
+Board [6c 3d 3s Ah]
+Seat 1: nickdpb collected (1530)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded on the Flop
+Seat 6: Timefalls (button) folded on the Turn
+Seat 7: BielzadaXesq (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261296794122: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:04:30 BRT [2026/06/30 13:04:30 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: nickdpb (5990 in chips)
+Seat 2: rigel_poker (10653 in chips)
+Seat 3: tbanana1 (4730 in chips)
+Seat 4: melnobile (15032 in chips)
+Seat 5: tiririk242 (3669 in chips)
+Seat 6: Timefalls (3673 in chips)
+Seat 7: BielzadaXesq (8855 in chips)
+Seat 8: LeonardoZT (8519 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+LeonardoZT: posts small blind 60
+nickdpb: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [3d Ts]
+rigel_poker: folds
+tbanana1: folds
+melnobile: folds
+tiririk242: calls 120
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: checks
+*** FLOP *** [Qh 6c 3h]
+nickdpb: checks
+tiririk242: bets 420
+nickdpb: folds
+Uncalled bet (420) returned to tiririk242
+tiririk242 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [Qh 6c 3h]
+Seat 1: nickdpb (big blind) folded on the Flop
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 collected (420)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) folded before Flop (didn't bet)
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261296800075: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:05:11 BRT [2026/06/30 13:05:11 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: nickdpb (5855 in chips)
+Seat 2: rigel_poker (10638 in chips)
+Seat 3: tbanana1 (4715 in chips)
+Seat 4: melnobile (15017 in chips)
+Seat 5: tiririk242 (3954 in chips)
+Seat 6: Timefalls (3658 in chips)
+Seat 7: BielzadaXesq (8840 in chips)
+Seat 8: LeonardoZT (8444 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+nickdpb: posts small blind 60
+rigel_poker: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [Qd 7c]
+tbanana1: folds
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 120 to 240
+nickdpb: folds
+rigel_poker: calls 120
+*** FLOP *** [9s 7s Ts]
+rigel_poker: checks
+LeonardoZT: checks
+*** TURN *** [9s 7s Ts] [Kd]
+rigel_poker: checks
+LeonardoZT: bets 600
+rigel_poker: folds
+Uncalled bet (600) returned to LeonardoZT
+LeonardoZT collected 660 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 660 | Rake 0
+Board [9s 7s Ts Kd]
+Seat 1: nickdpb (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) folded on the Turn
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) collected (660)
+
+PokerStars Hand #261296808857: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:06:14 BRT [2026/06/30 13:06:14 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: nickdpb (5780 in chips)
+Seat 2: rigel_poker (10383 in chips)
+Seat 3: tbanana1 (4700 in chips)
+Seat 4: melnobile (15002 in chips)
+Seat 5: tiririk242 (3939 in chips)
+Seat 6: Timefalls (3643 in chips)
+Seat 7: BielzadaXesq (8825 in chips)
+Seat 8: LeonardoZT (8849 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+rigel_poker: posts small blind 60
+tbanana1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [Td 6c]
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: folds
+rigel_poker: raises 240 to 360
+tbanana1: folds
+Uncalled bet (240) returned to rigel_poker
+rigel_poker collected 360 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 1: nickdpb (button) folded before Flop (didn't bet)
+Seat 2: rigel_poker (small blind) collected (360)
+Seat 3: tbanana1 (big blind) folded before Flop
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296812809: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:06:41 BRT [2026/06/30 13:06:41 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: nickdpb (5765 in chips)
+Seat 2: rigel_poker (10608 in chips)
+Seat 3: tbanana1 (4565 in chips)
+Seat 4: melnobile (14987 in chips)
+Seat 5: tiririk242 (3924 in chips)
+Seat 6: Timefalls (3628 in chips)
+Seat 7: BielzadaXesq (8810 in chips)
+Seat 8: LeonardoZT (8834 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+tbanana1: posts small blind 60
+melnobile: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [2h Js]
+tiririk242: raises 420 to 540
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: folds
+rigel_poker: folds
+tbanana1: folds
+melnobile: folds
+Uncalled bet (420) returned to tiririk242
+tiririk242 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: tbanana1 (small blind) folded before Flop
+Seat 4: melnobile (big blind) folded before Flop
+Seat 5: tiririk242 collected (420)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296815399: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VI (60/120) - 2026/06/30 14:06:59 BRT [2026/06/30 13:06:59 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: nickdpb (5750 in chips)
+Seat 2: rigel_poker (10593 in chips)
+Seat 3: tbanana1 (4490 in chips)
+Seat 4: melnobile (14852 in chips)
+Seat 5: tiririk242 (4209 in chips)
+Seat 6: Timefalls (3613 in chips)
+Seat 7: BielzadaXesq (8795 in chips)
+Seat 8: LeonardoZT (8819 in chips)
+nickdpb: posts the ante 15
+rigel_poker: posts the ante 15
+tbanana1: posts the ante 15
+melnobile: posts the ante 15
+tiririk242: posts the ante 15
+Timefalls: posts the ante 15
+BielzadaXesq: posts the ante 15
+LeonardoZT: posts the ante 15
+melnobile: posts small blind 60
+tiririk242: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Timefalls [4h 9h]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: folds
+rigel_poker: raises 120 to 240
+tbanana1: folds
+melnobile: calls 180
+tiririk242: calls 120
+*** FLOP *** [2s 6s Td]
+melnobile: checks
+tiririk242: checks
+rigel_poker: bets 714
+melnobile: folds
+tiririk242: folds
+Uncalled bet (714) returned to rigel_poker
+rigel_poker collected 840 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [2s 6s Td]
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker collected (840)
+Seat 3: tbanana1 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded on the Flop
+Seat 5: tiririk242 (big blind) folded on the Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296826658: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:08:17 BRT [2026/06/30 13:08:17 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: nickdpb (5735 in chips)
+Seat 2: rigel_poker (11178 in chips)
+Seat 3: tbanana1 (4475 in chips)
+Seat 4: melnobile (14597 in chips)
+Seat 5: tiririk242 (3954 in chips)
+Seat 6: Timefalls (3598 in chips)
+Seat 7: BielzadaXesq (8780 in chips)
+Seat 8: LeonardoZT (8804 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+tbanana1: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+tiririk242: posts small blind 70
+Timefalls: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [5s 7d]
+BielzadaXesq: folds
+LeonardoZT: raises 140 to 280
+nickdpb: folds
+rigel_poker: folds
+tbanana1: folds
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+Uncalled bet (140) returned to LeonardoZT
+LeonardoZT collected 494 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 494 | Rake 0
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 5: tiririk242 (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT collected (494)
+
+PokerStars Hand #261296833728: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:09:06 BRT [2026/06/30 13:09:06 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: nickdpb (5717 in chips)
+Seat 2: rigel_poker (11160 in chips)
+Seat 3: tbanana1 (4457 in chips)
+Seat 4: melnobile (14579 in chips)
+Seat 5: tiririk242 (3866 in chips)
+Seat 6: Timefalls (3440 in chips)
+Seat 7: BielzadaXesq (8762 in chips)
+Seat 8: LeonardoZT (9140 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+tbanana1: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+Timefalls: posts small blind 70
+BielzadaXesq: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [6c 3d]
+LeonardoZT: folds
+nickdpb: raises 140 to 280
+rigel_poker: folds
+tbanana1: folds
+melnobile: raises 700 to 980
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+nickdpb: raises 4719 to 5699 and is all-in
+melnobile: calls 4719
+*** FLOP *** [9s Ks 8c]
+*** TURN *** [9s Ks 8c] [3s]
+*** RIVER *** [9s Ks 8c 3s] [8s]
+*** SHOW DOWN ***
+nickdpb: shows [As Kc] (a flush, Ace high)
+melnobile: shows [7h 7d] (two pair, Eights and Sevens)
+nickdpb collected 11752 from pot
+*** SUMMARY ***
+Total pot 11752 | Rake 0
+Board [9s Ks 8c 3s 8s]
+Seat 1: nickdpb showed [As Kc] and won (11752) with a flush, Ace high
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile showed [7h 7d] and lost with two pair, Eights and Sevens
+Seat 5: tiririk242 (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) folded before Flop
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296841872: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:10:03 BRT [2026/06/30 13:10:03 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: nickdpb (11752 in chips)
+Seat 2: rigel_poker (11142 in chips)
+Seat 3: tbanana1 (4439 in chips)
+Seat 4: melnobile (8862 in chips)
+Seat 5: tiririk242 (3848 in chips)
+Seat 6: Timefalls (3352 in chips)
+Seat 7: BielzadaXesq (8604 in chips)
+Seat 8: LeonardoZT (9122 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+tbanana1: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+BielzadaXesq: posts small blind 70
+LeonardoZT: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [Kd 3d]
+nickdpb: folds
+rigel_poker: folds
+tbanana1: folds
+melnobile: folds
+tiririk242: calls 140
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: checks
+*** FLOP *** [4h Jc Jh]
+LeonardoZT: checks
+tiririk242: checks
+*** TURN *** [4h Jc Jh] [6h]
+LeonardoZT: checks
+tiririk242: bets 247
+LeonardoZT: calls 247
+*** RIVER *** [4h Jc Jh 6h] [As]
+LeonardoZT: checks
+tiririk242: checks
+*** SHOW DOWN ***
+LeonardoZT: shows [Kh 2c] (a pair of Jacks)
+tiririk242: shows [Tc Th] (two pair, Jacks and Tens)
+tiririk242 collected 988 from pot
+*** SUMMARY ***
+Total pot 988 | Rake 0
+Board [4h Jc Jh 6h As]
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: tbanana1 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 showed [Tc Th] and won (988) with two pair, Jacks and Tens
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) showed [Kh 2c] and lost with a pair of Jacks
+
+PokerStars Hand #261296848066: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:10:47 BRT [2026/06/30 13:10:47 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: nickdpb (11734 in chips)
+Seat 2: rigel_poker (11124 in chips)
+Seat 4: melnobile (8844 in chips)
+Seat 5: tiririk242 (4431 in chips)
+Seat 6: Timefalls (3334 in chips)
+Seat 7: BielzadaXesq (8516 in chips)
+Seat 8: LeonardoZT (8717 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+LeonardoZT: posts small blind 70
+nickdpb: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [3s Td]
+rigel_poker: raises 140 to 280
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: calls 280
+LeonardoZT: folds
+nickdpb: calls 140
+*** FLOP *** [2h 7s Jh]
+nickdpb: checks
+rigel_poker: bets 881
+BielzadaXesq: folds
+nickdpb: folds
+Uncalled bet (881) returned to rigel_poker
+rigel_poker collected 1036 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 1036 | Rake 0
+Board [2h 7s Jh]
+Seat 1: nickdpb (big blind) folded on the Flop
+Seat 2: rigel_poker collected (1036)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) folded on the Flop
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261296854896: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:11:35 BRT [2026/06/30 13:11:35 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: nickdpb (11436 in chips)
+Seat 2: rigel_poker (11862 in chips)
+Seat 4: melnobile (8826 in chips)
+Seat 5: tiririk242 (4413 in chips)
+Seat 6: Timefalls (3316 in chips)
+Seat 7: BielzadaXesq (8218 in chips)
+Seat 8: LeonardoZT (8629 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+nickdpb: posts small blind 70
+rigel_poker: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [Ks Kd]
+melnobile: folds
+tiririk242: calls 140
+Timefalls: raises 280 to 420
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: folds
+rigel_poker: folds
+tiririk242: calls 280
+*** FLOP *** [As Td 7h]
+tiririk242: checks
+Timefalls: bets 420
+tiririk242: calls 420
+*** TURN *** [As Td 7h] [6c]
+tiririk242: checks
+Timefalls: bets 1008
+tiririk242: folds
+Uncalled bet (1008) returned to Timefalls
+Timefalls collected 2016 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 2016 | Rake 0
+Board [As Td 7h 6c]
+Seat 1: nickdpb (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) folded before Flop
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded on the Turn
+Seat 6: Timefalls collected (2016)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296864377: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:12:40 BRT [2026/06/30 13:12:40 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: nickdpb (11348 in chips)
+Seat 2: rigel_poker (11704 in chips)
+Seat 4: melnobile (8808 in chips)
+Seat 5: tiririk242 (3555 in chips)
+Seat 6: Timefalls (4474 in chips)
+Seat 7: BielzadaXesq (8200 in chips)
+Seat 8: LeonardoZT (8611 in chips)
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+rigel_poker: posts small blind 70
+melnobile: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [5d 7h]
+tiririk242: calls 140
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: calls 140
+nickdpb: folds
+rigel_poker: calls 70
+SBGM8 is disconnected
+melnobile: checks
+*** FLOP *** [Kd 7s 3c]
+rigel_poker: checks
+melnobile: bets 140
+tiririk242: folds
+LeonardoZT: calls 140
+rigel_poker: calls 140
+*** TURN *** [Kd 7s 3c] [8h]
+rigel_poker: checks
+melnobile: bets 365
+LeonardoZT: calls 365
+rigel_poker: calls 365
+*** RIVER *** [Kd 7s 3c 8h] [8s]
+rigel_poker: checks
+melnobile: bets 1541
+LeonardoZT: folds
+rigel_poker: folds
+Uncalled bet (1541) returned to melnobile
+melnobile collected 2201 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 2201 | Rake 0
+Board [Kd 7s 3c 8h 8s]
+Seat 1: nickdpb (button) folded before Flop (didn't bet)
+Seat 2: rigel_poker (small blind) folded on the River
+Seat 4: melnobile (big blind) collected (2201)
+Seat 5: tiririk242 folded on the Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded on the River
+
+PokerStars Hand #261296876433: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:14:03 BRT [2026/06/30 13:14:03 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: nickdpb (11330 in chips)
+Seat 2: rigel_poker (11041 in chips)
+Seat 3: SBGM8 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: melnobile (10346 in chips)
+Seat 5: tiririk242 (3397 in chips)
+Seat 6: Timefalls (4456 in chips)
+Seat 7: BielzadaXesq (8182 in chips)
+Seat 8: LeonardoZT (7948 in chips)
+SBGM8 will be allowed to play after the button
+nickdpb: posts the ante 18
+rigel_poker: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+melnobile: posts small blind 70
+tiririk242: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [8c 3c]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+nickdpb: folds
+rigel_poker: folds
+melnobile: calls 70
+tiririk242: checks
+*** FLOP *** [Jd Ad 4h]
+melnobile: checks
+tiririk242: checks
+*** TURN *** [Jd Ad 4h] [5d]
+melnobile: checks
+tiririk242: checks
+*** RIVER *** [Jd Ad 4h 5d] [8h]
+melnobile: checks
+tiririk242: checks
+*** SHOW DOWN ***
+melnobile: shows [Kh Tc] (high card Ace)
+tiririk242: shows [8s 7c] (a pair of Eights)
+tiririk242 collected 406 from pot
+*** SUMMARY ***
+Total pot 406 | Rake 0
+Board [Jd Ad 4h 5d 8h]
+Seat 1: nickdpb folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) showed [Kh Tc] and lost with high card Ace
+Seat 5: tiririk242 (big blind) showed [8s 7c] and won (406) with a pair of Eights
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296883910: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:14:54 BRT [2026/06/30 13:14:54 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 2: rigel_poker (11023 in chips)
+Seat 3: SBGM8 (5000 in chips)
+Seat 4: melnobile (10188 in chips)
+Seat 5: tiririk242 (3645 in chips)
+Seat 6: Timefalls (4438 in chips)
+Seat 7: BielzadaXesq (8164 in chips)
+Seat 8: LeonardoZT (7930 in chips)
+rigel_poker: posts the ante 18
+SBGM8: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+tiririk242: posts small blind 70
+Timefalls: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [Qh 2d]
+mti1014 is disconnected
+BielzadaXesq: folds
+LeonardoZT: folds
+rigel_poker: raises 140 to 280
+SBGM8: folds
+melnobile: folds
+tiririk242: folds
+Timefalls: folds
+Uncalled bet (140) returned to rigel_poker
+rigel_poker collected 476 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 476 | Rake 0
+Seat 2: rigel_poker collected (476)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 5: tiririk242 (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296890447: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:15:37 BRT [2026/06/30 13:15:37 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: mti1014 (5000 in chips)
+Seat 2: rigel_poker (11341 in chips)
+Seat 3: SBGM8 (4982 in chips)
+Seat 4: melnobile (10170 in chips)
+Seat 5: tiririk242 (3557 in chips)
+Seat 6: Timefalls (4280 in chips)
+Seat 7: BielzadaXesq (8146 in chips)
+Seat 8: LeonardoZT (7912 in chips)
+mti1014: posts the ante 18
+rigel_poker: posts the ante 18
+SBGM8: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+Timefalls: posts small blind 70
+BielzadaXesq: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 9c]
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+SBGM8: folds
+melnobile: raises 182 to 322
+tiririk242: calls 322
+Timefalls: folds
+BielzadaXesq: calls 182
+*** FLOP *** [4c 9d Kc]
+BielzadaXesq: checks
+melnobile: checks
+tiririk242: checks
+*** TURN *** [4c 9d Kc] [5s]
+BielzadaXesq: checks
+melnobile: checks
+tiririk242: checks
+*** RIVER *** [4c 9d Kc 5s] [6h]
+BielzadaXesq: checks
+melnobile: checks
+tiririk242: checks
+*** SHOW DOWN ***
+BielzadaXesq: shows [Qc 8c] (high card King)
+melnobile: shows [Jd Js] (a pair of Jacks)
+tiririk242: mucks hand
+melnobile collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | Rake 0
+Board [4c 9d Kc 5s 6h]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile showed [Jd Js] and won (1180) with a pair of Jacks
+Seat 5: tiririk242 (button) mucked [Tc 8s]
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) showed [Qc 8c] and lost with high card King
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296901329: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:16:49 BRT [2026/06/30 13:16:49 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: mti1014 (4982 in chips)
+Seat 2: rigel_poker (11323 in chips)
+Seat 3: SBGM8 (4964 in chips)
+Seat 4: melnobile (11010 in chips)
+Seat 5: tiririk242 (3217 in chips)
+Seat 6: Timefalls (4192 in chips)
+Seat 7: BielzadaXesq (7806 in chips)
+Seat 8: LeonardoZT (7894 in chips)
+mti1014: posts the ante 18
+rigel_poker: posts the ante 18
+SBGM8: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+BielzadaXesq: posts small blind 70
+LeonardoZT: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [Jd 8d]
+mti1014: raises 140 to 280
+rigel_poker: folds
+SBGM8: folds
+melnobile: folds
+tiririk242: calls 280
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+*** FLOP *** [Ad 6h 8h]
+mti1014: bets 457
+tiririk242: folds
+Uncalled bet (457) returned to mti1014
+mti1014 collected 914 from pot
+mti1014: doesn't show hand
+*** SUMMARY ***
+Total pot 914 | Rake 0
+Board [Ad 6h 8h]
+Seat 1: mti1014 collected (914)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: tiririk242 folded on the Flop
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261296906940: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VII (70/140) - 2026/06/30 14:17:26 BRT [2026/06/30 13:17:26 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: mti1014 (5598 in chips)
+Seat 2: rigel_poker (11305 in chips)
+Seat 3: SBGM8 (4946 in chips)
+Seat 4: melnobile (10992 in chips)
+Seat 5: tiririk242 (2919 in chips)
+Seat 6: Timefalls (4174 in chips)
+Seat 7: BielzadaXesq (7718 in chips)
+Seat 8: LeonardoZT (7736 in chips)
+mti1014: posts the ante 18
+rigel_poker: posts the ante 18
+SBGM8: posts the ante 18
+melnobile: posts the ante 18
+tiririk242: posts the ante 18
+Timefalls: posts the ante 18
+BielzadaXesq: posts the ante 18
+LeonardoZT: posts the ante 18
+LeonardoZT: posts small blind 70
+mti1014: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Timefalls [3d 9h]
+rigel_poker: folds
+SBGM8: folds
+melnobile: raises 182 to 322
+tiririk242: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: calls 182
+*** FLOP *** [2c 6c 5h]
+mti1014: checks
+melnobile: bets 423
+mti1014: calls 423
+*** TURN *** [2c 6c 5h] [Kh]
+mti1014: checks
+melnobile: bets 842
+mti1014: calls 842
+*** RIVER *** [2c 6c 5h Kh] [Td]
+mti1014: checks
+melnobile: checks
+*** SHOW DOWN ***
+mti1014: shows [7s 8s] (high card King)
+melnobile: shows [6h Qh] (a pair of Sixes)
+melnobile collected 3388 from pot
+*** SUMMARY ***
+Total pot 3388 | Rake 0
+Board [2c 6c 5h Kh Td]
+Seat 1: mti1014 (big blind) showed [7s 8s] and lost with high card King
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile showed [6h Qh] and won (3388) with a pair of Sixes
+Seat 5: tiririk242 folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) folded before Flop (didn't bet)
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261296917385: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:18:35 BRT [2026/06/30 13:18:35 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: mti1014 (3993 in chips)
+Seat 2: rigel_poker (11287 in chips)
+Seat 3: SBGM8 (4928 in chips)
+Seat 4: melnobile (12775 in chips)
+Seat 5: tiririk242 (2901 in chips)
+Seat 6: Timefalls (4156 in chips)
+Seat 7: BielzadaXesq (7700 in chips)
+Seat 8: LeonardoZT (7648 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+tiririk242: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+mti1014: posts small blind 80
+rigel_poker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [9c 7d]
+SBGM8: folds
+melnobile: raises 160 to 320
+tiririk242: calls 320
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: raises 3653 to 3973 and is all-in
+rigel_poker: folds
+melnobile: folds
+tiririk242: calls 2561 and is all-in
+Uncalled bet (1092) returned to mti1014
+*** FLOP *** [7h Kc Ts]
+*** TURN *** [7h Kc Ts] [4d]
+*** RIVER *** [7h Kc Ts 4d] [Qd]
+*** SHOW DOWN ***
+mti1014: shows [Tc Td] (three of a kind, Tens)
+tiririk242: shows [As 6d] (high card Ace)
+mti1014 collected 6402 from pot
+tiririk242 finished the tournament
+*** SUMMARY ***
+Total pot 6402 | Rake 0
+Board [7h Kc Ts 4d Qd]
+Seat 1: mti1014 (small blind) showed [Tc Td] and won (6402) with three of a kind, Tens
+Seat 2: rigel_poker (big blind) folded before Flop
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop
+Seat 5: tiririk242 showed [As 6d] and lost with high card Ace
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261296926427: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:19:35 BRT [2026/06/30 13:19:35 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: mti1014 (7494 in chips)
+Seat 2: rigel_poker (11107 in chips)
+Seat 3: SBGM8 (4908 in chips)
+Seat 4: melnobile (12435 in chips)
+Seat 6: Timefalls (4136 in chips)
+Seat 7: BielzadaXesq (7680 in chips)
+Seat 8: LeonardoZT (7628 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+rigel_poker: posts small blind 80
+SBGM8: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [6d 5d]
+melnobile: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: raises 160 to 320
+rigel_poker: folds
+SBGM8: calls 160
+*** FLOP *** [6s 7c Qd]
+SBGM8: checks
+mti1014: bets 284
+SBGM8: calls 284
+*** TURN *** [6s 7c Qd] [5c]
+SBGM8: checks
+mti1014: bets 1071
+SBGM8: calls 1071
+*** RIVER *** [6s 7c Qd 5c] [As]
+SBGM8: checks
+mti1014: bets 5799 and is all-in
+SBGM8: folds
+Uncalled bet (5799) returned to mti1014
+mti1014 collected 3570 from pot
+mti1014: doesn't show hand
+*** SUMMARY ***
+Total pot 3570 | Rake 0
+Board [6s 7c Qd 5c As]
+Seat 1: mti1014 (button) collected (3570)
+Seat 2: rigel_poker (small blind) folded before Flop
+Seat 3: SBGM8 (big blind) folded on the River
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296940047: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:21:05 BRT [2026/06/30 13:21:05 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: mti1014 (9369 in chips)
+Seat 2: rigel_poker (11007 in chips)
+Seat 3: SBGM8 (3213 in chips)
+Seat 4: melnobile (12415 in chips)
+Seat 6: Timefalls (4116 in chips)
+Seat 7: BielzadaXesq (7660 in chips)
+Seat 8: LeonardoZT (7608 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+SBGM8: posts small blind 80
+melnobile: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Kh 4s]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 160 to 320
+mti1014: calls 320
+rigel_poker: calls 320
+SBGM8: folds
+melnobile: calls 160
+*** FLOP *** [Kd Ac Kc]
+melnobile: checks
+LeonardoZT: bets 600
+mti1014: folds
+rigel_poker: folds
+melnobile: folds
+Uncalled bet (600) returned to LeonardoZT
+LeonardoZT collected 1500 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 1500 | Rake 0
+Board [Kd Ac Kc]
+Seat 1: mti1014 folded on the Flop
+Seat 2: rigel_poker (button) folded on the Flop
+Seat 3: SBGM8 (small blind) folded before Flop
+Seat 4: melnobile (big blind) folded on the Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT collected (1500)
+
+PokerStars Hand #261296946750: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:21:49 BRT [2026/06/30 13:21:49 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: mti1014 (9029 in chips)
+Seat 2: rigel_poker (10667 in chips)
+Seat 3: SBGM8 (3113 in chips)
+Seat 4: melnobile (12075 in chips)
+Seat 5: gefecita (5000 in chips)
+Seat 6: Timefalls (4096 in chips)
+Seat 7: BielzadaXesq (7640 in chips)
+Seat 8: LeonardoZT (8768 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+melnobile: posts small blind 80
+gefecita: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Qd 3d]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 160 to 320
+mti1014: folds
+rigel_poker: calls 320
+SBGM8: folds
+melnobile: folds
+gefecita: calls 160
+*** FLOP *** [2h 7c Jc]
+gefecita: checks
+LeonardoZT: checks
+rigel_poker: checks
+*** TURN *** [2h 7c Jc] [As]
+gefecita: checks
+LeonardoZT: bets 984
+rigel_poker: folds
+gefecita: calls 984
+*** RIVER *** [2h 7c Jc As] [Ts]
+gefecita: bets 3676 and is all-in
+LeonardoZT: folds
+Uncalled bet (3676) returned to gefecita
+gefecita collected 3168 from pot
+*** SUMMARY ***
+Total pot 3168 | Rake 0
+Board [2h 7c Jc As Ts]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded on the Turn
+Seat 3: SBGM8 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded before Flop
+Seat 5: gefecita (big blind) collected (3168)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded on the River
+
+PokerStars Hand #261296954884: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:22:42 BRT [2026/06/30 13:22:42 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: mti1014 (9009 in chips)
+Seat 2: rigel_poker (10327 in chips)
+Seat 3: SBGM8 (3093 in chips)
+Seat 4: melnobile (11975 in chips)
+Seat 5: gefecita (6844 in chips)
+Seat 6: Timefalls (4076 in chips)
+Seat 7: BielzadaXesq (7620 in chips)
+Seat 8: LeonardoZT (7444 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+gefecita: posts small blind 80
+Timefalls: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Tc Ad]
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+SBGM8: raises 160 to 320
+melnobile: raises 800 to 1120
+gefecita: calls 1040
+Timefalls: folds
+SBGM8: folds
+*** FLOP *** [Ks 3d 6c]
+gefecita: bets 1440
+melnobile: folds
+Uncalled bet (1440) returned to gefecita
+gefecita collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | Rake 0
+Board [Ks 3d 6c]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop
+Seat 4: melnobile (button) folded on the Flop
+Seat 5: gefecita (small blind) collected (2880)
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261296964181: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:23:43 BRT [2026/06/30 13:23:43 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: mti1014 (8989 in chips)
+Seat 2: rigel_poker (10307 in chips)
+Seat 3: SBGM8 (2753 in chips)
+Seat 4: melnobile (10835 in chips)
+Seat 5: gefecita (8584 in chips)
+Seat 6: Timefalls (3896 in chips)
+Seat 7: BielzadaXesq (7600 in chips)
+Seat 8: LeonardoZT (7424 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+Timefalls: posts small blind 80
+BielzadaXesq: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Ts Qc]
+LeonardoZT: raises 160 to 320
+mti1014: folds
+rigel_poker: folds
+SBGM8: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: calls 160
+*** FLOP *** [3s Jd 4c]
+BielzadaXesq: checks
+LeonardoZT: bets 352
+BielzadaXesq: calls 352
+*** TURN *** [3s Jd 4c] [5h]
+BielzadaXesq: checks
+LeonardoZT: bets 1299
+BielzadaXesq: calls 1299
+*** RIVER *** [3s Jd 4c 5h] [Ac]
+BielzadaXesq: checks
+LeonardoZT: checks
+*** SHOW DOWN ***
+BielzadaXesq: shows [8h Jc] (a pair of Jacks)
+LeonardoZT: mucks hand
+BielzadaXesq collected 4182 from pot
+*** SUMMARY ***
+Total pot 4182 | Rake 0
+Board [3s Jd 4c 5h Ac]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) showed [8h Jc] and won (4182) with a pair of Jacks
+Seat 8: LeonardoZT mucked [9c 9s]
+
+PokerStars Hand #261296973442: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:24:45 BRT [2026/06/30 13:24:45 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: mti1014 (8969 in chips)
+Seat 2: rigel_poker (10287 in chips)
+Seat 3: SBGM8 (2733 in chips)
+Seat 4: melnobile (10815 in chips)
+Seat 5: gefecita (8564 in chips)
+Seat 6: Timefalls (3796 in chips)
+Seat 7: BielzadaXesq (9791 in chips)
+Seat 8: LeonardoZT (5433 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+BielzadaXesq: posts small blind 80
+LeonardoZT: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Jh 7c]
+mti1014: folds
+rigel_poker: raises 160 to 320
+SBGM8: folds
+melnobile: calls 320
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: calls 160
+*** FLOP *** [Kd 5s 3d]
+LeonardoZT: checks
+rigel_poker: bets 1020
+melnobile: calls 1020
+LeonardoZT: raises 4073 to 5093 and is all-in
+rigel_poker: raises 4854 to 9947 and is all-in
+melnobile: folds
+Uncalled bet (4854) returned to rigel_poker
+*** TURN *** [Kd 5s 3d] [5c]
+*** RIVER *** [Kd 5s 3d 5c] [Qd]
+*** SHOW DOWN ***
+LeonardoZT: shows [5d Kc] (a full house, Fives full of Kings)
+rigel_poker: shows [Ad Ks] (two pair, Kings and Fives)
+LeonardoZT collected 12406 from pot
+*** SUMMARY ***
+Total pot 12406 | Rake 0
+Board [Kd 5s 3d 5c Qd]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker showed [Ad Ks] and lost with two pair, Kings and Fives
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded on the Flop
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) showed [5d Kc] and won (12406) with a full house, Fives full of Kings
+
+PokerStars Hand #261296981073: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:25:36 BRT [2026/06/30 13:25:36 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: mti1014 (8949 in chips)
+Seat 2: rigel_poker (4854 in chips)
+Seat 3: SBGM8 (2713 in chips)
+Seat 4: melnobile (9455 in chips)
+Seat 5: gefecita (8544 in chips)
+Seat 6: Timefalls (3776 in chips)
+Seat 7: BielzadaXesq (9691 in chips)
+Seat 8: LeonardoZT (12406 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+LeonardoZT: posts small blind 80
+mti1014: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [5d Kc]
+rigel_poker: raises 160 to 320
+SBGM8: folds
+melnobile: folds
+gefecita: calls 320
+Timefalls: folds
+BielzadaXesq: calls 320
+LeonardoZT: calls 240
+mti1014: folds
+*** FLOP *** [8d Kh 5s]
+LeonardoZT: checks
+rigel_poker: checks
+gefecita: checks
+BielzadaXesq: checks
+*** TURN *** [8d Kh 5s] [Jd]
+LeonardoZT: checks
+rigel_poker: bets 480
+gefecita: folds
+BielzadaXesq: calls 480
+LeonardoZT: folds
+*** RIVER *** [8d Kh 5s Jd] [8c]
+rigel_poker: bets 768
+BielzadaXesq: calls 768
+*** SHOW DOWN ***
+rigel_poker: shows [Tc Jc] (two pair, Jacks and Eights)
+BielzadaXesq: shows [Js Ts] (two pair, Jacks and Eights)
+rigel_poker collected 2048 from pot
+BielzadaXesq collected 2048 from pot
+*** SUMMARY ***
+Total pot 4096 | Rake 0
+Board [8d Kh 5s Jd 8c]
+Seat 1: mti1014 (big blind) folded before Flop
+Seat 2: rigel_poker showed [Tc Jc] and won (2048) with two pair, Jacks and Eights
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded on the Turn
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq (button) showed [Js Ts] and won (2048) with two pair, Jacks and Eights
+Seat 8: LeonardoZT (small blind) folded on the Turn
+
+PokerStars Hand #261296990769: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:26:38 BRT [2026/06/30 13:26:38 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: mti1014 (8769 in chips)
+Seat 2: rigel_poker (5314 in chips)
+Seat 3: SBGM8 (2693 in chips)
+Seat 4: melnobile (9435 in chips)
+Seat 5: gefecita (8204 in chips)
+Seat 6: Timefalls (3756 in chips)
+Seat 7: BielzadaXesq (10151 in chips)
+Seat 8: LeonardoZT (12066 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+mti1014: posts small blind 80
+rigel_poker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [2c Kh]
+SBGM8: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 160 to 320
+mti1014: folds
+rigel_poker: raises 4974 to 5294 and is all-in
+LeonardoZT: folds
+Uncalled bet (4974) returned to rigel_poker
+rigel_poker collected 880 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 880 | Rake 0
+Seat 1: mti1014 (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) collected (880)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop
+
+PokerStars Hand #261296998081: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level VIII (80/160) - 2026/06/30 14:27:25 BRT [2026/06/30 13:27:25 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: mti1014 (8669 in chips)
+Seat 2: rigel_poker (5854 in chips)
+Seat 3: SBGM8 (2673 in chips)
+Seat 4: melnobile (9415 in chips)
+Seat 5: gefecita (8184 in chips)
+Seat 6: Timefalls (3736 in chips)
+Seat 7: BielzadaXesq (10131 in chips)
+Seat 8: LeonardoZT (11726 in chips)
+mti1014: posts the ante 20
+rigel_poker: posts the ante 20
+SBGM8: posts the ante 20
+melnobile: posts the ante 20
+gefecita: posts the ante 20
+Timefalls: posts the ante 20
+BielzadaXesq: posts the ante 20
+LeonardoZT: posts the ante 20
+rigel_poker: posts small blind 80
+SBGM8: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Timefalls [Jc 8d]
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: raises 160 to 320
+rigel_poker: calls 240
+SBGM8: calls 160
+*** FLOP *** [Ad Jd 4d]
+rigel_poker: checks
+SBGM8: checks
+mti1014: bets 840
+rigel_poker: folds
+SBGM8: raises 1493 to 2333 and is all-in
+mti1014: calls 1493
+*** TURN *** [Ad Jd 4d] [Qd]
+*** RIVER *** [Ad Jd 4d Qd] [2s]
+*** SHOW DOWN ***
+SBGM8: shows [9d Js] (a flush, Ace high)
+mti1014: shows [Ac Jh] (two pair, Aces and Jacks)
+SBGM8 collected 5786 from pot
+*** SUMMARY ***
+Total pot 5786 | Rake 0
+Board [Ad Jd 4d Qd 2s]
+Seat 1: mti1014 (button) showed [Ac Jh] and lost with two pair, Aces and Jacks
+Seat 2: rigel_poker (small blind) folded on the Flop
+Seat 3: SBGM8 (big blind) showed [9d Js] and won (5786) with a flush, Ace high
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297007397: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:28:26 BRT [2026/06/30 13:28:26 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: mti1014 (5996 in chips)
+Seat 2: rigel_poker (5514 in chips)
+Seat 3: SBGM8 (5786 in chips)
+Seat 4: melnobile (9395 in chips)
+Seat 5: gefecita (8164 in chips)
+Seat 6: Timefalls (3716 in chips)
+Seat 7: BielzadaXesq (10111 in chips)
+Seat 8: LeonardoZT (11706 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+BielzadaXesq: posts the ante 25
+LeonardoZT: posts the ante 25
+SBGM8: posts small blind 100
+melnobile: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [4d 9d]
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: raises 200 to 400
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: calls 400
+SBGM8: folds
+melnobile: raises 8970 to 9370 and is all-in
+BielzadaXesq: folds
+rigel_poker: folds
+Uncalled bet (8970) returned to melnobile
+melnobile collected 1500 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 1500 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop
+Seat 3: SBGM8 (small blind) folded before Flop
+Seat 4: melnobile (big blind) collected (1500)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297014627: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:29:14 BRT [2026/06/30 13:29:14 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: mti1014 (5971 in chips)
+Seat 2: rigel_poker (5089 in chips)
+Seat 3: SBGM8 (5661 in chips)
+Seat 4: melnobile (10470 in chips)
+Seat 5: gefecita (8139 in chips)
+Seat 6: Timefalls (3691 in chips)
+Seat 7: BielzadaXesq (9686 in chips)
+Seat 8: LeonardoZT (11681 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+BielzadaXesq: posts the ante 25
+LeonardoZT: posts the ante 25
+melnobile: posts small blind 100
+gefecita: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Jc 5h]
+Timefalls: folds
+BielzadaXesq: folds
+LeonardoZT: raises 200 to 400
+mti1014: folds
+rigel_poker: folds
+SBGM8: folds
+melnobile: calls 300
+gefecita: calls 200
+*** FLOP *** [9c 4s 3h]
+melnobile: checks
+gefecita: checks
+LeonardoZT: bets 1148
+melnobile: folds
+gefecita: folds
+Uncalled bet (1148) returned to LeonardoZT
+LeonardoZT collected 1400 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 1400 | Rake 0
+Board [9c 4s 3h]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded on the Flop
+Seat 5: gefecita (big blind) folded on the Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT collected (1400)
+
+PokerStars Hand #261297025322: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:30:22 BRT [2026/06/30 13:30:22 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: mti1014 (5946 in chips)
+Seat 2: rigel_poker (5064 in chips)
+Seat 3: SBGM8 (5636 in chips)
+Seat 4: melnobile (10045 in chips)
+Seat 5: gefecita (7714 in chips)
+Seat 6: Timefalls (3666 in chips)
+Seat 7: BielzadaXesq (9661 in chips)
+Seat 8: LeonardoZT (12656 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+BielzadaXesq: posts the ante 25
+LeonardoZT: posts the ante 25
+gefecita: posts small blind 100
+Timefalls: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [9s 6d]
+BielzadaXesq: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+SBGM8: folds
+melnobile: folds
+gefecita: raises 600 to 800
+Timefalls: folds
+Uncalled bet (600) returned to gefecita
+gefecita collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 5: gefecita (small blind) collected (600)
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: BielzadaXesq folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297030175: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:30:53 BRT [2026/06/30 13:30:53 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: mti1014 (5921 in chips)
+Seat 2: rigel_poker (5039 in chips)
+Seat 3: SBGM8 (5611 in chips)
+Seat 4: melnobile (10020 in chips)
+Seat 5: gefecita (8089 in chips)
+Seat 6: Timefalls (3441 in chips)
+Seat 7: BielzadaXesq (9636 in chips)
+Seat 8: LeonardoZT (12631 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+BielzadaXesq: posts the ante 25
+LeonardoZT: posts the ante 25
+Timefalls: posts small blind 100
+BielzadaXesq: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Jh 4h]
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+SBGM8: raises 200 to 400
+melnobile: raises 800 to 1200
+gefecita: folds
+Timefalls: folds
+BielzadaXesq: raises 8411 to 9611 and is all-in
+SBGM8: folds
+melnobile: calls 8411
+*** FLOP *** [Jd 5c 6d]
+*** TURN *** [Jd 5c 6d] [2d]
+*** RIVER *** [Jd 5c 6d 2d] [9c]
+*** SHOW DOWN ***
+BielzadaXesq: shows [Ks Ad] (high card Ace)
+melnobile: shows [Js As] (a pair of Jacks)
+melnobile collected 19922 from pot
+BielzadaXesq finished the tournament
+*** SUMMARY ***
+Total pot 19922 | Rake 0
+Board [Jd 5c 6d 2d 9c]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: SBGM8 folded before Flop
+Seat 4: melnobile showed [Js As] and won (19922) with a pair of Jacks
+Seat 5: gefecita (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: BielzadaXesq (big blind) showed [Ks Ad] and lost with high card Ace
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297036775: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:31:35 BRT [2026/06/30 13:31:35 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: mti1014 (5896 in chips)
+Seat 2: rigel_poker (5014 in chips)
+Seat 3: SBGM8 (5186 in chips)
+Seat 4: melnobile (20306 in chips)
+Seat 5: gefecita (8064 in chips)
+Seat 6: Timefalls (3316 in chips)
+Seat 8: LeonardoZT (12606 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+LeonardoZT: posts the ante 25
+LeonardoZT: posts small blind 100
+mti1014: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [6h 7c]
+rigel_poker: raises 200 to 400
+SBGM8: raises 700 to 1100
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: calls 700
+*** FLOP *** [8c 9h 7d]
+rigel_poker: bets 3889 and is all-in
+SBGM8: calls 3889
+*** TURN *** [8c 9h 7d] [4h]
+*** RIVER *** [8c 9h 7d 4h] [Ts]
+*** SHOW DOWN ***
+rigel_poker: shows [Kc 9c] (a pair of Nines)
+SBGM8: shows [Kh Ad] (high card Ace)
+rigel_poker collected 10453 from pot
+*** SUMMARY ***
+Total pot 10453 | Rake 0
+Board [8c 9h 7d 4h Ts]
+Seat 1: mti1014 (big blind) folded before Flop
+Seat 2: rigel_poker showed [Kc 9c] and won (10453) with a pair of Nines
+Seat 3: SBGM8 showed [Kh Ad] and lost with high card Ace
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261297042613: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:32:12 BRT [2026/06/30 13:32:12 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: mti1014 (5671 in chips)
+Seat 2: rigel_poker (10453 in chips)
+Seat 3: SBGM8 (172 in chips)
+Seat 4: melnobile (20281 in chips)
+Seat 5: gefecita (8039 in chips)
+Seat 6: Timefalls (3291 in chips)
+Seat 8: LeonardoZT (12481 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+SBGM8: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+LeonardoZT: posts the ante 25
+mti1014: posts small blind 100
+rigel_poker: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Kh Qs]
+SBGM8: calls 147 and is all-in
+melnobile: calls 200
+gefecita: folds
+Timefalls: raises 400 to 600
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+melnobile: calls 400
+*** FLOP *** [Kd 8s 9c]
+melnobile: checks
+Timefalls: bets 600
+melnobile: folds
+Uncalled bet (600) returned to Timefalls
+*** TURN *** [Kd 8s 9c] [Ad]
+*** RIVER *** [Kd 8s 9c Ad] [Jh]
+*** SHOW DOWN ***
+Timefalls: shows [Kh Qs] (a pair of Kings)
+Timefalls collected 959 from side pot
+SBGM8: shows [2s Qd] (high card Ace)
+Timefalls collected 863 from main pot
+SBGM8 finished the tournament
+*** SUMMARY ***
+Total pot 1822 Main pot 863. Side pot 959. | Rake 0
+Board [Kd 8s 9c Ad Jh]
+Seat 1: mti1014 (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) folded before Flop
+Seat 3: SBGM8 showed [2s Qd] and lost with high card Ace
+Seat 4: melnobile folded on the Flop
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls showed [Kh Qs] and won (1822) with a pair of Kings
+Seat 8: LeonardoZT (button) folded before Flop (didn't bet)
+
+PokerStars Hand #261297051373: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:33:07 BRT [2026/06/30 13:33:07 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: mti1014 (5546 in chips)
+Seat 2: rigel_poker (10228 in chips)
+Seat 4: melnobile (19656 in chips)
+Seat 5: gefecita (8014 in chips)
+Seat 6: Timefalls (4488 in chips)
+Seat 8: LeonardoZT (12456 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+LeonardoZT: posts the ante 25
+rigel_poker: posts small blind 100
+melnobile: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [7c 3d]
+OlegMX is disconnected
+gefecita: folds
+Timefalls: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: raises 400 to 600
+melnobile: calls 400
+*** FLOP *** [Qh 8c Qd]
+rigel_poker: checks
+melnobile: checks
+*** TURN *** [Qh 8c Qd] [Ks]
+rigel_poker: bets 743
+melnobile: folds
+Uncalled bet (743) returned to rigel_poker
+rigel_poker collected 1350 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 1350 | Rake 0
+Board [Qh 8c Qd Ks]
+Seat 1: mti1014 (button) folded before Flop (didn't bet)
+Seat 2: rigel_poker (small blind) collected (1350)
+Seat 4: melnobile (big blind) folded on the Turn
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297057639: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:33:47 BRT [2026/06/30 13:33:47 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: mti1014 (5521 in chips)
+Seat 2: rigel_poker (10953 in chips)
+Seat 4: melnobile (19031 in chips)
+Seat 5: gefecita (7989 in chips)
+Seat 6: Timefalls (4463 in chips)
+Seat 7: OlegMX (5345 in chips)
+Seat 8: LeonardoZT (12431 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+OlegMX: posts the ante 25
+LeonardoZT: posts the ante 25
+melnobile: posts small blind 100
+gefecita: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [5h 9s]
+Timefalls is disconnected
+Timefalls is connected
+Timefalls is connected
+Timefalls: folds
+OlegMX: raises 200 to 400
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+melnobile: calls 300
+gefecita: folds
+*** FLOP *** [2s 3h 9d]
+melnobile: checks
+OlegMX: checks
+*** TURN *** [2s 3h 9d] [3c]
+melnobile: checks
+OlegMX: bets 500
+melnobile: folds
+Uncalled bet (500) returned to OlegMX
+OlegMX collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | Rake 0
+Board [2s 3h 9d 3c]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded on the Turn
+Seat 5: gefecita (big blind) folded before Flop
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX collected (1175)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297072047: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:35:19 BRT [2026/06/30 13:35:19 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: mti1014 (5496 in chips)
+Seat 2: rigel_poker (10928 in chips)
+Seat 4: melnobile (18606 in chips)
+Seat 5: gefecita (7764 in chips)
+Seat 6: Timefalls (4438 in chips)
+Seat 7: OlegMX (6095 in chips)
+Seat 8: LeonardoZT (12406 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+OlegMX: posts the ante 25
+LeonardoZT: posts the ante 25
+gefecita: posts small blind 100
+Timefalls: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Th 5d]
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: raises 200 to 400
+melnobile: raises 1000 to 1400
+gefecita: folds
+Timefalls: folds
+rigel_poker: folds
+Uncalled bet (1000) returned to melnobile
+melnobile collected 1275 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 1275 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop
+Seat 4: melnobile (button) collected (1275)
+Seat 5: gefecita (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297078713: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:36:02 BRT [2026/06/30 13:36:02 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: mti1014 (5471 in chips)
+Seat 2: rigel_poker (10503 in chips)
+Seat 4: melnobile (19456 in chips)
+Seat 5: gefecita (7639 in chips)
+Seat 6: Timefalls (4213 in chips)
+Seat 7: OlegMX (6070 in chips)
+Seat 8: LeonardoZT (12381 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+OlegMX: posts the ante 25
+LeonardoZT: posts the ante 25
+Timefalls: posts small blind 100
+OlegMX: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [6h 8h]
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+Uncalled bet (100) returned to OlegMX
+OlegMX collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) folded before Flop
+Seat 7: OlegMX (big blind) collected (375)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297081656: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:36:20 BRT [2026/06/30 13:36:20 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: mti1014 (5446 in chips)
+Seat 2: rigel_poker (10478 in chips)
+Seat 4: melnobile (19431 in chips)
+Seat 5: gefecita (7614 in chips)
+Seat 6: Timefalls (4088 in chips)
+Seat 7: OlegMX (6320 in chips)
+Seat 8: LeonardoZT (12356 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+OlegMX: posts the ante 25
+LeonardoZT: posts the ante 25
+OlegMX: posts small blind 100
+LeonardoZT: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [Ac 4h]
+mti1014: raises 200 to 400
+rigel_poker: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: folds
+Uncalled bet (200) returned to mti1014
+mti1014 collected 675 from pot
+mti1014: doesn't show hand
+*** SUMMARY ***
+Total pot 675 | Rake 0
+Seat 1: mti1014 collected (675)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: OlegMX (small blind) folded before Flop
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261297086094: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2026/06/30 14:36:48 BRT [2026/06/30 13:36:48 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: mti1014 (5896 in chips)
+Seat 2: rigel_poker (10453 in chips)
+Seat 4: melnobile (19406 in chips)
+Seat 5: gefecita (7589 in chips)
+Seat 6: Timefalls (4063 in chips)
+Seat 7: OlegMX (6195 in chips)
+Seat 8: LeonardoZT (12131 in chips)
+mti1014: posts the ante 25
+rigel_poker: posts the ante 25
+melnobile: posts the ante 25
+gefecita: posts the ante 25
+Timefalls: posts the ante 25
+OlegMX: posts the ante 25
+LeonardoZT: posts the ante 25
+LeonardoZT: posts small blind 100
+mti1014: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Timefalls [7c Kc]
+rigel_poker: calls 200
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+OlegMX: calls 200
+LeonardoZT: raises 975 to 1175
+mti1014: folds
+rigel_poker: raises 9253 to 10428 and is all-in
+OlegMX: folds
+LeonardoZT: folds
+Uncalled bet (9253) returned to rigel_poker
+rigel_poker collected 2925 from pot
+rigel_poker: doesn't show hand
+*** SUMMARY ***
+Total pot 2925 | Rake 0
+Seat 1: mti1014 (big blind) folded before Flop
+Seat 2: rigel_poker collected (2925)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX (button) folded before Flop
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261297095260: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:37:46 BRT [2026/06/30 13:37:46 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: mti1014 (5671 in chips)
+Seat 2: rigel_poker (12178 in chips)
+Seat 3: Helicon2 (5000 in chips)
+Seat 4: melnobile (19381 in chips)
+Seat 5: gefecita (7564 in chips)
+Seat 6: Timefalls (4038 in chips)
+Seat 7: OlegMX (5970 in chips)
+Seat 8: LeonardoZT (10931 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+mti1014: posts small blind 125
+rigel_poker: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 8s]
+Helicon2: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: raises 250 to 500
+mti1014: raises 5141 to 5641 and is all-in
+rigel_poker: folds
+LeonardoZT: folds
+Uncalled bet (5141) returned to mti1014
+mti1014 collected 1490 from pot
+mti1014: doesn't show hand
+*** SUMMARY ***
+Total pot 1490 | Rake 0
+Seat 1: mti1014 (small blind) collected (1490)
+Seat 2: rigel_poker (big blind) folded before Flop
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) folded before Flop
+
+PokerStars Hand #261297102723: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:38:34 BRT [2026/06/30 13:38:34 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: mti1014 (6631 in chips)
+Seat 2: rigel_poker (11898 in chips)
+Seat 3: Helicon2 (4970 in chips)
+Seat 4: melnobile (19351 in chips)
+Seat 5: gefecita (7534 in chips)
+Seat 6: Timefalls (4008 in chips)
+Seat 7: OlegMX (5940 in chips)
+Seat 8: LeonardoZT (10401 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+rigel_poker: posts small blind 125
+Helicon2: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Td 5s]
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: folds
+mti1014: raises 250 to 500
+rigel_poker: folds
+Helicon2: folds
+Uncalled bet (250) returned to mti1014
+mti1014 collected 865 from pot
+mti1014: doesn't show hand
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Seat 1: mti1014 (button) collected (865)
+Seat 2: rigel_poker (small blind) folded before Flop
+Seat 3: Helicon2 (big blind) folded before Flop
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297108453: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:39:09 BRT [2026/06/30 13:39:09 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: mti1014 (7216 in chips)
+Seat 2: rigel_poker (11743 in chips)
+Seat 3: Helicon2 (4690 in chips)
+Seat 4: melnobile (19321 in chips)
+Seat 5: gefecita (7504 in chips)
+Seat 6: Timefalls (3978 in chips)
+Seat 7: OlegMX (5910 in chips)
+Seat 8: LeonardoZT (10371 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+Helicon2: posts small blind 125
+melnobile: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [3c 5c]
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: raises 250 to 500
+mti1014: folds
+rigel_poker: folds
+Helicon2: folds
+melnobile: calls 250
+*** FLOP *** [3d 3h Jd]
+melnobile: checks
+LeonardoZT: checks
+*** TURN *** [3d 3h Jd] [4c]
+melnobile: checks
+LeonardoZT: checks
+*** RIVER *** [3d 3h Jd 4c] [8h]
+melnobile: checks
+LeonardoZT: checks
+*** SHOW DOWN ***
+melnobile: shows [4h 2h] (two pair, Fours and Threes)
+LeonardoZT: mucks hand
+melnobile collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | Rake 0
+Board [3d 3h Jd 4c 8h]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: Helicon2 (small blind) folded before Flop
+Seat 4: melnobile (big blind) showed [4h 2h] and won (1365) with two pair, Fours and Threes
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT mucked [7s 9s]
+
+PokerStars Hand #261297118433: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:40:12 BRT [2026/06/30 13:40:12 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: mti1014 (7186 in chips)
+Seat 2: rigel_poker (11713 in chips)
+Seat 3: Helicon2 (4535 in chips)
+Seat 4: melnobile (20156 in chips)
+Seat 5: gefecita (7474 in chips)
+Seat 6: Timefalls (3948 in chips)
+Seat 7: OlegMX (5880 in chips)
+Seat 8: LeonardoZT (9841 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+melnobile: posts small blind 125
+gefecita: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Ad Jc]
+Timefalls: raises 250 to 500
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+Helicon2: folds
+melnobile: folds
+gefecita: folds
+Uncalled bet (250) returned to Timefalls
+Timefalls collected 865 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: Helicon2 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded before Flop
+Seat 5: gefecita (big blind) folded before Flop
+Seat 6: Timefalls collected (865)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297122525: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:40:38 BRT [2026/06/30 13:40:38 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: mti1014 (7156 in chips)
+Seat 2: rigel_poker (11683 in chips)
+Seat 3: Helicon2 (4505 in chips)
+Seat 4: melnobile (20001 in chips)
+Seat 5: gefecita (7194 in chips)
+Seat 6: Timefalls (4533 in chips)
+Seat 7: OlegMX (5850 in chips)
+Seat 8: LeonardoZT (9811 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+gefecita: posts small blind 125
+Timefalls: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Ks 6c]
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+Helicon2: folds
+melnobile: raises 325 to 575
+gefecita: folds
+Timefalls: folds
+Uncalled bet (325) returned to melnobile
+melnobile collected 865 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 865 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile (button) collected (865)
+Seat 5: gefecita (small blind) folded before Flop
+Seat 6: Timefalls (big blind) folded before Flop
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297125891: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:41:00 BRT [2026/06/30 13:41:00 ET]
+Table '4010772208 6' 8-max Seat #5 is the button
+Seat 1: mti1014 (7126 in chips)
+Seat 2: rigel_poker (11653 in chips)
+Seat 3: Helicon2 (4475 in chips)
+Seat 4: melnobile (20586 in chips)
+Seat 5: gefecita (7039 in chips)
+Seat 6: Timefalls (4253 in chips)
+Seat 7: OlegMX (5820 in chips)
+Seat 8: LeonardoZT (9781 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+Timefalls: posts small blind 125
+OlegMX: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Ad Js]
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+Helicon2: folds
+melnobile: folds
+gefecita: folds
+Timefalls: raises 500 to 750
+OlegMX: folds
+Uncalled bet (500) returned to Timefalls
+Timefalls collected 740 from pot
+Timefalls: doesn't show hand
+*** SUMMARY ***
+Total pot 740 | Rake 0
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita (button) folded before Flop (didn't bet)
+Seat 6: Timefalls (small blind) collected (740)
+Seat 7: OlegMX (big blind) folded before Flop
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297132192: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:41:40 BRT [2026/06/30 13:41:40 ET]
+Table '4010772208 6' 8-max Seat #6 is the button
+Seat 1: mti1014 (7096 in chips)
+Seat 2: rigel_poker (11623 in chips)
+Seat 3: Helicon2 (4445 in chips)
+Seat 4: melnobile (20556 in chips)
+Seat 5: gefecita (7009 in chips)
+Seat 6: Timefalls (4713 in chips)
+Seat 7: OlegMX (5540 in chips)
+Seat 8: LeonardoZT (9751 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+OlegMX: posts small blind 125
+LeonardoZT: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [Kh 4d]
+mti1014: folds
+rigel_poker: calls 250
+Helicon2: folds
+melnobile: raises 625 to 875
+gefecita: folds
+Timefalls: folds
+OlegMX: calls 750
+LeonardoZT: folds
+rigel_poker: calls 625
+*** FLOP *** [8c Qc Tc]
+OlegMX: checks
+rigel_poker: checks
+melnobile: checks
+*** TURN *** [8c Qc Tc] [2c]
+OlegMX: bets 1246
+rigel_poker: folds
+melnobile: folds
+Uncalled bet (1246) returned to OlegMX
+OlegMX collected 3115 from pot
+*** SUMMARY ***
+Total pot 3115 | Rake 0
+Board [8c Qc Tc 2c]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded on the Turn
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile folded on the Turn
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls (button) folded before Flop (didn't bet)
+Seat 7: OlegMX (small blind) collected (3115)
+Seat 8: LeonardoZT (big blind) folded before Flop
+
+PokerStars Hand #261297139013: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:42:24 BRT [2026/06/30 13:42:24 ET]
+Table '4010772208 6' 8-max Seat #7 is the button
+Seat 1: mti1014 (7066 in chips)
+Seat 2: rigel_poker (10718 in chips)
+Seat 3: Helicon2 (4415 in chips)
+Seat 4: melnobile (19651 in chips)
+Seat 5: gefecita (6979 in chips)
+Seat 6: Timefalls (4683 in chips)
+Seat 7: OlegMX (7750 in chips)
+Seat 8: LeonardoZT (9471 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+LeonardoZT: posts small blind 125
+mti1014: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [3s Qs]
+rigel_poker: folds
+Helicon2: folds
+melnobile: raises 325 to 575
+gefecita: folds
+Timefalls: folds
+OlegMX: raises 925 to 1500
+LeonardoZT: folds
+mti1014: folds
+melnobile: calls 925
+*** FLOP *** [3c 9d Jc]
+melnobile: checks
+OlegMX: bets 1000
+melnobile: folds
+Uncalled bet (1000) returned to OlegMX
+OlegMX collected 3615 from pot
+*** SUMMARY ***
+Total pot 3615 | Rake 0
+Board [3c 9d Jc]
+Seat 1: mti1014 (big blind) folded before Flop
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile folded on the Flop
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX (button) collected (3615)
+Seat 8: LeonardoZT (small blind) folded before Flop
+
+PokerStars Hand #261297145439: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:43:05 BRT [2026/06/30 13:43:05 ET]
+Table '4010772208 6' 8-max Seat #8 is the button
+Seat 1: mti1014 (6786 in chips)
+Seat 2: rigel_poker (10688 in chips)
+Seat 3: Helicon2 (4385 in chips)
+Seat 4: melnobile (18121 in chips)
+Seat 5: gefecita (6949 in chips)
+Seat 6: Timefalls (4653 in chips)
+Seat 7: OlegMX (9835 in chips)
+Seat 8: LeonardoZT (9316 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+mti1014: posts small blind 125
+rigel_poker: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [6c 4c]
+Helicon2: folds
+melnobile: folds
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: raises 250 to 500
+mti1014: folds
+rigel_poker: calls 250
+*** FLOP *** [3h 8c Ks]
+rigel_poker: checks
+LeonardoZT: bets 546
+rigel_poker: folds
+Uncalled bet (546) returned to LeonardoZT
+LeonardoZT collected 1365 from pot
+LeonardoZT: doesn't show hand
+*** SUMMARY ***
+Total pot 1365 | Rake 0
+Board [3h 8c Ks]
+Seat 1: mti1014 (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) folded on the Flop
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile folded before Flop (didn't bet)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT (button) collected (1365)
+
+PokerStars Hand #261297151368: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:43:43 BRT [2026/06/30 13:43:43 ET]
+Table '4010772208 6' 8-max Seat #1 is the button
+Seat 1: mti1014 (6631 in chips)
+Seat 2: rigel_poker (10158 in chips)
+Seat 3: Helicon2 (4355 in chips)
+Seat 4: melnobile (18091 in chips)
+Seat 5: gefecita (6919 in chips)
+Seat 6: Timefalls (4623 in chips)
+Seat 7: OlegMX (9805 in chips)
+Seat 8: LeonardoZT (10151 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+rigel_poker: posts small blind 125
+Helicon2: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [7h Jc]
+melnobile: raises 325 to 575
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: calls 450
+Helicon2: calls 325
+*** FLOP *** [5s 2c Ts]
+rigel_poker: checks
+Helicon2: checks
+melnobile: bets 648
+rigel_poker: folds
+Helicon2: folds
+Uncalled bet (648) returned to melnobile
+melnobile collected 1965 from pot
+melnobile: doesn't show hand
+*** SUMMARY ***
+Total pot 1965 | Rake 0
+Board [5s 2c Ts]
+Seat 1: mti1014 (button) folded before Flop (didn't bet)
+Seat 2: rigel_poker (small blind) folded on the Flop
+Seat 3: Helicon2 (big blind) folded on the Flop
+Seat 4: melnobile collected (1965)
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297157410: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:44:22 BRT [2026/06/30 13:44:22 ET]
+Table '4010772208 6' 8-max Seat #2 is the button
+Seat 1: mti1014 (6601 in chips)
+Seat 2: rigel_poker (9553 in chips)
+Seat 3: Helicon2 (3750 in chips)
+Seat 4: melnobile (19451 in chips)
+Seat 5: gefecita (6889 in chips)
+Seat 6: Timefalls (4593 in chips)
+Seat 7: OlegMX (9775 in chips)
+Seat 8: LeonardoZT (10121 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+Helicon2: posts small blind 125
+melnobile: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [2h 2d]
+gefecita: folds
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: folds
+mti1014: raises 250 to 500
+rigel_poker: folds
+Helicon2: calls 375
+melnobile: calls 250
+*** FLOP *** [8c 7s 2c]
+Helicon2: bets 870
+melnobile: folds
+mti1014: raises 4630 to 5500
+Helicon2: calls 2350 and is all-in
+Uncalled bet (2280) returned to mti1014
+*** TURN *** [8c 7s 2c] [8h]
+*** RIVER *** [8c 7s 2c 8h] [5d]
+*** SHOW DOWN ***
+Helicon2: shows [9c 9s] (two pair, Nines and Eights)
+mti1014: shows [Ac 3c] (a pair of Eights)
+Helicon2 collected 8180 from pot
+*** SUMMARY ***
+Total pot 8180 | Rake 0
+Board [8c 7s 2c 8h 5d]
+Seat 1: mti1014 showed [Ac 3c] and lost with a pair of Eights
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: Helicon2 (small blind) showed [9c 9s] and won (8180) with two pair, Nines and Eights
+Seat 4: melnobile (big blind) folded on the Flop
+Seat 5: gefecita folded before Flop (didn't bet)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297165145: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:45:11 BRT [2026/06/30 13:45:11 ET]
+Table '4010772208 6' 8-max Seat #3 is the button
+Seat 1: mti1014 (2851 in chips)
+Seat 2: rigel_poker (9523 in chips)
+Seat 3: Helicon2 (8180 in chips)
+Seat 4: melnobile (18921 in chips)
+Seat 5: gefecita (6859 in chips)
+Seat 6: Timefalls (4563 in chips)
+Seat 7: OlegMX (9745 in chips)
+Seat 8: LeonardoZT (10091 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+melnobile: posts small blind 125
+gefecita: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [2s 8s]
+Timefalls: folds
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: folds
+Helicon2: folds
+melnobile: calls 125
+gefecita: checks
+*** FLOP *** [Jc 4s 4c]
+melnobile: checks
+gefecita: bets 250
+melnobile: folds
+Uncalled bet (250) returned to gefecita
+gefecita collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0
+Board [Jc 4s 4c]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: Helicon2 (button) folded before Flop (didn't bet)
+Seat 4: melnobile (small blind) folded on the Flop
+Seat 5: gefecita (big blind) collected (740)
+Seat 6: Timefalls folded before Flop (didn't bet)
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
+
+PokerStars Hand #261297170295: Tournament #4010772208, $2.94+$0.36 USD Hold'em No Limit - Level X (125/250) - 2026/06/30 14:45:44 BRT [2026/06/30 13:45:44 ET]
+Table '4010772208 6' 8-max Seat #4 is the button
+Seat 1: mti1014 (2821 in chips)
+Seat 2: rigel_poker (9493 in chips)
+Seat 3: Helicon2 (8150 in chips)
+Seat 4: melnobile (18641 in chips)
+Seat 5: gefecita (7319 in chips)
+Seat 6: Timefalls (4533 in chips)
+Seat 7: OlegMX (9715 in chips)
+Seat 8: LeonardoZT (10061 in chips)
+mti1014: posts the ante 30
+rigel_poker: posts the ante 30
+Helicon2: posts the ante 30
+melnobile: posts the ante 30
+gefecita: posts the ante 30
+Timefalls: posts the ante 30
+OlegMX: posts the ante 30
+LeonardoZT: posts the ante 30
+gefecita: posts small blind 125
+Timefalls: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Timefalls [2d As]
+OlegMX: folds
+LeonardoZT: folds
+mti1014: folds
+rigel_poker: raises 250 to 500
+Helicon2: folds
+melnobile: folds
+gefecita: folds
+Timefalls: calls 250
+*** FLOP *** [3d 6h Qh]
+Timefalls: checks
+rigel_poker: bets 410
+Timefalls: raises 3593 to 4003 and is all-in
+rigel_poker: calls 3593
+*** TURN *** [3d 6h Qh] [4h]
+*** RIVER *** [3d 6h Qh 4h] [Js]
+*** SHOW DOWN ***
+Timefalls: shows [2d As] (high card Ace)
+rigel_poker: shows [Ah 9h] (a flush, Ace high)
+rigel_poker collected 9371 from pot
+Timefalls finished the tournament
+*** SUMMARY ***
+Total pot 9371 | Rake 0
+Board [3d 6h Qh 4h Js]
+Seat 1: mti1014 folded before Flop (didn't bet)
+Seat 2: rigel_poker showed [Ah 9h] and won (9371) with a flush, Ace high
+Seat 3: Helicon2 folded before Flop (didn't bet)
+Seat 4: melnobile (button) folded before Flop (didn't bet)
+Seat 5: gefecita (small blind) folded before Flop
+Seat 6: Timefalls (big blind) showed [2d As] and lost with high card Ace
+Seat 7: OlegMX folded before Flop (didn't bet)
+Seat 8: LeonardoZT folded before Flop (didn't bet)
