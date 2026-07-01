@@ -134,10 +134,14 @@ export function TournamentsPage() {
                   </div>
                 </td>
                 <td className="px-4 py-3 text-center">
-                  {t.final_position}/{t.entrants}
+                  {t.status === "registered"
+                    ? "—"
+                    : `${t.final_position}/${t.entrants}`}
                 </td>
                 <td className="px-4 py-3 text-center">
-                  {t.winner ? (
+                  {t.status === "registered" ? (
+                    <Badge variant="registered">Registered</Badge>
+                  ) : t.winner ? (
                     <Badge variant="success">Win</Badge>
                   ) : t.final_table ? (
                     <Badge variant="warning">FT</Badge>
@@ -150,10 +154,10 @@ export function TournamentsPage() {
                 <td
                   className={cn(
                     "px-4 py-3 text-center font-medium",
-                    profitClass(t.profit_base),
+                    t.status !== "registered" && profitClass(t.profit_base),
                   )}
                 >
-                  {formatMoney(t.profit_base)}
+                  {t.status === "registered" ? "—" : formatMoney(t.profit_base)}
                 </td>
                 <td className="px-4 py-3 text-right">
                   <Button

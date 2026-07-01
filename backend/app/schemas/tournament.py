@@ -3,13 +3,14 @@ from datetime import date as date_type
 from datetime import datetime, time
 from decimal import Decimal
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, model_validator
 
 from app.db.enums import (
     BettingStructure,
     BountyType,
     GameType,
     Speed,
+    TournamentStatus,
     TournamentType,
 )
 
@@ -39,18 +40,34 @@ class TournamentCreate(BaseModel):
     buy_in: Decimal = Field(ge=0)
     addon_cost: Decimal = Field(default=Decimal("0"), ge=0)
     guarantee: Decimal | None = Field(default=None, ge=0)
-    prize: Decimal = Field(default=Decimal("0"), ge=0)
-    bounty: Decimal = Field(default=Decimal("0"), ge=0)
+    prize: Decimal | None = Field(default=Decimal("0"), ge=0)
+    bounty: Decimal | None = Field(default=Decimal("0"), ge=0)
 
     rebuys: int = Field(default=0, ge=0)
     reentries: int = Field(default=0, ge=0)
     add_ons: int = Field(default=0, ge=0)
 
-    entrants: int = Field(ge=1)
-    final_position: int = Field(ge=1)
+    entrants: int | None = Field(default=None, ge=1)
+    final_position: int | None = Field(default=None, ge=1)
     duration_minutes: int | None = Field(default=None, ge=0)
     notes: str | None = None
+    status: TournamentStatus = TournamentStatus.COMPLETED
     tag_ids: list[uuid.UUID] = Field(default_factory=list)
+
+    @model_validator(mode="after")
+    def _check_status(self) -> "TournamentCreate":
+        if self.status == TournamentStatus.REGISTERED:
+            # only signed up: results are empty (ignored if sent)
+            self.entrants = None
+            self.final_position = None
+            self.prize = None
+            self.bounty = None
+        else:  # completed: a result is required
+            if self.entrants is None or self.final_position is None:
+                raise ValueError(
+                    "entrants and final_position are required for a completed tournament"
+                )
+        return self
 
 
 class TournamentUpdate(BaseModel):
@@ -83,7 +100,18 @@ class TournamentUpdate(BaseModel):
     final_position: int | None = Field(default=None, ge=1)
     duration_minutes: int | None = Field(default=None, ge=0)
     notes: str | None = None
+    status: TournamentStatus | None = None
     tag_ids: list[uuid.UUID] | None = None
+
+    @model_validator(mode="after")
+    def _check_status(self) -> "TournamentUpdate":
+        # marking back to 'registered' clears any provided results
+        if self.status == TournamentStatus.REGISTERED:
+            self.entrants = None
+            self.final_position = None
+            self.prize = None
+            self.bounty = None
+        return self
 
 
 class TagOut(BaseModel):
@@ -115,13 +143,14 @@ class TournamentOut(BaseModel):
     buy_in: Decimal
     addon_cost: Decimal
     guarantee: Decimal | None
-    prize: Decimal
-    bounty: Decimal
+    prize: Decimal | None
+    bounty: Decimal | None
     rebuys: int
     reentries: int
     add_ons: int
-    entrants: int
-    final_position: int
+    entrants: int | None
+    final_position: int | None
+    status: TournamentStatus
     duration_minutes: int | None
     notes: str | None
     # computed columns (read-only, from DB)

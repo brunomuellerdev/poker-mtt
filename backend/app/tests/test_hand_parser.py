@@ -78,3 +78,24 @@ def test_uncalled_bet_returned_restores_stack():
 def test_empty_text_returns_no_hands():
     assert parse_hands("") == []
     assert parse_hands("garbage line\nanother") == []
+
+
+def test_ante_all_in_with_suffix_parses():
+    # regression: "posts the ante 2 and is all-in" must not break Decimal parsing
+    hands = parse_hands(_file("4010771757"))
+    assert len(hands) > 200
+    h = {x.hand_id: x for x in hands}["261300549216"]
+    pop = next(p for p in h.frames[0].players if p["name"] == "POPOKER1970")
+    assert pop["all_in"] is True
+    assert pop["committed"] == "2"
+    assert pop["stack"] == "0"
+
+
+def test_post_amount_helper_handles_all_in_suffix():
+    from decimal import Decimal
+
+    from app.core.hands.parser import _post_amount
+    assert _post_amount("posts the ante 2 and is all-in") == Decimal("2")
+    assert _post_amount("posts the ante 120") == Decimal("120")
+    assert _post_amount("posts small blind 400") == Decimal("400")
+    assert _post_amount("posts big blind 800 and is all-in") == Decimal("800")

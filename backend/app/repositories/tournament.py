@@ -7,7 +7,7 @@ from sqlalchemy import ColumnElement, Select, select
 from sqlalchemy.orm import Session, selectinload
 
 from app.core.pagination import Page
-from app.db.enums import BountyType, Speed, TournamentType
+from app.db.enums import BountyType, Speed, TournamentStatus, TournamentType
 from app.db.models import Tag, Tournament
 
 
@@ -26,10 +26,16 @@ class TournamentFilters:
 
 
 def filter_clauses(
-    user_id: uuid.UUID, f: TournamentFilters
+    user_id: uuid.UUID, f: TournamentFilters, completed_only: bool = False
 ) -> list[ColumnElement[bool]]:
-    """Shared WHERE conditions — reused by CRUD listing and analytics aggregation."""
+    """Shared WHERE conditions — reused by CRUD listing and analytics aggregation.
+
+    completed_only=True excludes 'registered' tournaments (no result yet), which
+    must never enter metrics. Listing uses the default (shows registered too).
+    """
     clauses: list[ColumnElement[bool]] = [Tournament.user_id == user_id]
+    if completed_only:
+        clauses.append(Tournament.status == TournamentStatus.COMPLETED)
     if f.date_from is not None:
         clauses.append(Tournament.date >= f.date_from)
     if f.date_to is not None:
@@ -112,5 +118,5 @@ class TournamentRepository:
         self, user_id: uuid.UUID, filters: TournamentFilters
     ) -> list[Tournament]:
         """Full (unpaginated) result set for aggregate metrics."""
-        stmt = self._apply_filters(select(Tournament), user_id, filters)
+        stmt = select(Tournament).where(*filter_clauses(user_id, filters, completed_only=True))
         return list(self.db.scalars(stmt))

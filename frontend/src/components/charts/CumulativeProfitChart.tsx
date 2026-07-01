@@ -12,8 +12,32 @@ export function CumulativeProfitChart() {
 
   const option = useMemo<EChartsOption>(() => {
     const points = data ?? [];
-    const last = points.length ? Number(points[points.length - 1].cumulative_base) : 0;
-    const color = last >= 0 ? chartTheme.profit : chartTheme.loss;
+    const raw = points.map((p, i) => ({
+      x: i,
+      y: Number(p.cumulative_base),
+      date: p.date ?? String(i),
+    }));
+
+    // Build the series on a numeric x-axis, inserting a synthetic point at the
+    // exact zero-crossing between two points of opposite sign, so the colour
+    // switches precisely at y = 0 (not at the next data vertex).
+    const series: [number, number][] = [];
+    const labelByX = new Map<number, string>();
+    for (let i = 0; i < raw.length; i++) {
+      if (i > 0) {
+        const a = raw[i - 1];
+        const b = raw[i];
+        if ((a.y < 0 && b.y > 0) || (a.y > 0 && b.y < 0)) {
+          const t = a.y / (a.y - b.y); // fraction a→b where the line hits 0
+          series.push([a.x + t * (b.x - a.x), 0]);
+        }
+      }
+      series.push([raw[i].x, raw[i].y]);
+      labelByX.set(raw[i].x, raw[i].date);
+    }
+
+    const lastX = raw.length ? raw[raw.length - 1].x : 0;
+
     return {
       grid: { left: 56, right: 16, top: 16, bottom: 28 },
       tooltip: {
@@ -21,33 +45,57 @@ export function CumulativeProfitChart() {
         backgroundColor: chartTheme.tooltipBg,
         borderColor: chartTheme.tooltipBorder,
         textStyle: { color: chartTheme.text },
+        formatter: (params: unknown) => {
+          const arr = params as Array<{ value: [number, number] }>;
+          if (!arr.length) return "";
+          const [x, y] = arr[0].value;
+          const label = labelByX.get(Math.round(x)) ?? "";
+          const val = y.toLocaleString("en-US", {
+            style: "currency",
+            currency: "USD",
+          });
+          return `${label}<br/><b>${val}</b>`;
+        },
+      },
+      // colour segments by the y value: green at/above zero, red below
+      visualMap: {
+        show: false,
+        type: "piecewise",
+        dimension: 1,
+        seriesIndex: 0,
+        pieces: [
+          { gte: 0, color: chartTheme.profit },
+          { lt: 0, color: chartTheme.loss },
+        ],
       },
       xAxis: {
-        type: "category",
-        data: points.map((p, i) => p.date ?? String(i)),
+        type: "value",
+        min: 0,
+        max: lastX,
         ...axisCommon,
-        axisLabel: { color: chartTheme.muted, hideOverlap: true },
+        axisLabel: {
+          color: chartTheme.muted,
+          hideOverlap: true,
+          formatter: (val: number) =>
+            Number.isInteger(val) ? (labelByX.get(val) ?? "") : "",
+        },
       },
       yAxis: { type: "value", ...axisCommon },
       series: [
         {
           type: "line",
-          smooth: true,
+          smooth: false,
           showSymbol: false,
-          data: points.map((p) => Number(p.cumulative_base)),
-          lineStyle: { color, width: 2 },
-          areaStyle: {
-            color: {
-              type: "linear",
-              x: 0,
-              y: 0,
-              x2: 0,
-              y2: 1,
-              colorStops: [
-                { offset: 0, color: `${color}55` },
-                { offset: 1, color: `${color}00` },
-              ],
-            },
+          data: series,
+          lineStyle: { width: 2 },
+          areaStyle: { opacity: 0.18 },
+          // mark the zero baseline for reference
+          markLine: {
+            silent: true,
+            symbol: "none",
+            lineStyle: { color: chartTheme.muted, type: "dashed", width: 1 },
+            data: [{ yAxis: 0 }],
+            label: { show: false },
           },
         },
       ],

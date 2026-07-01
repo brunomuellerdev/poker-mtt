@@ -72,6 +72,16 @@ def _num(raw: str) -> Decimal:
     return Decimal(raw.replace("$", "").replace(",", ""))
 
 
+def _post_amount(rest: str) -> Decimal:
+    """Amount from a 'posts ...' line. Handles the trailing 'and is all-in'
+    suffix that appears when the post puts the player all-in (stack < ante/blind).
+    """
+    m = re.search(r"([\d,]+(?:\.\d+)?)(?:\s+and is all-in)?\s*$", rest)
+    if not m:
+        raise ValueError(f"no amount in post line: {rest!r}")
+    return _num(m.group(1))
+
+
 @dataclass
 class PlayerState:
     seat: int
@@ -352,7 +362,7 @@ def parse_hand(block: str) -> ParsedHand:
         all_in = "and is all-in" in rest
 
         if rest.startswith("posts the ante"):
-            amt = _num(rest.split()[-1])
+            amt = _post_amount(rest)
             p.stack -= amt
             p.committed += amt  # ante is dead money: pot only, not street_bet
             if p.stack <= _ZERO:
@@ -361,7 +371,7 @@ def parse_hand(block: str) -> ParsedHand:
         elif rest.startswith(
             ("posts small blind", "posts big blind", "posts small & big blinds")
         ):
-            b.commit(name, _num(rest.split()[-1]))
+            b.commit(name, _post_amount(rest))
         elif rest.startswith("folds"):
             p.folded = True
             b.snapshot(f"{name} folds", actor=name)

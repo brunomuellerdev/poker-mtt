@@ -73,7 +73,7 @@ class AnalyticsRepository:
                 func.count().filter(Tournament.final_table).label("ft_count"),
                 func.count().filter(Tournament.winner).label("win_count"),
             )
-            .where(*filter_clauses(user_id, filters))
+            .where(*filter_clauses(user_id, filters, completed_only=True))
             .group_by(key_expr)
             .order_by(key_expr)
         )
@@ -134,7 +134,7 @@ class AnalyticsRepository:
                 func.coalesce(func.sum(_COST_BASE), 0).label("cost"),
                 func.count().label("tournaments"),
             )
-            .where(*filter_clauses(user_id, filters))
+            .where(*filter_clauses(user_id, filters, completed_only=True))
             .group_by(period_expr)
             .order_by(period_expr)
         )
@@ -159,7 +159,7 @@ class AnalyticsRepository:
         )
         stmt = (
             select(Tournament.date, running.label("cumulative"))
-            .where(*filter_clauses(user_id, filters))
+            .where(*filter_clauses(user_id, filters, completed_only=True))
             .order_by(
                 Tournament.date,
                 Tournament.start_time.nulls_first(),
@@ -184,7 +184,7 @@ class AnalyticsRepository:
                 func.coalesce(func.sum(Tournament.profit_base), 0).label("profit"),
                 func.coalesce(func.sum(_COST_BASE), 0).label("cost"),
             )
-            .where(*filter_clauses(user_id, filters))
+            .where(*filter_clauses(user_id, filters, completed_only=True))
             .where(Tournament.start_time.is_not(None))
             .group_by(weekday, hour)
         )

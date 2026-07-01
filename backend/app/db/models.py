@@ -28,6 +28,7 @@ from app.db.enums import (
     BountyType,
     GameType,
     Speed,
+    TournamentStatus,
     TournamentType,
 )
 
@@ -46,8 +47,9 @@ def _pg_enum(enum_cls: type, name: str, length: int):
 
 # Cost expression reused across generated columns (PG forbids GENERATED -> GENERATED)
 _COST_EXPR = "buy_in * (1 + rebuys + reentries) + addon_cost"
-# Total winnings = regular (position) prize + bounty (knockout) winnings
-_WINNINGS_EXPR = "prize + bounty"
+# Total winnings = position prize + bounty. COALESCE so 'registered' rows
+# (prize/bounty NULL) yield 0 instead of NULL (generated cols are NOT NULL).
+_WINNINGS_EXPR = "COALESCE(prize, 0) + COALESCE(bounty, 0)"
 
 
 class User(UUIDMixin, TimestampMixin, Base):
@@ -171,12 +173,13 @@ class Tournament(UUIDMixin, TimestampMixin, Base):
         Numeric(12, 2), nullable=False, default=Decimal("0"), server_default=text("0")
     )
     guarantee: Mapped[Decimal | None] = mapped_column(Numeric(14, 2), nullable=True)
-    prize: Mapped[Decimal] = mapped_column(
-        Numeric(14, 2), nullable=False, default=Decimal("0"), server_default=text("0")
+    # nullable: empty while only 'registered'; a completed tournament sets these
+    prize: Mapped[Decimal | None] = mapped_column(
+        Numeric(14, 2), nullable=True, default=Decimal("0"), server_default=text("0")
     )
     # bounty/knockout winnings — earned per elimination, independent of ITM
-    bounty: Mapped[Decimal] = mapped_column(
-        Numeric(14, 2), nullable=False, default=Decimal("0"), server_default=text("0")
+    bounty: Mapped[Decimal | None] = mapped_column(
+        Numeric(14, 2), nullable=True, default=Decimal("0"), server_default=text("0")
     )
 
     rebuys: Mapped[int] = mapped_column(
@@ -189,10 +192,18 @@ class Tournament(UUIDMixin, TimestampMixin, Base):
         SmallInteger, nullable=False, default=0, server_default=text("0")
     )
 
-    entrants: Mapped[int] = mapped_column(Integer, nullable=False)
-    final_position: Mapped[int] = mapped_column(Integer, nullable=False)
+    entrants: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    final_position: Mapped[int | None] = mapped_column(Integer, nullable=True)
     duration_minutes: Mapped[int | None] = mapped_column(Integer, nullable=True)
     notes: Mapped[str | None] = mapped_column(Text, nullable=True)
+
+    # 'registered' = only signed up, no result yet (excluded from all metrics);
+    # 'completed' = has a result and counts in metrics
+    status: Mapped[TournamentStatus] = mapped_column(
+        _pg_enum(TournamentStatus, "ck_tour_status", 12),
+        nullable=False,
+        server_default=TournamentStatus.COMPLETED.value,
+    )
 
     # generated columns (expressions inlined; see _COST_EXPR / _WINNINGS_EXPR)
     total_cost: Mapped[Decimal] = mapped_column(
@@ -212,13 +223,16 @@ class Tournament(UUIDMixin, TimestampMixin, Base):
             persisted=True,
         ),
     )
-    # ITM is determined by the POSITION prize only, not bounty winnings
-    itm: Mapped[bool] = mapped_column(Computed("prize > 0", persisted=True))
+    # ITM is determined by the POSITION prize only, not bounty winnings.
+    # COALESCE so 'registered' rows (prize/final_position NULL) yield false.
+    itm: Mapped[bool] = mapped_column(Computed("COALESCE(prize > 0, false)", persisted=True))
     winner: Mapped[bool] = mapped_column(
-        Computed("final_position = 1", persisted=True)
+        Computed("COALESCE(final_position = 1, false)", persisted=True)
     )
     final_table: Mapped[bool] = mapped_column(
-        Computed("final_position <= final_table_size", persisted=True)
+        Computed(
+            "COALESCE(final_position <= final_table_size, false)", persisted=True
+        )
     )
 
     user: Mapped["User"] = relationship(back_populates="tournaments")

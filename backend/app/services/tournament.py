@@ -47,6 +47,15 @@ class TournamentService:
         for key, value in changes.items():
             setattr(tournament, key, value)
 
+        # a 'registered' tournament never carries a result, whatever was sent
+        from app.db.enums import TournamentStatus
+
+        if tournament.status == TournamentStatus.REGISTERED:
+            tournament.entrants = None
+            tournament.final_position = None
+            tournament.prize = None
+            tournament.bounty = None
+
         if data.tag_ids is not None:
             tournament.tags.clear()
             self._attach_tags(user_id, tournament, data.tag_ids)

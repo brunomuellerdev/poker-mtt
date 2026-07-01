@@ -43,3 +43,10 @@ class BountyType(enum.StrEnum):
     KNOCKOUT = "knockout"
     PROGRESSIVE = "progressive"  # PKO
     MYSTERY = "mystery"
+
+
+class TournamentStatus(enum.StrEnum):
+    # only registered (no result yet) — excluded from all metrics
+    REGISTERED = "registered"
+    # played and has a result — counts in metrics
+    COMPLETED = "completed"

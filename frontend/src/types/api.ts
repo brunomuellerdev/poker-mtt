@@ -29,6 +29,8 @@ export interface Tag {
   name: string;
 }
 
+export type TournamentStatus = "registered" | "completed";
+
 export interface Tournament {
   id: string;
   date: string;
@@ -50,13 +52,14 @@ export interface Tournament {
   buy_in: string;
   addon_cost: string;
   guarantee: string | null;
-  prize: string;
-  bounty: string;
+  prize: string | null;
+  bounty: string | null;
   rebuys: number;
   reentries: number;
   add_ons: number;
-  entrants: number;
-  final_position: number;
+  entrants: number | null;
+  final_position: number | null;
+  status: TournamentStatus;
   duration_minutes: number | null;
   notes: string | null;
   total_cost: string;
@@ -91,13 +94,14 @@ export interface TournamentCreate {
   buy_in: string;
   addon_cost?: string;
   guarantee?: string | null;
-  prize?: string;
-  bounty?: string;
+  prize?: string | null;
+  bounty?: string | null;
   rebuys?: number;
   reentries?: number;
   add_ons?: number;
-  entrants: number;
-  final_position: number;
+  entrants?: number | null;
+  final_position?: number | null;
+  status?: TournamentStatus;
   duration_minutes?: number | null;
   notes?: string | null;
   tag_ids?: string[];

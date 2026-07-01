@@ -58,6 +58,7 @@ const EMPTY: TournamentCreate = {
   bounty: "0",
   entrants: 0,
   final_position: 0,
+  status: "completed",
 };
 
 function toFormState(t: Tournament): TournamentCreate {
@@ -88,6 +89,7 @@ function toFormState(t: Tournament): TournamentCreate {
     add_ons: t.add_ons,
     entrants: t.entrants,
     final_position: t.final_position,
+    status: t.status,
     duration_minutes: t.duration_minutes,
     notes: t.notes,
     tag_ids: t.tags.map((tag) => tag.id),
@@ -118,14 +120,26 @@ export function TournamentFormDialog({ open, onClose, tournament }: Props) {
     setForm((f) => ({ ...f, [key]: value }));
   }
 
+  const registered = form.status === "registered";
+
   async function onSubmit(e: FormEvent) {
     e.preventDefault();
     setError(null);
+    // a registered (signed-up-only) tournament carries no result
+    const payload: TournamentCreate = registered
+      ? {
+          ...form,
+          entrants: null,
+          final_position: null,
+          prize: null,
+          bounty: null,
+        }
+      : form;
     try {
       if (tournament) {
-        await update.mutateAsync({ id: tournament.id, data: form });
+        await update.mutateAsync({ id: tournament.id, data: payload });
       } else {
-        await create.mutateAsync(form);
+        await create.mutateAsync(payload);
       }
       onClose();
     } catch (err) {
@@ -142,6 +156,22 @@ export function TournamentFormDialog({ open, onClose, tournament }: Props) {
           {isEdit ? "Edit tournament" : "Add tournament"}
         </h2>
         <form onSubmit={onSubmit} className="grid grid-cols-2 gap-4">
+          <label className="col-span-2 flex cursor-pointer items-center gap-2 rounded-md border border-border bg-secondary/40 p-3 text-sm">
+            <input
+              type="checkbox"
+              className="h-4 w-4"
+              checked={registered}
+              onChange={(e) =>
+                set("status", e.target.checked ? "registered" : "completed")
+              }
+            />
+            <span>
+              <span className="font-medium">Apenas inscrito (Registered)</span>
+              <span className="ml-2 text-muted-foreground">
+                — sem resultado ainda; não conta nas métricas. Preencha depois.
+              </span>
+            </span>
+          </label>
           <Field label="Date">
             <Input
               type="date"
@@ -276,22 +306,26 @@ export function TournamentFormDialog({ open, onClose, tournament }: Props) {
               required
             />
           </Field>
-          <Field label="Prize">
-            <Input
-              type="number"
-              step="0.01"
-              value={form.prize ?? "0"}
-              onChange={(e) => set("prize", e.target.value)}
-            />
-          </Field>
-          <Field label="Bounty">
-            <Input
-              type="number"
-              step="0.01"
-              value={form.bounty ?? "0"}
-              onChange={(e) => set("bounty", e.target.value)}
-            />
-          </Field>
+          {!registered && (
+            <>
+              <Field label="Prize">
+                <Input
+                  type="number"
+                  step="0.01"
+                  value={form.prize ?? "0"}
+                  onChange={(e) => set("prize", e.target.value)}
+                />
+              </Field>
+              <Field label="Bounty">
+                <Input
+                  type="number"
+                  step="0.01"
+                  value={form.bounty ?? "0"}
+                  onChange={(e) => set("bounty", e.target.value)}
+                />
+              </Field>
+            </>
+          )}
           <Field label="Rebuys">
             <Input
               type="number"
@@ -314,22 +348,26 @@ export function TournamentFormDialog({ open, onClose, tournament }: Props) {
               onChange={(e) => set("addon_cost", e.target.value)}
             />
           </Field>
-          <Field label="Entrants">
-            <Input
-              type="number"
-              value={form.entrants}
-              onChange={(e) => set("entrants", Number(e.target.value))}
-              required
-            />
-          </Field>
-          <Field label="Final position">
-            <Input
-              type="number"
-              value={form.final_position}
-              onChange={(e) => set("final_position", Number(e.target.value))}
-              required
-            />
-          </Field>
+          {!registered && (
+            <>
+              <Field label="Entrants">
+                <Input
+                  type="number"
+                  value={form.entrants ?? 0}
+                  onChange={(e) => set("entrants", Number(e.target.value))}
+                  required
+                />
+              </Field>
+              <Field label="Final position">
+                <Input
+                  type="number"
+                  value={form.final_position ?? 0}
+                  onChange={(e) => set("final_position", Number(e.target.value))}
+                  required
+                />
+              </Field>
+            </>
+          )}
 
           {error && (
             <p className="col-span-2 text-sm text-destructive">{error}</p>
