@@ -18,26 +18,30 @@ export function CumulativeProfitChart() {
       date: p.date ?? String(i),
     }));
 
-    // Build the series on a numeric x-axis, inserting a synthetic point at the
-    // exact zero-crossing between two points of opposite sign, so the colour
-    // switches precisely at y = 0 (not at the next data vertex).
-    const series: [number, number][] = [];
-    const labelByX = new Map<number, string>();
+    // Augment with a synthetic point exactly at each zero-crossing so the
+    // colour switches precisely at y = 0 (not at the next data vertex).
+    const aug: { x: number; y: number; date: string | null }[] = [];
     for (let i = 0; i < raw.length; i++) {
       if (i > 0) {
         const a = raw[i - 1];
         const b = raw[i];
         if ((a.y < 0 && b.y > 0) || (a.y > 0 && b.y < 0)) {
-          const t = a.y / (a.y - b.y); // fraction a→b where the line hits 0
-          series.push([a.x + t * (b.x - a.x), 0]);
+          const t = a.y / (a.y - b.y);
+          aug.push({ x: a.x + t * (b.x - a.x), y: 0, date: null });
         }
       }
-      series.push([raw[i].x, raw[i].y]);
-      labelByX.set(raw[i].x, raw[i].date);
+      aug.push({ x: raw[i].x, y: raw[i].y, date: raw[i].date });
     }
 
-    const lastX = raw.length ? raw[raw.length - 1].x : 0;
-    const maxX = Math.max(lastX, 1);
+    // Two overlaid series (no visualMap — it crashes line charts in echarts 6):
+    // green carries the >= 0 portion, red the <= 0 portion. Both include the
+    // zero-crossing points so the segments meet exactly at the axis.
+    const green = aug.map((p) => [p.x, p.y >= 0 ? p.y : null]);
+    const red = aug.map((p) => [p.x, p.y <= 0 ? p.y : null]);
+
+    const labelByX = new Map<number, string>();
+    for (const p of raw) labelByX.set(p.x, p.date);
+    const maxX = Math.max(raw.length ? raw[raw.length - 1].x : 0, 1);
 
     return {
       grid: { left: 56, right: 16, top: 16, bottom: 28 },
@@ -47,27 +51,17 @@ export function CumulativeProfitChart() {
         borderColor: chartTheme.tooltipBorder,
         textStyle: { color: chartTheme.text },
         formatter: (params: unknown) => {
-          const arr = params as Array<{ value: [number, number] }>;
-          if (!arr.length) return "";
-          const [x, y] = arr[0].value;
+          const arr = params as Array<{ value: [number, number | null] }>;
+          const real = arr.find((a) => a.value && a.value[1] !== null);
+          if (!real) return "";
+          const [x, y] = real.value;
           const label = labelByX.get(Math.round(x)) ?? "";
-          const val = y.toLocaleString("en-US", {
+          const val = (y ?? 0).toLocaleString("en-US", {
             style: "currency",
             currency: "USD",
           });
           return `${label}<br/><b>${val}</b>`;
         },
-      },
-      // colour segments by the y value: green at/above zero, red below
-      visualMap: {
-        show: false,
-        type: "piecewise",
-        dimension: 1,
-        seriesIndex: 0,
-        pieces: [
-          { gte: 0, color: chartTheme.profit },
-          { lt: 0, color: chartTheme.loss },
-        ],
       },
       xAxis: {
         type: "value",
@@ -85,11 +79,23 @@ export function CumulativeProfitChart() {
       series: [
         {
           type: "line",
+          name: "green",
           smooth: false,
           showSymbol: false,
-          data: series,
-          lineStyle: { width: 2 },
-          areaStyle: { opacity: 0.18 },
+          data: green,
+          connectNulls: false,
+          lineStyle: { color: chartTheme.profit, width: 2 },
+          areaStyle: { color: chartTheme.profit, opacity: 0.18 },
+        },
+        {
+          type: "line",
+          name: "red",
+          smooth: false,
+          showSymbol: false,
+          data: red,
+          connectNulls: false,
+          lineStyle: { color: chartTheme.loss, width: 2 },
+          areaStyle: { color: chartTheme.loss, opacity: 0.18 },
         },
       ],
     };
