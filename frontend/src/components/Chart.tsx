@@ -1,7 +1,6 @@
 import { BarChart, HeatmapChart, LineChart } from "echarts/charts";
 import {
   GridComponent,
-  MarkLineComponent,
   TooltipComponent,
   VisualMapComponent,
 } from "echarts/components";
@@ -17,7 +16,6 @@ echarts.use([
   GridComponent,
   TooltipComponent,
   VisualMapComponent,
-  MarkLineComponent,
   CanvasRenderer,
 ]);
 

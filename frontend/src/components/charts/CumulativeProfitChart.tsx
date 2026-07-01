@@ -37,6 +37,7 @@ export function CumulativeProfitChart() {
     }
 
     const lastX = raw.length ? raw[raw.length - 1].x : 0;
+    const maxX = Math.max(lastX, 1);
 
     return {
       grid: { left: 56, right: 16, top: 16, bottom: 28 },
@@ -71,7 +72,7 @@ export function CumulativeProfitChart() {
       xAxis: {
         type: "value",
         min: 0,
-        max: lastX,
+        max: maxX,
         ...axisCommon,
         axisLabel: {
           color: chartTheme.muted,
@@ -89,14 +90,6 @@ export function CumulativeProfitChart() {
           data: series,
           lineStyle: { width: 2 },
           areaStyle: { opacity: 0.18 },
-          // mark the zero baseline for reference
-          markLine: {
-            silent: true,
-            symbol: "none",
-            lineStyle: { color: chartTheme.muted, type: "dashed", width: 1 },
-            data: [{ yAxis: 0 }],
-            label: { show: false },
-          },
         },
       ],
     };
