@@ -60,7 +60,7 @@ def _to_result(t: Tournament) -> TournamentResult:
         rebuys=t.rebuys,
         reentries=t.reentries,
         addon_cost=t.addon_cost,
-        prize=t.prize,
+        prize=t.prize,  # None (registered) normalized in TournamentResult
         bounty=t.bounty,
         fx_rate_to_base=t.fx_rate_to_base,
         final_position=t.final_position,

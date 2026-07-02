@@ -212,3 +212,29 @@ def test_classify_half_open_intervals():
 
 def test_classify_none_value_returns_none():
     assert classify(None, [Band(None, None, "x")]) is None
+
+
+def test_summarize_tolerates_null_result_fields():
+    # 'registered' tournaments (and any legacy completed rows) may carry NULL
+    # prize/bounty/final_position; the engine must not raise.
+    t = TournamentResult(
+        id=uuid.uuid4(),
+        date=date(2026, 6, 30),
+        start_time=None,
+        buy_in=Decimal("10"),
+        rebuys=0,
+        reentries=0,
+        addon_cost=Decimal("0"),
+        prize=None,
+        bounty=None,
+        fx_rate_to_base=Decimal("1"),
+        final_position=None,
+        final_table_size=9,
+    )
+    s = summarize([t])
+    assert s.total_prize_base == Decimal("0")
+    assert s.total_bounty_base == Decimal("0")
+    assert s.itm_pct == Decimal("0")
+    assert s.win_pct == Decimal("0")
+    # profit = winnings(0) - cost(10) = -10
+    assert s.total_profit_base == Decimal("-10")

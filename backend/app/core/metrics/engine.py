@@ -32,11 +32,21 @@ class TournamentResult:
     rebuys: int
     reentries: int
     addon_cost: Decimal
-    prize: Decimal
-    bounty: Decimal
+    prize: Decimal | None
+    bounty: Decimal | None
     fx_rate_to_base: Decimal
-    final_position: int
+    final_position: int | None
     final_table_size: int
+
+    def __post_init__(self) -> None:
+        # nullable in DB for 'registered' tournaments; normalize so every
+        # downstream calc operates on non-null values regardless of caller
+        if self.prize is None:
+            object.__setattr__(self, "prize", _ZERO)
+        if self.bounty is None:
+            object.__setattr__(self, "bounty", _ZERO)
+        if self.final_position is None:
+            object.__setattr__(self, "final_position", 0)
 
 
 # --- per-tournament (native) ---
